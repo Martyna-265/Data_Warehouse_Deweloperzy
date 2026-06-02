@@ -1,0 +1,1024 @@
+0000000,POLSKA,1 kwarta³,2025,,szt.,n,ogó³em,ogó³em
+0000000,POLSKA,1 kwarta³,2025,,szt.,n,ogó³em,do 40 m2
+0000000,POLSKA,1 kwarta³,2025,,szt.,n,ogó³em,od 40,1 do 60 m2
+0000000,POLSKA,1 kwarta³,2025,,szt.,n,ogó³em,od 60,1 do 80 m2
+0000000,POLSKA,1 kwarta³,2025,,szt.,n,ogó³em,od 80,1 m2
+0000000,POLSKA,1 kwarta³,2025,,szt.,n,rynek pierwotny,ogó³em
+0000000,POLSKA,1 kwarta³,2025,,szt.,n,rynek pierwotny,do 40 m2
+0000000,POLSKA,1 kwarta³,2025,,szt.,n,rynek pierwotny,od 40,1 do 60 m2
+0000000,POLSKA,1 kwarta³,2025,,szt.,n,rynek pierwotny,od 60,1 do 80 m2
+0000000,POLSKA,1 kwarta³,2025,,szt.,n,rynek pierwotny,od 80,1 m2
+0000000,POLSKA,1 kwarta³,2025,,szt.,n,rynek wtórny,ogó³em
+0000000,POLSKA,1 kwarta³,2025,,szt.,n,rynek wtórny,do 40 m2
+0000000,POLSKA,1 kwarta³,2025,,szt.,n,rynek wtórny,od 40,1 do 60 m2
+0000000,POLSKA,1 kwarta³,2025,,szt.,n,rynek wtórny,od 60,1 do 80 m2
+0000000,POLSKA,1 kwarta³,2025,,szt.,n,rynek wtórny,od 80,1 m2
+0000000,POLSKA,2 kwarta³,2025,,szt.,n,ogó³em,ogó³em
+0000000,POLSKA,2 kwarta³,2025,,szt.,n,ogó³em,do 40 m2
+0000000,POLSKA,2 kwarta³,2025,,szt.,n,ogó³em,od 40,1 do 60 m2
+0000000,POLSKA,2 kwarta³,2025,,szt.,n,ogó³em,od 60,1 do 80 m2
+0000000,POLSKA,2 kwarta³,2025,,szt.,n,ogó³em,od 80,1 m2
+0000000,POLSKA,2 kwarta³,2025,,szt.,n,rynek pierwotny,ogó³em
+0000000,POLSKA,2 kwarta³,2025,,szt.,n,rynek pierwotny,do 40 m2
+0000000,POLSKA,2 kwarta³,2025,,szt.,n,rynek pierwotny,od 40,1 do 60 m2
+0000000,POLSKA,2 kwarta³,2025,,szt.,n,rynek pierwotny,od 60,1 do 80 m2
+0000000,POLSKA,2 kwarta³,2025,,szt.,n,rynek pierwotny,od 80,1 m2
+0000000,POLSKA,2 kwarta³,2025,,szt.,n,rynek wtórny,ogó³em
+0000000,POLSKA,2 kwarta³,2025,,szt.,n,rynek wtórny,do 40 m2
+0000000,POLSKA,2 kwarta³,2025,,szt.,n,rynek wtórny,od 40,1 do 60 m2
+0000000,POLSKA,2 kwarta³,2025,,szt.,n,rynek wtórny,od 60,1 do 80 m2
+0000000,POLSKA,2 kwarta³,2025,,szt.,n,rynek wtórny,od 80,1 m2
+0000000,POLSKA,3 kwarta³,2025,,szt.,n,ogó³em,ogó³em
+0000000,POLSKA,3 kwarta³,2025,,szt.,n,ogó³em,do 40 m2
+0000000,POLSKA,3 kwarta³,2025,,szt.,n,ogó³em,od 40,1 do 60 m2
+0000000,POLSKA,3 kwarta³,2025,,szt.,n,ogó³em,od 60,1 do 80 m2
+0000000,POLSKA,3 kwarta³,2025,,szt.,n,ogó³em,od 80,1 m2
+0000000,POLSKA,3 kwarta³,2025,,szt.,n,rynek pierwotny,ogó³em
+0000000,POLSKA,3 kwarta³,2025,,szt.,n,rynek pierwotny,do 40 m2
+0000000,POLSKA,3 kwarta³,2025,,szt.,n,rynek pierwotny,od 40,1 do 60 m2
+0000000,POLSKA,3 kwarta³,2025,,szt.,n,rynek pierwotny,od 60,1 do 80 m2
+0000000,POLSKA,3 kwarta³,2025,,szt.,n,rynek pierwotny,od 80,1 m2
+0000000,POLSKA,3 kwarta³,2025,,szt.,n,rynek wtórny,ogó³em
+0000000,POLSKA,3 kwarta³,2025,,szt.,n,rynek wtórny,do 40 m2
+0000000,POLSKA,3 kwarta³,2025,,szt.,n,rynek wtórny,od 40,1 do 60 m2
+0000000,POLSKA,3 kwarta³,2025,,szt.,n,rynek wtórny,od 60,1 do 80 m2
+0000000,POLSKA,3 kwarta³,2025,,szt.,n,rynek wtórny,od 80,1 m2
+0000000,POLSKA,4 kwarta³,2025,,szt.,n,ogó³em,ogó³em
+0000000,POLSKA,4 kwarta³,2025,,szt.,n,ogó³em,do 40 m2
+0000000,POLSKA,4 kwarta³,2025,,szt.,n,ogó³em,od 40,1 do 60 m2
+0000000,POLSKA,4 kwarta³,2025,,szt.,n,ogó³em,od 60,1 do 80 m2
+0000000,POLSKA,4 kwarta³,2025,,szt.,n,ogó³em,od 80,1 m2
+0000000,POLSKA,4 kwarta³,2025,,szt.,n,rynek pierwotny,ogó³em
+0000000,POLSKA,4 kwarta³,2025,,szt.,n,rynek pierwotny,do 40 m2
+0000000,POLSKA,4 kwarta³,2025,,szt.,n,rynek pierwotny,od 40,1 do 60 m2
+0000000,POLSKA,4 kwarta³,2025,,szt.,n,rynek pierwotny,od 60,1 do 80 m2
+0000000,POLSKA,4 kwarta³,2025,,szt.,n,rynek pierwotny,od 80,1 m2
+0000000,POLSKA,4 kwarta³,2025,,szt.,n,rynek wtórny,ogó³em
+0000000,POLSKA,4 kwarta³,2025,,szt.,n,rynek wtórny,do 40 m2
+0000000,POLSKA,4 kwarta³,2025,,szt.,n,rynek wtórny,od 40,1 do 60 m2
+0000000,POLSKA,4 kwarta³,2025,,szt.,n,rynek wtórny,od 60,1 do 80 m2
+0000000,POLSKA,4 kwarta³,2025,,szt.,n,rynek wtórny,od 80,1 m2
+0200000,DOLNOŒL¥SKIE,1 kwarta³,2025,,szt.,n,ogó³em,ogó³em
+0200000,DOLNOŒL¥SKIE,1 kwarta³,2025,,szt.,n,ogó³em,do 40 m2
+0200000,DOLNOŒL¥SKIE,1 kwarta³,2025,,szt.,n,ogó³em,od 40,1 do 60 m2
+0200000,DOLNOŒL¥SKIE,1 kwarta³,2025,,szt.,n,ogó³em,od 60,1 do 80 m2
+0200000,DOLNOŒL¥SKIE,1 kwarta³,2025,,szt.,n,ogó³em,od 80,1 m2
+0200000,DOLNOŒL¥SKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,ogó³em
+0200000,DOLNOŒL¥SKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,do 40 m2
+0200000,DOLNOŒL¥SKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,od 40,1 do 60 m2
+0200000,DOLNOŒL¥SKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,od 60,1 do 80 m2
+0200000,DOLNOŒL¥SKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,od 80,1 m2
+0200000,DOLNOŒL¥SKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,ogó³em
+0200000,DOLNOŒL¥SKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,do 40 m2
+0200000,DOLNOŒL¥SKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,od 40,1 do 60 m2
+0200000,DOLNOŒL¥SKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,od 60,1 do 80 m2
+0200000,DOLNOŒL¥SKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,od 80,1 m2
+0200000,DOLNOŒL¥SKIE,2 kwarta³,2025,,szt.,n,ogó³em,ogó³em
+0200000,DOLNOŒL¥SKIE,2 kwarta³,2025,,szt.,n,ogó³em,do 40 m2
+0200000,DOLNOŒL¥SKIE,2 kwarta³,2025,,szt.,n,ogó³em,od 40,1 do 60 m2
+0200000,DOLNOŒL¥SKIE,2 kwarta³,2025,,szt.,n,ogó³em,od 60,1 do 80 m2
+0200000,DOLNOŒL¥SKIE,2 kwarta³,2025,,szt.,n,ogó³em,od 80,1 m2
+0200000,DOLNOŒL¥SKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,ogó³em
+0200000,DOLNOŒL¥SKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,do 40 m2
+0200000,DOLNOŒL¥SKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,od 40,1 do 60 m2
+0200000,DOLNOŒL¥SKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,od 60,1 do 80 m2
+0200000,DOLNOŒL¥SKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,od 80,1 m2
+0200000,DOLNOŒL¥SKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,ogó³em
+0200000,DOLNOŒL¥SKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,do 40 m2
+0200000,DOLNOŒL¥SKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,od 40,1 do 60 m2
+0200000,DOLNOŒL¥SKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,od 60,1 do 80 m2
+0200000,DOLNOŒL¥SKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,od 80,1 m2
+0200000,DOLNOŒL¥SKIE,3 kwarta³,2025,,szt.,n,ogó³em,ogó³em
+0200000,DOLNOŒL¥SKIE,3 kwarta³,2025,,szt.,n,ogó³em,do 40 m2
+0200000,DOLNOŒL¥SKIE,3 kwarta³,2025,,szt.,n,ogó³em,od 40,1 do 60 m2
+0200000,DOLNOŒL¥SKIE,3 kwarta³,2025,,szt.,n,ogó³em,od 60,1 do 80 m2
+0200000,DOLNOŒL¥SKIE,3 kwarta³,2025,,szt.,n,ogó³em,od 80,1 m2
+0200000,DOLNOŒL¥SKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,ogó³em
+0200000,DOLNOŒL¥SKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,do 40 m2
+0200000,DOLNOŒL¥SKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,od 40,1 do 60 m2
+0200000,DOLNOŒL¥SKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,od 60,1 do 80 m2
+0200000,DOLNOŒL¥SKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,od 80,1 m2
+0200000,DOLNOŒL¥SKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,ogó³em
+0200000,DOLNOŒL¥SKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,do 40 m2
+0200000,DOLNOŒL¥SKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,od 40,1 do 60 m2
+0200000,DOLNOŒL¥SKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,od 60,1 do 80 m2
+0200000,DOLNOŒL¥SKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,od 80,1 m2
+0200000,DOLNOŒL¥SKIE,4 kwarta³,2025,,szt.,n,ogó³em,ogó³em
+0200000,DOLNOŒL¥SKIE,4 kwarta³,2025,,szt.,n,ogó³em,do 40 m2
+0200000,DOLNOŒL¥SKIE,4 kwarta³,2025,,szt.,n,ogó³em,od 40,1 do 60 m2
+0200000,DOLNOŒL¥SKIE,4 kwarta³,2025,,szt.,n,ogó³em,od 60,1 do 80 m2
+0200000,DOLNOŒL¥SKIE,4 kwarta³,2025,,szt.,n,ogó³em,od 80,1 m2
+0200000,DOLNOŒL¥SKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,ogó³em
+0200000,DOLNOŒL¥SKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,do 40 m2
+0200000,DOLNOŒL¥SKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,od 40,1 do 60 m2
+0200000,DOLNOŒL¥SKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,od 60,1 do 80 m2
+0200000,DOLNOŒL¥SKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,od 80,1 m2
+0200000,DOLNOŒL¥SKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,ogó³em
+0200000,DOLNOŒL¥SKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,do 40 m2
+0200000,DOLNOŒL¥SKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,od 40,1 do 60 m2
+0200000,DOLNOŒL¥SKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,od 60,1 do 80 m2
+0200000,DOLNOŒL¥SKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,od 80,1 m2
+0400000,KUJAWSKO-POMORSKIE,1 kwarta³,2025,,szt.,n,ogó³em,ogó³em
+0400000,KUJAWSKO-POMORSKIE,1 kwarta³,2025,,szt.,n,ogó³em,do 40 m2
+0400000,KUJAWSKO-POMORSKIE,1 kwarta³,2025,,szt.,n,ogó³em,od 40,1 do 60 m2
+0400000,KUJAWSKO-POMORSKIE,1 kwarta³,2025,,szt.,n,ogó³em,od 60,1 do 80 m2
+0400000,KUJAWSKO-POMORSKIE,1 kwarta³,2025,,szt.,n,ogó³em,od 80,1 m2
+0400000,KUJAWSKO-POMORSKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,ogó³em
+0400000,KUJAWSKO-POMORSKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,do 40 m2
+0400000,KUJAWSKO-POMORSKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,od 40,1 do 60 m2
+0400000,KUJAWSKO-POMORSKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,od 60,1 do 80 m2
+0400000,KUJAWSKO-POMORSKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,od 80,1 m2
+0400000,KUJAWSKO-POMORSKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,ogó³em
+0400000,KUJAWSKO-POMORSKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,do 40 m2
+0400000,KUJAWSKO-POMORSKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,od 40,1 do 60 m2
+0400000,KUJAWSKO-POMORSKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,od 60,1 do 80 m2
+0400000,KUJAWSKO-POMORSKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,od 80,1 m2
+0400000,KUJAWSKO-POMORSKIE,2 kwarta³,2025,,szt.,n,ogó³em,ogó³em
+0400000,KUJAWSKO-POMORSKIE,2 kwarta³,2025,,szt.,n,ogó³em,do 40 m2
+0400000,KUJAWSKO-POMORSKIE,2 kwarta³,2025,,szt.,n,ogó³em,od 40,1 do 60 m2
+0400000,KUJAWSKO-POMORSKIE,2 kwarta³,2025,,szt.,n,ogó³em,od 60,1 do 80 m2
+0400000,KUJAWSKO-POMORSKIE,2 kwarta³,2025,,szt.,n,ogó³em,od 80,1 m2
+0400000,KUJAWSKO-POMORSKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,ogó³em
+0400000,KUJAWSKO-POMORSKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,do 40 m2
+0400000,KUJAWSKO-POMORSKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,od 40,1 do 60 m2
+0400000,KUJAWSKO-POMORSKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,od 60,1 do 80 m2
+0400000,KUJAWSKO-POMORSKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,od 80,1 m2
+0400000,KUJAWSKO-POMORSKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,ogó³em
+0400000,KUJAWSKO-POMORSKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,do 40 m2
+0400000,KUJAWSKO-POMORSKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,od 40,1 do 60 m2
+0400000,KUJAWSKO-POMORSKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,od 60,1 do 80 m2
+0400000,KUJAWSKO-POMORSKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,od 80,1 m2
+0400000,KUJAWSKO-POMORSKIE,3 kwarta³,2025,,szt.,n,ogó³em,ogó³em
+0400000,KUJAWSKO-POMORSKIE,3 kwarta³,2025,,szt.,n,ogó³em,do 40 m2
+0400000,KUJAWSKO-POMORSKIE,3 kwarta³,2025,,szt.,n,ogó³em,od 40,1 do 60 m2
+0400000,KUJAWSKO-POMORSKIE,3 kwarta³,2025,,szt.,n,ogó³em,od 60,1 do 80 m2
+0400000,KUJAWSKO-POMORSKIE,3 kwarta³,2025,,szt.,n,ogó³em,od 80,1 m2
+0400000,KUJAWSKO-POMORSKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,ogó³em
+0400000,KUJAWSKO-POMORSKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,do 40 m2
+0400000,KUJAWSKO-POMORSKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,od 40,1 do 60 m2
+0400000,KUJAWSKO-POMORSKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,od 60,1 do 80 m2
+0400000,KUJAWSKO-POMORSKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,od 80,1 m2
+0400000,KUJAWSKO-POMORSKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,ogó³em
+0400000,KUJAWSKO-POMORSKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,do 40 m2
+0400000,KUJAWSKO-POMORSKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,od 40,1 do 60 m2
+0400000,KUJAWSKO-POMORSKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,od 60,1 do 80 m2
+0400000,KUJAWSKO-POMORSKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,od 80,1 m2
+0400000,KUJAWSKO-POMORSKIE,4 kwarta³,2025,,szt.,n,ogó³em,ogó³em
+0400000,KUJAWSKO-POMORSKIE,4 kwarta³,2025,,szt.,n,ogó³em,do 40 m2
+0400000,KUJAWSKO-POMORSKIE,4 kwarta³,2025,,szt.,n,ogó³em,od 40,1 do 60 m2
+0400000,KUJAWSKO-POMORSKIE,4 kwarta³,2025,,szt.,n,ogó³em,od 60,1 do 80 m2
+0400000,KUJAWSKO-POMORSKIE,4 kwarta³,2025,,szt.,n,ogó³em,od 80,1 m2
+0400000,KUJAWSKO-POMORSKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,ogó³em
+0400000,KUJAWSKO-POMORSKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,do 40 m2
+0400000,KUJAWSKO-POMORSKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,od 40,1 do 60 m2
+0400000,KUJAWSKO-POMORSKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,od 60,1 do 80 m2
+0400000,KUJAWSKO-POMORSKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,od 80,1 m2
+0400000,KUJAWSKO-POMORSKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,ogó³em
+0400000,KUJAWSKO-POMORSKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,do 40 m2
+0400000,KUJAWSKO-POMORSKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,od 40,1 do 60 m2
+0400000,KUJAWSKO-POMORSKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,od 60,1 do 80 m2
+0400000,KUJAWSKO-POMORSKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,od 80,1 m2
+0600000,LUBELSKIE,1 kwarta³,2025,,szt.,n,ogó³em,ogó³em
+0600000,LUBELSKIE,1 kwarta³,2025,,szt.,n,ogó³em,do 40 m2
+0600000,LUBELSKIE,1 kwarta³,2025,,szt.,n,ogó³em,od 40,1 do 60 m2
+0600000,LUBELSKIE,1 kwarta³,2025,,szt.,n,ogó³em,od 60,1 do 80 m2
+0600000,LUBELSKIE,1 kwarta³,2025,,szt.,n,ogó³em,od 80,1 m2
+0600000,LUBELSKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,ogó³em
+0600000,LUBELSKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,do 40 m2
+0600000,LUBELSKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,od 40,1 do 60 m2
+0600000,LUBELSKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,od 60,1 do 80 m2
+0600000,LUBELSKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,od 80,1 m2
+0600000,LUBELSKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,ogó³em
+0600000,LUBELSKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,do 40 m2
+0600000,LUBELSKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,od 40,1 do 60 m2
+0600000,LUBELSKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,od 60,1 do 80 m2
+0600000,LUBELSKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,od 80,1 m2
+0600000,LUBELSKIE,2 kwarta³,2025,,szt.,n,ogó³em,ogó³em
+0600000,LUBELSKIE,2 kwarta³,2025,,szt.,n,ogó³em,do 40 m2
+0600000,LUBELSKIE,2 kwarta³,2025,,szt.,n,ogó³em,od 40,1 do 60 m2
+0600000,LUBELSKIE,2 kwarta³,2025,,szt.,n,ogó³em,od 60,1 do 80 m2
+0600000,LUBELSKIE,2 kwarta³,2025,,szt.,n,ogó³em,od 80,1 m2
+0600000,LUBELSKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,ogó³em
+0600000,LUBELSKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,do 40 m2
+0600000,LUBELSKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,od 40,1 do 60 m2
+0600000,LUBELSKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,od 60,1 do 80 m2
+0600000,LUBELSKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,od 80,1 m2
+0600000,LUBELSKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,ogó³em
+0600000,LUBELSKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,do 40 m2
+0600000,LUBELSKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,od 40,1 do 60 m2
+0600000,LUBELSKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,od 60,1 do 80 m2
+0600000,LUBELSKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,od 80,1 m2
+0600000,LUBELSKIE,3 kwarta³,2025,,szt.,n,ogó³em,ogó³em
+0600000,LUBELSKIE,3 kwarta³,2025,,szt.,n,ogó³em,do 40 m2
+0600000,LUBELSKIE,3 kwarta³,2025,,szt.,n,ogó³em,od 40,1 do 60 m2
+0600000,LUBELSKIE,3 kwarta³,2025,,szt.,n,ogó³em,od 60,1 do 80 m2
+0600000,LUBELSKIE,3 kwarta³,2025,,szt.,n,ogó³em,od 80,1 m2
+0600000,LUBELSKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,ogó³em
+0600000,LUBELSKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,do 40 m2
+0600000,LUBELSKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,od 40,1 do 60 m2
+0600000,LUBELSKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,od 60,1 do 80 m2
+0600000,LUBELSKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,od 80,1 m2
+0600000,LUBELSKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,ogó³em
+0600000,LUBELSKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,do 40 m2
+0600000,LUBELSKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,od 40,1 do 60 m2
+0600000,LUBELSKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,od 60,1 do 80 m2
+0600000,LUBELSKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,od 80,1 m2
+0600000,LUBELSKIE,4 kwarta³,2025,,szt.,n,ogó³em,ogó³em
+0600000,LUBELSKIE,4 kwarta³,2025,,szt.,n,ogó³em,do 40 m2
+0600000,LUBELSKIE,4 kwarta³,2025,,szt.,n,ogó³em,od 40,1 do 60 m2
+0600000,LUBELSKIE,4 kwarta³,2025,,szt.,n,ogó³em,od 60,1 do 80 m2
+0600000,LUBELSKIE,4 kwarta³,2025,,szt.,n,ogó³em,od 80,1 m2
+0600000,LUBELSKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,ogó³em
+0600000,LUBELSKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,do 40 m2
+0600000,LUBELSKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,od 40,1 do 60 m2
+0600000,LUBELSKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,od 60,1 do 80 m2
+0600000,LUBELSKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,od 80,1 m2
+0600000,LUBELSKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,ogó³em
+0600000,LUBELSKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,do 40 m2
+0600000,LUBELSKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,od 40,1 do 60 m2
+0600000,LUBELSKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,od 60,1 do 80 m2
+0600000,LUBELSKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,od 80,1 m2
+0800000,LUBUSKIE,1 kwarta³,2025,,szt.,n,ogó³em,ogó³em
+0800000,LUBUSKIE,1 kwarta³,2025,,szt.,n,ogó³em,do 40 m2
+0800000,LUBUSKIE,1 kwarta³,2025,,szt.,n,ogó³em,od 40,1 do 60 m2
+0800000,LUBUSKIE,1 kwarta³,2025,,szt.,n,ogó³em,od 60,1 do 80 m2
+0800000,LUBUSKIE,1 kwarta³,2025,,szt.,n,ogó³em,od 80,1 m2
+0800000,LUBUSKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,ogó³em
+0800000,LUBUSKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,do 40 m2
+0800000,LUBUSKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,od 40,1 do 60 m2
+0800000,LUBUSKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,od 60,1 do 80 m2
+0800000,LUBUSKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,od 80,1 m2
+0800000,LUBUSKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,ogó³em
+0800000,LUBUSKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,do 40 m2
+0800000,LUBUSKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,od 40,1 do 60 m2
+0800000,LUBUSKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,od 60,1 do 80 m2
+0800000,LUBUSKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,od 80,1 m2
+0800000,LUBUSKIE,2 kwarta³,2025,,szt.,n,ogó³em,ogó³em
+0800000,LUBUSKIE,2 kwarta³,2025,,szt.,n,ogó³em,do 40 m2
+0800000,LUBUSKIE,2 kwarta³,2025,,szt.,n,ogó³em,od 40,1 do 60 m2
+0800000,LUBUSKIE,2 kwarta³,2025,,szt.,n,ogó³em,od 60,1 do 80 m2
+0800000,LUBUSKIE,2 kwarta³,2025,,szt.,n,ogó³em,od 80,1 m2
+0800000,LUBUSKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,ogó³em
+0800000,LUBUSKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,do 40 m2
+0800000,LUBUSKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,od 40,1 do 60 m2
+0800000,LUBUSKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,od 60,1 do 80 m2
+0800000,LUBUSKIE,2 kwarta³,2016,0,szt.,x,rynek pierwotny,od 80,1 m2
+0800000,LUBUSKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,od 80,1 m2
+0800000,LUBUSKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,ogó³em
+0800000,LUBUSKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,do 40 m2
+0800000,LUBUSKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,od 40,1 do 60 m2
+0800000,LUBUSKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,od 60,1 do 80 m2
+0800000,LUBUSKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,od 80,1 m2
+0800000,LUBUSKIE,3 kwarta³,2025,,szt.,n,ogó³em,ogó³em
+0800000,LUBUSKIE,3 kwarta³,2025,,szt.,n,ogó³em,do 40 m2
+0800000,LUBUSKIE,3 kwarta³,2025,,szt.,n,ogó³em,od 40,1 do 60 m2
+0800000,LUBUSKIE,3 kwarta³,2025,,szt.,n,ogó³em,od 60,1 do 80 m2
+0800000,LUBUSKIE,3 kwarta³,2025,,szt.,n,ogó³em,od 80,1 m2
+0800000,LUBUSKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,ogó³em
+0800000,LUBUSKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,do 40 m2
+0800000,LUBUSKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,od 40,1 do 60 m2
+0800000,LUBUSKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,od 60,1 do 80 m2
+0800000,LUBUSKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,od 80,1 m2
+0800000,LUBUSKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,ogó³em
+0800000,LUBUSKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,do 40 m2
+0800000,LUBUSKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,od 40,1 do 60 m2
+0800000,LUBUSKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,od 60,1 do 80 m2
+0800000,LUBUSKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,od 80,1 m2
+0800000,LUBUSKIE,4 kwarta³,2025,,szt.,n,ogó³em,ogó³em
+0800000,LUBUSKIE,4 kwarta³,2025,,szt.,n,ogó³em,do 40 m2
+0800000,LUBUSKIE,4 kwarta³,2025,,szt.,n,ogó³em,od 40,1 do 60 m2
+0800000,LUBUSKIE,4 kwarta³,2025,,szt.,n,ogó³em,od 60,1 do 80 m2
+0800000,LUBUSKIE,4 kwarta³,2025,,szt.,n,ogó³em,od 80,1 m2
+0800000,LUBUSKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,ogó³em
+0800000,LUBUSKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,do 40 m2
+0800000,LUBUSKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,od 40,1 do 60 m2
+0800000,LUBUSKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,od 60,1 do 80 m2
+0800000,LUBUSKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,od 80,1 m2
+0800000,LUBUSKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,ogó³em
+0800000,LUBUSKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,do 40 m2
+0800000,LUBUSKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,od 40,1 do 60 m2
+0800000,LUBUSKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,od 60,1 do 80 m2
+0800000,LUBUSKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,od 80,1 m2
+1000000,£ÓDZKIE,1 kwarta³,2025,,szt.,n,ogó³em,ogó³em
+1000000,£ÓDZKIE,1 kwarta³,2025,,szt.,n,ogó³em,do 40 m2
+1000000,£ÓDZKIE,1 kwarta³,2025,,szt.,n,ogó³em,od 40,1 do 60 m2
+1000000,£ÓDZKIE,1 kwarta³,2025,,szt.,n,ogó³em,od 60,1 do 80 m2
+1000000,£ÓDZKIE,1 kwarta³,2025,,szt.,n,ogó³em,od 80,1 m2
+1000000,£ÓDZKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,ogó³em
+1000000,£ÓDZKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,do 40 m2
+1000000,£ÓDZKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,od 40,1 do 60 m2
+1000000,£ÓDZKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,od 60,1 do 80 m2
+1000000,£ÓDZKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,od 80,1 m2
+1000000,£ÓDZKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,ogó³em
+1000000,£ÓDZKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,do 40 m2
+1000000,£ÓDZKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,od 40,1 do 60 m2
+1000000,£ÓDZKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,od 60,1 do 80 m2
+1000000,£ÓDZKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,od 80,1 m2
+1000000,£ÓDZKIE,2 kwarta³,2025,,szt.,n,ogó³em,ogó³em
+1000000,£ÓDZKIE,2 kwarta³,2025,,szt.,n,ogó³em,do 40 m2
+1000000,£ÓDZKIE,2 kwarta³,2025,,szt.,n,ogó³em,od 40,1 do 60 m2
+1000000,£ÓDZKIE,2 kwarta³,2025,,szt.,n,ogó³em,od 60,1 do 80 m2
+1000000,£ÓDZKIE,2 kwarta³,2025,,szt.,n,ogó³em,od 80,1 m2
+1000000,£ÓDZKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,ogó³em
+1000000,£ÓDZKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,do 40 m2
+1000000,£ÓDZKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,od 40,1 do 60 m2
+1000000,£ÓDZKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,od 60,1 do 80 m2
+1000000,£ÓDZKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,od 80,1 m2
+1000000,£ÓDZKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,ogó³em
+1000000,£ÓDZKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,do 40 m2
+1000000,£ÓDZKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,od 40,1 do 60 m2
+1000000,£ÓDZKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,od 60,1 do 80 m2
+1000000,£ÓDZKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,od 80,1 m2
+1000000,£ÓDZKIE,3 kwarta³,2025,,szt.,n,ogó³em,ogó³em
+1000000,£ÓDZKIE,3 kwarta³,2025,,szt.,n,ogó³em,do 40 m2
+1000000,£ÓDZKIE,3 kwarta³,2025,,szt.,n,ogó³em,od 40,1 do 60 m2
+1000000,£ÓDZKIE,3 kwarta³,2025,,szt.,n,ogó³em,od 60,1 do 80 m2
+1000000,£ÓDZKIE,3 kwarta³,2025,,szt.,n,ogó³em,od 80,1 m2
+1000000,£ÓDZKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,ogó³em
+1000000,£ÓDZKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,do 40 m2
+1000000,£ÓDZKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,od 40,1 do 60 m2
+1000000,£ÓDZKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,od 60,1 do 80 m2
+1000000,£ÓDZKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,od 80,1 m2
+1000000,£ÓDZKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,ogó³em
+1000000,£ÓDZKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,do 40 m2
+1000000,£ÓDZKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,od 40,1 do 60 m2
+1000000,£ÓDZKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,od 60,1 do 80 m2
+1000000,£ÓDZKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,od 80,1 m2
+1000000,£ÓDZKIE,4 kwarta³,2025,,szt.,n,ogó³em,ogó³em
+1000000,£ÓDZKIE,4 kwarta³,2025,,szt.,n,ogó³em,do 40 m2
+1000000,£ÓDZKIE,4 kwarta³,2025,,szt.,n,ogó³em,od 40,1 do 60 m2
+1000000,£ÓDZKIE,4 kwarta³,2025,,szt.,n,ogó³em,od 60,1 do 80 m2
+1000000,£ÓDZKIE,4 kwarta³,2025,,szt.,n,ogó³em,od 80,1 m2
+1000000,£ÓDZKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,ogó³em
+1000000,£ÓDZKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,do 40 m2
+1000000,£ÓDZKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,od 40,1 do 60 m2
+1000000,£ÓDZKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,od 60,1 do 80 m2
+1000000,£ÓDZKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,od 80,1 m2
+1000000,£ÓDZKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,ogó³em
+1000000,£ÓDZKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,do 40 m2
+1000000,£ÓDZKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,od 40,1 do 60 m2
+1000000,£ÓDZKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,od 60,1 do 80 m2
+1000000,£ÓDZKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,od 80,1 m2
+1200000,MA£OPOLSKIE,1 kwarta³,2025,,szt.,n,ogó³em,ogó³em
+1200000,MA£OPOLSKIE,1 kwarta³,2025,,szt.,n,ogó³em,do 40 m2
+1200000,MA£OPOLSKIE,1 kwarta³,2025,,szt.,n,ogó³em,od 40,1 do 60 m2
+1200000,MA£OPOLSKIE,1 kwarta³,2025,,szt.,n,ogó³em,od 60,1 do 80 m2
+1200000,MA£OPOLSKIE,1 kwarta³,2025,,szt.,n,ogó³em,od 80,1 m2
+1200000,MA£OPOLSKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,ogó³em
+1200000,MA£OPOLSKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,do 40 m2
+1200000,MA£OPOLSKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,od 40,1 do 60 m2
+1200000,MA£OPOLSKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,od 60,1 do 80 m2
+1200000,MA£OPOLSKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,od 80,1 m2
+1200000,MA£OPOLSKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,ogó³em
+1200000,MA£OPOLSKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,do 40 m2
+1200000,MA£OPOLSKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,od 40,1 do 60 m2
+1200000,MA£OPOLSKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,od 60,1 do 80 m2
+1200000,MA£OPOLSKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,od 80,1 m2
+1200000,MA£OPOLSKIE,2 kwarta³,2025,,szt.,n,ogó³em,ogó³em
+1200000,MA£OPOLSKIE,2 kwarta³,2025,,szt.,n,ogó³em,do 40 m2
+1200000,MA£OPOLSKIE,2 kwarta³,2025,,szt.,n,ogó³em,od 40,1 do 60 m2
+1200000,MA£OPOLSKIE,2 kwarta³,2025,,szt.,n,ogó³em,od 60,1 do 80 m2
+1200000,MA£OPOLSKIE,2 kwarta³,2025,,szt.,n,ogó³em,od 80,1 m2
+1200000,MA£OPOLSKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,ogó³em
+1200000,MA£OPOLSKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,do 40 m2
+1200000,MA£OPOLSKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,od 40,1 do 60 m2
+1200000,MA£OPOLSKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,od 60,1 do 80 m2
+1200000,MA£OPOLSKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,od 80,1 m2
+1200000,MA£OPOLSKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,ogó³em
+1200000,MA£OPOLSKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,do 40 m2
+1200000,MA£OPOLSKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,od 40,1 do 60 m2
+1200000,MA£OPOLSKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,od 60,1 do 80 m2
+1200000,MA£OPOLSKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,od 80,1 m2
+1200000,MA£OPOLSKIE,3 kwarta³,2025,,szt.,n,ogó³em,ogó³em
+1200000,MA£OPOLSKIE,3 kwarta³,2025,,szt.,n,ogó³em,do 40 m2
+1200000,MA£OPOLSKIE,3 kwarta³,2025,,szt.,n,ogó³em,od 40,1 do 60 m2
+1200000,MA£OPOLSKIE,3 kwarta³,2025,,szt.,n,ogó³em,od 60,1 do 80 m2
+1200000,MA£OPOLSKIE,3 kwarta³,2025,,szt.,n,ogó³em,od 80,1 m2
+1200000,MA£OPOLSKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,ogó³em
+1200000,MA£OPOLSKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,do 40 m2
+1200000,MA£OPOLSKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,od 40,1 do 60 m2
+1200000,MA£OPOLSKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,od 60,1 do 80 m2
+1200000,MA£OPOLSKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,od 80,1 m2
+1200000,MA£OPOLSKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,ogó³em
+1200000,MA£OPOLSKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,do 40 m2
+1200000,MA£OPOLSKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,od 40,1 do 60 m2
+1200000,MA£OPOLSKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,od 60,1 do 80 m2
+1200000,MA£OPOLSKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,od 80,1 m2
+1200000,MA£OPOLSKIE,4 kwarta³,2025,,szt.,n,ogó³em,ogó³em
+1200000,MA£OPOLSKIE,4 kwarta³,2025,,szt.,n,ogó³em,do 40 m2
+1200000,MA£OPOLSKIE,4 kwarta³,2025,,szt.,n,ogó³em,od 40,1 do 60 m2
+1200000,MA£OPOLSKIE,4 kwarta³,2025,,szt.,n,ogó³em,od 60,1 do 80 m2
+1200000,MA£OPOLSKIE,4 kwarta³,2025,,szt.,n,ogó³em,od 80,1 m2
+1200000,MA£OPOLSKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,ogó³em
+1200000,MA£OPOLSKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,do 40 m2
+1200000,MA£OPOLSKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,od 40,1 do 60 m2
+1200000,MA£OPOLSKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,od 60,1 do 80 m2
+1200000,MA£OPOLSKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,od 80,1 m2
+1200000,MA£OPOLSKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,ogó³em
+1200000,MA£OPOLSKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,do 40 m2
+1200000,MA£OPOLSKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,od 40,1 do 60 m2
+1200000,MA£OPOLSKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,od 60,1 do 80 m2
+1200000,MA£OPOLSKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,od 80,1 m2
+1400000,MAZOWIECKIE,1 kwarta³,2025,,szt.,n,ogó³em,ogó³em
+1400000,MAZOWIECKIE,1 kwarta³,2025,,szt.,n,ogó³em,do 40 m2
+1400000,MAZOWIECKIE,1 kwarta³,2025,,szt.,n,ogó³em,od 40,1 do 60 m2
+1400000,MAZOWIECKIE,1 kwarta³,2025,,szt.,n,ogó³em,od 60,1 do 80 m2
+1400000,MAZOWIECKIE,1 kwarta³,2025,,szt.,n,ogó³em,od 80,1 m2
+1400000,MAZOWIECKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,ogó³em
+1400000,MAZOWIECKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,do 40 m2
+1400000,MAZOWIECKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,od 40,1 do 60 m2
+1400000,MAZOWIECKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,od 60,1 do 80 m2
+1400000,MAZOWIECKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,od 80,1 m2
+1400000,MAZOWIECKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,ogó³em
+1400000,MAZOWIECKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,do 40 m2
+1400000,MAZOWIECKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,od 40,1 do 60 m2
+1400000,MAZOWIECKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,od 60,1 do 80 m2
+1400000,MAZOWIECKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,od 80,1 m2
+1400000,MAZOWIECKIE,2 kwarta³,2025,,szt.,n,ogó³em,ogó³em
+1400000,MAZOWIECKIE,2 kwarta³,2025,,szt.,n,ogó³em,do 40 m2
+1400000,MAZOWIECKIE,2 kwarta³,2025,,szt.,n,ogó³em,od 40,1 do 60 m2
+1400000,MAZOWIECKIE,2 kwarta³,2025,,szt.,n,ogó³em,od 60,1 do 80 m2
+1400000,MAZOWIECKIE,2 kwarta³,2025,,szt.,n,ogó³em,od 80,1 m2
+1400000,MAZOWIECKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,ogó³em
+1400000,MAZOWIECKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,do 40 m2
+1400000,MAZOWIECKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,od 40,1 do 60 m2
+1400000,MAZOWIECKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,od 60,1 do 80 m2
+1400000,MAZOWIECKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,od 80,1 m2
+1400000,MAZOWIECKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,ogó³em
+1400000,MAZOWIECKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,do 40 m2
+1400000,MAZOWIECKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,od 40,1 do 60 m2
+1400000,MAZOWIECKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,od 60,1 do 80 m2
+1400000,MAZOWIECKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,od 80,1 m2
+1400000,MAZOWIECKIE,3 kwarta³,2025,,szt.,n,ogó³em,ogó³em
+1400000,MAZOWIECKIE,3 kwarta³,2025,,szt.,n,ogó³em,do 40 m2
+1400000,MAZOWIECKIE,3 kwarta³,2025,,szt.,n,ogó³em,od 40,1 do 60 m2
+1400000,MAZOWIECKIE,3 kwarta³,2025,,szt.,n,ogó³em,od 60,1 do 80 m2
+1400000,MAZOWIECKIE,3 kwarta³,2025,,szt.,n,ogó³em,od 80,1 m2
+1400000,MAZOWIECKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,ogó³em
+1400000,MAZOWIECKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,do 40 m2
+1400000,MAZOWIECKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,od 40,1 do 60 m2
+1400000,MAZOWIECKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,od 60,1 do 80 m2
+1400000,MAZOWIECKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,od 80,1 m2
+1400000,MAZOWIECKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,ogó³em
+1400000,MAZOWIECKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,do 40 m2
+1400000,MAZOWIECKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,od 40,1 do 60 m2
+1400000,MAZOWIECKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,od 60,1 do 80 m2
+1400000,MAZOWIECKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,od 80,1 m2
+1400000,MAZOWIECKIE,4 kwarta³,2025,,szt.,n,ogó³em,ogó³em
+1400000,MAZOWIECKIE,4 kwarta³,2025,,szt.,n,ogó³em,do 40 m2
+1400000,MAZOWIECKIE,4 kwarta³,2025,,szt.,n,ogó³em,od 40,1 do 60 m2
+1400000,MAZOWIECKIE,4 kwarta³,2025,,szt.,n,ogó³em,od 60,1 do 80 m2
+1400000,MAZOWIECKIE,4 kwarta³,2025,,szt.,n,ogó³em,od 80,1 m2
+1400000,MAZOWIECKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,ogó³em
+1400000,MAZOWIECKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,do 40 m2
+1400000,MAZOWIECKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,od 40,1 do 60 m2
+1400000,MAZOWIECKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,od 60,1 do 80 m2
+1400000,MAZOWIECKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,od 80,1 m2
+1400000,MAZOWIECKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,ogó³em
+1400000,MAZOWIECKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,do 40 m2
+1400000,MAZOWIECKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,od 40,1 do 60 m2
+1400000,MAZOWIECKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,od 60,1 do 80 m2
+1400000,MAZOWIECKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,od 80,1 m2
+1600000,OPOLSKIE,1 kwarta³,2025,,szt.,n,ogó³em,ogó³em
+1600000,OPOLSKIE,1 kwarta³,2025,,szt.,n,ogó³em,do 40 m2
+1600000,OPOLSKIE,1 kwarta³,2025,,szt.,n,ogó³em,od 40,1 do 60 m2
+1600000,OPOLSKIE,1 kwarta³,2025,,szt.,n,ogó³em,od 60,1 do 80 m2
+1600000,OPOLSKIE,1 kwarta³,2025,,szt.,n,ogó³em,od 80,1 m2
+1600000,OPOLSKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,ogó³em
+1600000,OPOLSKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,do 40 m2
+1600000,OPOLSKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,od 40,1 do 60 m2
+1600000,OPOLSKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,od 60,1 do 80 m2
+1600000,OPOLSKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,od 80,1 m2
+1600000,OPOLSKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,ogó³em
+1600000,OPOLSKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,do 40 m2
+1600000,OPOLSKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,od 40,1 do 60 m2
+1600000,OPOLSKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,od 60,1 do 80 m2
+1600000,OPOLSKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,od 80,1 m2
+1600000,OPOLSKIE,2 kwarta³,2025,,szt.,n,ogó³em,ogó³em
+1600000,OPOLSKIE,2 kwarta³,2025,,szt.,n,ogó³em,do 40 m2
+1600000,OPOLSKIE,2 kwarta³,2025,,szt.,n,ogó³em,od 40,1 do 60 m2
+1600000,OPOLSKIE,2 kwarta³,2025,,szt.,n,ogó³em,od 60,1 do 80 m2
+1600000,OPOLSKIE,2 kwarta³,2025,,szt.,n,ogó³em,od 80,1 m2
+1600000,OPOLSKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,ogó³em
+1600000,OPOLSKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,do 40 m2
+1600000,OPOLSKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,od 40,1 do 60 m2
+1600000,OPOLSKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,od 60,1 do 80 m2
+1600000,OPOLSKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,od 80,1 m2
+1600000,OPOLSKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,ogó³em
+1600000,OPOLSKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,do 40 m2
+1600000,OPOLSKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,od 40,1 do 60 m2
+1600000,OPOLSKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,od 60,1 do 80 m2
+1600000,OPOLSKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,od 80,1 m2
+1600000,OPOLSKIE,3 kwarta³,2025,,szt.,n,ogó³em,ogó³em
+1600000,OPOLSKIE,3 kwarta³,2025,,szt.,n,ogó³em,do 40 m2
+1600000,OPOLSKIE,3 kwarta³,2025,,szt.,n,ogó³em,od 40,1 do 60 m2
+1600000,OPOLSKIE,3 kwarta³,2025,,szt.,n,ogó³em,od 60,1 do 80 m2
+1600000,OPOLSKIE,3 kwarta³,2025,,szt.,n,ogó³em,od 80,1 m2
+1600000,OPOLSKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,ogó³em
+1600000,OPOLSKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,do 40 m2
+1600000,OPOLSKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,od 40,1 do 60 m2
+1600000,OPOLSKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,od 60,1 do 80 m2
+1600000,OPOLSKIE,3 kwarta³,2016,0,szt.,x,rynek pierwotny,od 80,1 m2
+1600000,OPOLSKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,od 80,1 m2
+1600000,OPOLSKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,ogó³em
+1600000,OPOLSKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,do 40 m2
+1600000,OPOLSKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,od 40,1 do 60 m2
+1600000,OPOLSKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,od 60,1 do 80 m2
+1600000,OPOLSKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,od 80,1 m2
+1600000,OPOLSKIE,4 kwarta³,2025,,szt.,n,ogó³em,ogó³em
+1600000,OPOLSKIE,4 kwarta³,2025,,szt.,n,ogó³em,do 40 m2
+1600000,OPOLSKIE,4 kwarta³,2025,,szt.,n,ogó³em,od 40,1 do 60 m2
+1600000,OPOLSKIE,4 kwarta³,2025,,szt.,n,ogó³em,od 60,1 do 80 m2
+1600000,OPOLSKIE,4 kwarta³,2025,,szt.,n,ogó³em,od 80,1 m2
+1600000,OPOLSKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,ogó³em
+1600000,OPOLSKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,do 40 m2
+1600000,OPOLSKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,od 40,1 do 60 m2
+1600000,OPOLSKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,od 60,1 do 80 m2
+1600000,OPOLSKIE,4 kwarta³,2017,0,szt.,x,rynek pierwotny,od 80,1 m2
+1600000,OPOLSKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,od 80,1 m2
+1600000,OPOLSKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,ogó³em
+1600000,OPOLSKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,do 40 m2
+1600000,OPOLSKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,od 40,1 do 60 m2
+1600000,OPOLSKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,od 60,1 do 80 m2
+1600000,OPOLSKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,od 80,1 m2
+1800000,PODKARPACKIE,1 kwarta³,2025,,szt.,n,ogó³em,ogó³em
+1800000,PODKARPACKIE,1 kwarta³,2025,,szt.,n,ogó³em,do 40 m2
+1800000,PODKARPACKIE,1 kwarta³,2025,,szt.,n,ogó³em,od 40,1 do 60 m2
+1800000,PODKARPACKIE,1 kwarta³,2025,,szt.,n,ogó³em,od 60,1 do 80 m2
+1800000,PODKARPACKIE,1 kwarta³,2025,,szt.,n,ogó³em,od 80,1 m2
+1800000,PODKARPACKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,ogó³em
+1800000,PODKARPACKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,do 40 m2
+1800000,PODKARPACKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,od 40,1 do 60 m2
+1800000,PODKARPACKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,od 60,1 do 80 m2
+1800000,PODKARPACKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,od 80,1 m2
+1800000,PODKARPACKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,ogó³em
+1800000,PODKARPACKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,do 40 m2
+1800000,PODKARPACKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,od 40,1 do 60 m2
+1800000,PODKARPACKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,od 60,1 do 80 m2
+1800000,PODKARPACKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,od 80,1 m2
+1800000,PODKARPACKIE,2 kwarta³,2025,,szt.,n,ogó³em,ogó³em
+1800000,PODKARPACKIE,2 kwarta³,2025,,szt.,n,ogó³em,do 40 m2
+1800000,PODKARPACKIE,2 kwarta³,2025,,szt.,n,ogó³em,od 40,1 do 60 m2
+1800000,PODKARPACKIE,2 kwarta³,2025,,szt.,n,ogó³em,od 60,1 do 80 m2
+1800000,PODKARPACKIE,2 kwarta³,2025,,szt.,n,ogó³em,od 80,1 m2
+1800000,PODKARPACKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,ogó³em
+1800000,PODKARPACKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,do 40 m2
+1800000,PODKARPACKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,od 40,1 do 60 m2
+1800000,PODKARPACKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,od 60,1 do 80 m2
+1800000,PODKARPACKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,od 80,1 m2
+1800000,PODKARPACKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,ogó³em
+1800000,PODKARPACKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,do 40 m2
+1800000,PODKARPACKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,od 40,1 do 60 m2
+1800000,PODKARPACKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,od 60,1 do 80 m2
+1800000,PODKARPACKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,od 80,1 m2
+1800000,PODKARPACKIE,3 kwarta³,2025,,szt.,n,ogó³em,ogó³em
+1800000,PODKARPACKIE,3 kwarta³,2025,,szt.,n,ogó³em,do 40 m2
+1800000,PODKARPACKIE,3 kwarta³,2025,,szt.,n,ogó³em,od 40,1 do 60 m2
+1800000,PODKARPACKIE,3 kwarta³,2025,,szt.,n,ogó³em,od 60,1 do 80 m2
+1800000,PODKARPACKIE,3 kwarta³,2025,,szt.,n,ogó³em,od 80,1 m2
+1800000,PODKARPACKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,ogó³em
+1800000,PODKARPACKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,do 40 m2
+1800000,PODKARPACKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,od 40,1 do 60 m2
+1800000,PODKARPACKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,od 60,1 do 80 m2
+1800000,PODKARPACKIE,3 kwarta³,2016,0,szt.,x,rynek pierwotny,od 80,1 m2
+1800000,PODKARPACKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,od 80,1 m2
+1800000,PODKARPACKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,ogó³em
+1800000,PODKARPACKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,do 40 m2
+1800000,PODKARPACKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,od 40,1 do 60 m2
+1800000,PODKARPACKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,od 60,1 do 80 m2
+1800000,PODKARPACKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,od 80,1 m2
+1800000,PODKARPACKIE,4 kwarta³,2025,,szt.,n,ogó³em,ogó³em
+1800000,PODKARPACKIE,4 kwarta³,2025,,szt.,n,ogó³em,do 40 m2
+1800000,PODKARPACKIE,4 kwarta³,2025,,szt.,n,ogó³em,od 40,1 do 60 m2
+1800000,PODKARPACKIE,4 kwarta³,2025,,szt.,n,ogó³em,od 60,1 do 80 m2
+1800000,PODKARPACKIE,4 kwarta³,2025,,szt.,n,ogó³em,od 80,1 m2
+1800000,PODKARPACKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,ogó³em
+1800000,PODKARPACKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,do 40 m2
+1800000,PODKARPACKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,od 40,1 do 60 m2
+1800000,PODKARPACKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,od 60,1 do 80 m2
+1800000,PODKARPACKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,od 80,1 m2
+1800000,PODKARPACKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,ogó³em
+1800000,PODKARPACKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,do 40 m2
+1800000,PODKARPACKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,od 40,1 do 60 m2
+1800000,PODKARPACKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,od 60,1 do 80 m2
+1800000,PODKARPACKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,od 80,1 m2
+2000000,PODLASKIE,1 kwarta³,2025,,szt.,n,ogó³em,ogó³em
+2000000,PODLASKIE,1 kwarta³,2025,,szt.,n,ogó³em,do 40 m2
+2000000,PODLASKIE,1 kwarta³,2025,,szt.,n,ogó³em,od 40,1 do 60 m2
+2000000,PODLASKIE,1 kwarta³,2025,,szt.,n,ogó³em,od 60,1 do 80 m2
+2000000,PODLASKIE,1 kwarta³,2025,,szt.,n,ogó³em,od 80,1 m2
+2000000,PODLASKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,ogó³em
+2000000,PODLASKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,do 40 m2
+2000000,PODLASKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,od 40,1 do 60 m2
+2000000,PODLASKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,od 60,1 do 80 m2
+2000000,PODLASKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,od 80,1 m2
+2000000,PODLASKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,ogó³em
+2000000,PODLASKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,do 40 m2
+2000000,PODLASKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,od 40,1 do 60 m2
+2000000,PODLASKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,od 60,1 do 80 m2
+2000000,PODLASKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,od 80,1 m2
+2000000,PODLASKIE,2 kwarta³,2025,,szt.,n,ogó³em,ogó³em
+2000000,PODLASKIE,2 kwarta³,2025,,szt.,n,ogó³em,do 40 m2
+2000000,PODLASKIE,2 kwarta³,2025,,szt.,n,ogó³em,od 40,1 do 60 m2
+2000000,PODLASKIE,2 kwarta³,2025,,szt.,n,ogó³em,od 60,1 do 80 m2
+2000000,PODLASKIE,2 kwarta³,2025,,szt.,n,ogó³em,od 80,1 m2
+2000000,PODLASKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,ogó³em
+2000000,PODLASKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,do 40 m2
+2000000,PODLASKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,od 40,1 do 60 m2
+2000000,PODLASKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,od 60,1 do 80 m2
+2000000,PODLASKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,od 80,1 m2
+2000000,PODLASKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,ogó³em
+2000000,PODLASKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,do 40 m2
+2000000,PODLASKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,od 40,1 do 60 m2
+2000000,PODLASKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,od 60,1 do 80 m2
+2000000,PODLASKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,od 80,1 m2
+2000000,PODLASKIE,3 kwarta³,2025,,szt.,n,ogó³em,ogó³em
+2000000,PODLASKIE,3 kwarta³,2025,,szt.,n,ogó³em,do 40 m2
+2000000,PODLASKIE,3 kwarta³,2025,,szt.,n,ogó³em,od 40,1 do 60 m2
+2000000,PODLASKIE,3 kwarta³,2025,,szt.,n,ogó³em,od 60,1 do 80 m2
+2000000,PODLASKIE,3 kwarta³,2025,,szt.,n,ogó³em,od 80,1 m2
+2000000,PODLASKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,ogó³em
+2000000,PODLASKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,do 40 m2
+2000000,PODLASKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,od 40,1 do 60 m2
+2000000,PODLASKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,od 60,1 do 80 m2
+2000000,PODLASKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,od 80,1 m2
+2000000,PODLASKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,ogó³em
+2000000,PODLASKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,do 40 m2
+2000000,PODLASKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,od 40,1 do 60 m2
+2000000,PODLASKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,od 60,1 do 80 m2
+2000000,PODLASKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,od 80,1 m2
+2000000,PODLASKIE,4 kwarta³,2025,,szt.,n,ogó³em,ogó³em
+2000000,PODLASKIE,4 kwarta³,2025,,szt.,n,ogó³em,do 40 m2
+2000000,PODLASKIE,4 kwarta³,2025,,szt.,n,ogó³em,od 40,1 do 60 m2
+2000000,PODLASKIE,4 kwarta³,2025,,szt.,n,ogó³em,od 60,1 do 80 m2
+2000000,PODLASKIE,4 kwarta³,2025,,szt.,n,ogó³em,od 80,1 m2
+2000000,PODLASKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,ogó³em
+2000000,PODLASKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,do 40 m2
+2000000,PODLASKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,od 40,1 do 60 m2
+2000000,PODLASKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,od 60,1 do 80 m2
+2000000,PODLASKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,od 80,1 m2
+2000000,PODLASKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,ogó³em
+2000000,PODLASKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,do 40 m2
+2000000,PODLASKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,od 40,1 do 60 m2
+2000000,PODLASKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,od 60,1 do 80 m2
+2000000,PODLASKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,od 80,1 m2
+2200000,POMORSKIE,1 kwarta³,2025,,szt.,n,ogó³em,ogó³em
+2200000,POMORSKIE,1 kwarta³,2025,,szt.,n,ogó³em,do 40 m2
+2200000,POMORSKIE,1 kwarta³,2025,,szt.,n,ogó³em,od 40,1 do 60 m2
+2200000,POMORSKIE,1 kwarta³,2025,,szt.,n,ogó³em,od 60,1 do 80 m2
+2200000,POMORSKIE,1 kwarta³,2025,,szt.,n,ogó³em,od 80,1 m2
+2200000,POMORSKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,ogó³em
+2200000,POMORSKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,do 40 m2
+2200000,POMORSKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,od 40,1 do 60 m2
+2200000,POMORSKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,od 60,1 do 80 m2
+2200000,POMORSKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,od 80,1 m2
+2200000,POMORSKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,ogó³em
+2200000,POMORSKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,do 40 m2
+2200000,POMORSKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,od 40,1 do 60 m2
+2200000,POMORSKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,od 60,1 do 80 m2
+2200000,POMORSKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,od 80,1 m2
+2200000,POMORSKIE,2 kwarta³,2025,,szt.,n,ogó³em,ogó³em
+2200000,POMORSKIE,2 kwarta³,2025,,szt.,n,ogó³em,do 40 m2
+2200000,POMORSKIE,2 kwarta³,2025,,szt.,n,ogó³em,od 40,1 do 60 m2
+2200000,POMORSKIE,2 kwarta³,2025,,szt.,n,ogó³em,od 60,1 do 80 m2
+2200000,POMORSKIE,2 kwarta³,2025,,szt.,n,ogó³em,od 80,1 m2
+2200000,POMORSKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,ogó³em
+2200000,POMORSKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,do 40 m2
+2200000,POMORSKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,od 40,1 do 60 m2
+2200000,POMORSKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,od 60,1 do 80 m2
+2200000,POMORSKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,od 80,1 m2
+2200000,POMORSKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,ogó³em
+2200000,POMORSKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,do 40 m2
+2200000,POMORSKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,od 40,1 do 60 m2
+2200000,POMORSKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,od 60,1 do 80 m2
+2200000,POMORSKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,od 80,1 m2
+2200000,POMORSKIE,3 kwarta³,2025,,szt.,n,ogó³em,ogó³em
+2200000,POMORSKIE,3 kwarta³,2025,,szt.,n,ogó³em,do 40 m2
+2200000,POMORSKIE,3 kwarta³,2025,,szt.,n,ogó³em,od 40,1 do 60 m2
+2200000,POMORSKIE,3 kwarta³,2025,,szt.,n,ogó³em,od 60,1 do 80 m2
+2200000,POMORSKIE,3 kwarta³,2025,,szt.,n,ogó³em,od 80,1 m2
+2200000,POMORSKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,ogó³em
+2200000,POMORSKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,do 40 m2
+2200000,POMORSKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,od 40,1 do 60 m2
+2200000,POMORSKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,od 60,1 do 80 m2
+2200000,POMORSKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,od 80,1 m2
+2200000,POMORSKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,ogó³em
+2200000,POMORSKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,do 40 m2
+2200000,POMORSKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,od 40,1 do 60 m2
+2200000,POMORSKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,od 60,1 do 80 m2
+2200000,POMORSKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,od 80,1 m2
+2200000,POMORSKIE,4 kwarta³,2025,,szt.,n,ogó³em,ogó³em
+2200000,POMORSKIE,4 kwarta³,2025,,szt.,n,ogó³em,do 40 m2
+2200000,POMORSKIE,4 kwarta³,2025,,szt.,n,ogó³em,od 40,1 do 60 m2
+2200000,POMORSKIE,4 kwarta³,2025,,szt.,n,ogó³em,od 60,1 do 80 m2
+2200000,POMORSKIE,4 kwarta³,2025,,szt.,n,ogó³em,od 80,1 m2
+2200000,POMORSKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,ogó³em
+2200000,POMORSKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,do 40 m2
+2200000,POMORSKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,od 40,1 do 60 m2
+2200000,POMORSKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,od 60,1 do 80 m2
+2200000,POMORSKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,od 80,1 m2
+2200000,POMORSKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,ogó³em
+2200000,POMORSKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,do 40 m2
+2200000,POMORSKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,od 40,1 do 60 m2
+2200000,POMORSKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,od 60,1 do 80 m2
+2200000,POMORSKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,od 80,1 m2
+2400000,ŒL¥SKIE,1 kwarta³,2025,,szt.,n,ogó³em,ogó³em
+2400000,ŒL¥SKIE,1 kwarta³,2025,,szt.,n,ogó³em,do 40 m2
+2400000,ŒL¥SKIE,1 kwarta³,2025,,szt.,n,ogó³em,od 40,1 do 60 m2
+2400000,ŒL¥SKIE,1 kwarta³,2025,,szt.,n,ogó³em,od 60,1 do 80 m2
+2400000,ŒL¥SKIE,1 kwarta³,2025,,szt.,n,ogó³em,od 80,1 m2
+2400000,ŒL¥SKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,ogó³em
+2400000,ŒL¥SKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,do 40 m2
+2400000,ŒL¥SKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,od 40,1 do 60 m2
+2400000,ŒL¥SKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,od 60,1 do 80 m2
+2400000,ŒL¥SKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,od 80,1 m2
+2400000,ŒL¥SKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,ogó³em
+2400000,ŒL¥SKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,do 40 m2
+2400000,ŒL¥SKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,od 40,1 do 60 m2
+2400000,ŒL¥SKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,od 60,1 do 80 m2
+2400000,ŒL¥SKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,od 80,1 m2
+2400000,ŒL¥SKIE,2 kwarta³,2025,,szt.,n,ogó³em,ogó³em
+2400000,ŒL¥SKIE,2 kwarta³,2025,,szt.,n,ogó³em,do 40 m2
+2400000,ŒL¥SKIE,2 kwarta³,2025,,szt.,n,ogó³em,od 40,1 do 60 m2
+2400000,ŒL¥SKIE,2 kwarta³,2025,,szt.,n,ogó³em,od 60,1 do 80 m2
+2400000,ŒL¥SKIE,2 kwarta³,2025,,szt.,n,ogó³em,od 80,1 m2
+2400000,ŒL¥SKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,ogó³em
+2400000,ŒL¥SKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,do 40 m2
+2400000,ŒL¥SKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,od 40,1 do 60 m2
+2400000,ŒL¥SKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,od 60,1 do 80 m2
+2400000,ŒL¥SKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,od 80,1 m2
+2400000,ŒL¥SKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,ogó³em
+2400000,ŒL¥SKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,do 40 m2
+2400000,ŒL¥SKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,od 40,1 do 60 m2
+2400000,ŒL¥SKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,od 60,1 do 80 m2
+2400000,ŒL¥SKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,od 80,1 m2
+2400000,ŒL¥SKIE,3 kwarta³,2025,,szt.,n,ogó³em,ogó³em
+2400000,ŒL¥SKIE,3 kwarta³,2025,,szt.,n,ogó³em,do 40 m2
+2400000,ŒL¥SKIE,3 kwarta³,2025,,szt.,n,ogó³em,od 40,1 do 60 m2
+2400000,ŒL¥SKIE,3 kwarta³,2025,,szt.,n,ogó³em,od 60,1 do 80 m2
+2400000,ŒL¥SKIE,3 kwarta³,2025,,szt.,n,ogó³em,od 80,1 m2
+2400000,ŒL¥SKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,ogó³em
+2400000,ŒL¥SKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,do 40 m2
+2400000,ŒL¥SKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,od 40,1 do 60 m2
+2400000,ŒL¥SKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,od 60,1 do 80 m2
+2400000,ŒL¥SKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,od 80,1 m2
+2400000,ŒL¥SKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,ogó³em
+2400000,ŒL¥SKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,do 40 m2
+2400000,ŒL¥SKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,od 40,1 do 60 m2
+2400000,ŒL¥SKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,od 60,1 do 80 m2
+2400000,ŒL¥SKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,od 80,1 m2
+2400000,ŒL¥SKIE,4 kwarta³,2025,,szt.,n,ogó³em,ogó³em
+2400000,ŒL¥SKIE,4 kwarta³,2025,,szt.,n,ogó³em,do 40 m2
+2400000,ŒL¥SKIE,4 kwarta³,2025,,szt.,n,ogó³em,od 40,1 do 60 m2
+2400000,ŒL¥SKIE,4 kwarta³,2025,,szt.,n,ogó³em,od 60,1 do 80 m2
+2400000,ŒL¥SKIE,4 kwarta³,2025,,szt.,n,ogó³em,od 80,1 m2
+2400000,ŒL¥SKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,ogó³em
+2400000,ŒL¥SKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,do 40 m2
+2400000,ŒL¥SKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,od 40,1 do 60 m2
+2400000,ŒL¥SKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,od 60,1 do 80 m2
+2400000,ŒL¥SKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,od 80,1 m2
+2400000,ŒL¥SKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,ogó³em
+2400000,ŒL¥SKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,do 40 m2
+2400000,ŒL¥SKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,od 40,1 do 60 m2
+2400000,ŒL¥SKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,od 60,1 do 80 m2
+2400000,ŒL¥SKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,od 80,1 m2
+2600000,ŒWIÊTOKRZYSKIE,1 kwarta³,2025,,szt.,n,ogó³em,ogó³em
+2600000,ŒWIÊTOKRZYSKIE,1 kwarta³,2025,,szt.,n,ogó³em,do 40 m2
+2600000,ŒWIÊTOKRZYSKIE,1 kwarta³,2025,,szt.,n,ogó³em,od 40,1 do 60 m2
+2600000,ŒWIÊTOKRZYSKIE,1 kwarta³,2025,,szt.,n,ogó³em,od 60,1 do 80 m2
+2600000,ŒWIÊTOKRZYSKIE,1 kwarta³,2025,,szt.,n,ogó³em,od 80,1 m2
+2600000,ŒWIÊTOKRZYSKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,ogó³em
+2600000,ŒWIÊTOKRZYSKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,do 40 m2
+2600000,ŒWIÊTOKRZYSKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,od 40,1 do 60 m2
+2600000,ŒWIÊTOKRZYSKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,od 60,1 do 80 m2
+2600000,ŒWIÊTOKRZYSKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,od 80,1 m2
+2600000,ŒWIÊTOKRZYSKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,ogó³em
+2600000,ŒWIÊTOKRZYSKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,do 40 m2
+2600000,ŒWIÊTOKRZYSKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,od 40,1 do 60 m2
+2600000,ŒWIÊTOKRZYSKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,od 60,1 do 80 m2
+2600000,ŒWIÊTOKRZYSKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,od 80,1 m2
+2600000,ŒWIÊTOKRZYSKIE,2 kwarta³,2025,,szt.,n,ogó³em,ogó³em
+2600000,ŒWIÊTOKRZYSKIE,2 kwarta³,2025,,szt.,n,ogó³em,do 40 m2
+2600000,ŒWIÊTOKRZYSKIE,2 kwarta³,2025,,szt.,n,ogó³em,od 40,1 do 60 m2
+2600000,ŒWIÊTOKRZYSKIE,2 kwarta³,2025,,szt.,n,ogó³em,od 60,1 do 80 m2
+2600000,ŒWIÊTOKRZYSKIE,2 kwarta³,2025,,szt.,n,ogó³em,od 80,1 m2
+2600000,ŒWIÊTOKRZYSKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,ogó³em
+2600000,ŒWIÊTOKRZYSKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,do 40 m2
+2600000,ŒWIÊTOKRZYSKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,od 40,1 do 60 m2
+2600000,ŒWIÊTOKRZYSKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,od 60,1 do 80 m2
+2600000,ŒWIÊTOKRZYSKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,od 80,1 m2
+2600000,ŒWIÊTOKRZYSKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,ogó³em
+2600000,ŒWIÊTOKRZYSKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,do 40 m2
+2600000,ŒWIÊTOKRZYSKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,od 40,1 do 60 m2
+2600000,ŒWIÊTOKRZYSKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,od 60,1 do 80 m2
+2600000,ŒWIÊTOKRZYSKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,od 80,1 m2
+2600000,ŒWIÊTOKRZYSKIE,3 kwarta³,2025,,szt.,n,ogó³em,ogó³em
+2600000,ŒWIÊTOKRZYSKIE,3 kwarta³,2025,,szt.,n,ogó³em,do 40 m2
+2600000,ŒWIÊTOKRZYSKIE,3 kwarta³,2025,,szt.,n,ogó³em,od 40,1 do 60 m2
+2600000,ŒWIÊTOKRZYSKIE,3 kwarta³,2025,,szt.,n,ogó³em,od 60,1 do 80 m2
+2600000,ŒWIÊTOKRZYSKIE,3 kwarta³,2025,,szt.,n,ogó³em,od 80,1 m2
+2600000,ŒWIÊTOKRZYSKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,ogó³em
+2600000,ŒWIÊTOKRZYSKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,do 40 m2
+2600000,ŒWIÊTOKRZYSKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,od 40,1 do 60 m2
+2600000,ŒWIÊTOKRZYSKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,od 60,1 do 80 m2
+2600000,ŒWIÊTOKRZYSKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,od 80,1 m2
+2600000,ŒWIÊTOKRZYSKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,ogó³em
+2600000,ŒWIÊTOKRZYSKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,do 40 m2
+2600000,ŒWIÊTOKRZYSKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,od 40,1 do 60 m2
+2600000,ŒWIÊTOKRZYSKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,od 60,1 do 80 m2
+2600000,ŒWIÊTOKRZYSKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,od 80,1 m2
+2600000,ŒWIÊTOKRZYSKIE,4 kwarta³,2025,,szt.,n,ogó³em,ogó³em
+2600000,ŒWIÊTOKRZYSKIE,4 kwarta³,2025,,szt.,n,ogó³em,do 40 m2
+2600000,ŒWIÊTOKRZYSKIE,4 kwarta³,2025,,szt.,n,ogó³em,od 40,1 do 60 m2
+2600000,ŒWIÊTOKRZYSKIE,4 kwarta³,2025,,szt.,n,ogó³em,od 60,1 do 80 m2
+2600000,ŒWIÊTOKRZYSKIE,4 kwarta³,2025,,szt.,n,ogó³em,od 80,1 m2
+2600000,ŒWIÊTOKRZYSKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,ogó³em
+2600000,ŒWIÊTOKRZYSKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,do 40 m2
+2600000,ŒWIÊTOKRZYSKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,od 40,1 do 60 m2
+2600000,ŒWIÊTOKRZYSKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,od 60,1 do 80 m2
+2600000,ŒWIÊTOKRZYSKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,od 80,1 m2
+2600000,ŒWIÊTOKRZYSKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,ogó³em
+2600000,ŒWIÊTOKRZYSKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,do 40 m2
+2600000,ŒWIÊTOKRZYSKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,od 40,1 do 60 m2
+2600000,ŒWIÊTOKRZYSKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,od 60,1 do 80 m2
+2600000,ŒWIÊTOKRZYSKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,od 80,1 m2
+2800000,WARMIÑSKO-MAZURSKIE,1 kwarta³,2025,,szt.,n,ogó³em,ogó³em
+2800000,WARMIÑSKO-MAZURSKIE,1 kwarta³,2025,,szt.,n,ogó³em,do 40 m2
+2800000,WARMIÑSKO-MAZURSKIE,1 kwarta³,2025,,szt.,n,ogó³em,od 40,1 do 60 m2
+2800000,WARMIÑSKO-MAZURSKIE,1 kwarta³,2025,,szt.,n,ogó³em,od 60,1 do 80 m2
+2800000,WARMIÑSKO-MAZURSKIE,1 kwarta³,2025,,szt.,n,ogó³em,od 80,1 m2
+2800000,WARMIÑSKO-MAZURSKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,ogó³em
+2800000,WARMIÑSKO-MAZURSKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,do 40 m2
+2800000,WARMIÑSKO-MAZURSKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,od 40,1 do 60 m2
+2800000,WARMIÑSKO-MAZURSKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,od 60,1 do 80 m2
+2800000,WARMIÑSKO-MAZURSKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,od 80,1 m2
+2800000,WARMIÑSKO-MAZURSKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,ogó³em
+2800000,WARMIÑSKO-MAZURSKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,do 40 m2
+2800000,WARMIÑSKO-MAZURSKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,od 40,1 do 60 m2
+2800000,WARMIÑSKO-MAZURSKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,od 60,1 do 80 m2
+2800000,WARMIÑSKO-MAZURSKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,od 80,1 m2
+2800000,WARMIÑSKO-MAZURSKIE,2 kwarta³,2025,,szt.,n,ogó³em,ogó³em
+2800000,WARMIÑSKO-MAZURSKIE,2 kwarta³,2025,,szt.,n,ogó³em,do 40 m2
+2800000,WARMIÑSKO-MAZURSKIE,2 kwarta³,2025,,szt.,n,ogó³em,od 40,1 do 60 m2
+2800000,WARMIÑSKO-MAZURSKIE,2 kwarta³,2025,,szt.,n,ogó³em,od 60,1 do 80 m2
+2800000,WARMIÑSKO-MAZURSKIE,2 kwarta³,2025,,szt.,n,ogó³em,od 80,1 m2
+2800000,WARMIÑSKO-MAZURSKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,ogó³em
+2800000,WARMIÑSKO-MAZURSKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,do 40 m2
+2800000,WARMIÑSKO-MAZURSKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,od 40,1 do 60 m2
+2800000,WARMIÑSKO-MAZURSKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,od 60,1 do 80 m2
+2800000,WARMIÑSKO-MAZURSKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,od 80,1 m2
+2800000,WARMIÑSKO-MAZURSKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,ogó³em
+2800000,WARMIÑSKO-MAZURSKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,do 40 m2
+2800000,WARMIÑSKO-MAZURSKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,od 40,1 do 60 m2
+2800000,WARMIÑSKO-MAZURSKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,od 60,1 do 80 m2
+2800000,WARMIÑSKO-MAZURSKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,od 80,1 m2
+2800000,WARMIÑSKO-MAZURSKIE,3 kwarta³,2025,,szt.,n,ogó³em,ogó³em
+2800000,WARMIÑSKO-MAZURSKIE,3 kwarta³,2025,,szt.,n,ogó³em,do 40 m2
+2800000,WARMIÑSKO-MAZURSKIE,3 kwarta³,2025,,szt.,n,ogó³em,od 40,1 do 60 m2
+2800000,WARMIÑSKO-MAZURSKIE,3 kwarta³,2025,,szt.,n,ogó³em,od 60,1 do 80 m2
+2800000,WARMIÑSKO-MAZURSKIE,3 kwarta³,2025,,szt.,n,ogó³em,od 80,1 m2
+2800000,WARMIÑSKO-MAZURSKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,ogó³em
+2800000,WARMIÑSKO-MAZURSKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,do 40 m2
+2800000,WARMIÑSKO-MAZURSKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,od 40,1 do 60 m2
+2800000,WARMIÑSKO-MAZURSKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,od 60,1 do 80 m2
+2800000,WARMIÑSKO-MAZURSKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,od 80,1 m2
+2800000,WARMIÑSKO-MAZURSKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,ogó³em
+2800000,WARMIÑSKO-MAZURSKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,do 40 m2
+2800000,WARMIÑSKO-MAZURSKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,od 40,1 do 60 m2
+2800000,WARMIÑSKO-MAZURSKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,od 60,1 do 80 m2
+2800000,WARMIÑSKO-MAZURSKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,od 80,1 m2
+2800000,WARMIÑSKO-MAZURSKIE,4 kwarta³,2025,,szt.,n,ogó³em,ogó³em
+2800000,WARMIÑSKO-MAZURSKIE,4 kwarta³,2025,,szt.,n,ogó³em,do 40 m2
+2800000,WARMIÑSKO-MAZURSKIE,4 kwarta³,2025,,szt.,n,ogó³em,od 40,1 do 60 m2
+2800000,WARMIÑSKO-MAZURSKIE,4 kwarta³,2025,,szt.,n,ogó³em,od 60,1 do 80 m2
+2800000,WARMIÑSKO-MAZURSKIE,4 kwarta³,2025,,szt.,n,ogó³em,od 80,1 m2
+2800000,WARMIÑSKO-MAZURSKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,ogó³em
+2800000,WARMIÑSKO-MAZURSKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,do 40 m2
+2800000,WARMIÑSKO-MAZURSKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,od 40,1 do 60 m2
+2800000,WARMIÑSKO-MAZURSKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,od 60,1 do 80 m2
+2800000,WARMIÑSKO-MAZURSKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,od 80,1 m2
+2800000,WARMIÑSKO-MAZURSKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,ogó³em
+2800000,WARMIÑSKO-MAZURSKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,do 40 m2
+2800000,WARMIÑSKO-MAZURSKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,od 40,1 do 60 m2
+2800000,WARMIÑSKO-MAZURSKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,od 60,1 do 80 m2
+2800000,WARMIÑSKO-MAZURSKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,od 80,1 m2
+3000000,WIELKOPOLSKIE,1 kwarta³,2025,,szt.,n,ogó³em,ogó³em
+3000000,WIELKOPOLSKIE,1 kwarta³,2025,,szt.,n,ogó³em,do 40 m2
+3000000,WIELKOPOLSKIE,1 kwarta³,2025,,szt.,n,ogó³em,od 40,1 do 60 m2
+3000000,WIELKOPOLSKIE,1 kwarta³,2025,,szt.,n,ogó³em,od 60,1 do 80 m2
+3000000,WIELKOPOLSKIE,1 kwarta³,2025,,szt.,n,ogó³em,od 80,1 m2
+3000000,WIELKOPOLSKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,ogó³em
+3000000,WIELKOPOLSKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,do 40 m2
+3000000,WIELKOPOLSKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,od 40,1 do 60 m2
+3000000,WIELKOPOLSKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,od 60,1 do 80 m2
+3000000,WIELKOPOLSKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,od 80,1 m2
+3000000,WIELKOPOLSKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,ogó³em
+3000000,WIELKOPOLSKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,do 40 m2
+3000000,WIELKOPOLSKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,od 40,1 do 60 m2
+3000000,WIELKOPOLSKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,od 60,1 do 80 m2
+3000000,WIELKOPOLSKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,od 80,1 m2
+3000000,WIELKOPOLSKIE,2 kwarta³,2025,,szt.,n,ogó³em,ogó³em
+3000000,WIELKOPOLSKIE,2 kwarta³,2025,,szt.,n,ogó³em,do 40 m2
+3000000,WIELKOPOLSKIE,2 kwarta³,2025,,szt.,n,ogó³em,od 40,1 do 60 m2
+3000000,WIELKOPOLSKIE,2 kwarta³,2025,,szt.,n,ogó³em,od 60,1 do 80 m2
+3000000,WIELKOPOLSKIE,2 kwarta³,2025,,szt.,n,ogó³em,od 80,1 m2
+3000000,WIELKOPOLSKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,ogó³em
+3000000,WIELKOPOLSKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,do 40 m2
+3000000,WIELKOPOLSKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,od 40,1 do 60 m2
+3000000,WIELKOPOLSKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,od 60,1 do 80 m2
+3000000,WIELKOPOLSKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,od 80,1 m2
+3000000,WIELKOPOLSKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,ogó³em
+3000000,WIELKOPOLSKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,do 40 m2
+3000000,WIELKOPOLSKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,od 40,1 do 60 m2
+3000000,WIELKOPOLSKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,od 60,1 do 80 m2
+3000000,WIELKOPOLSKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,od 80,1 m2
+3000000,WIELKOPOLSKIE,3 kwarta³,2025,,szt.,n,ogó³em,ogó³em
+3000000,WIELKOPOLSKIE,3 kwarta³,2025,,szt.,n,ogó³em,do 40 m2
+3000000,WIELKOPOLSKIE,3 kwarta³,2025,,szt.,n,ogó³em,od 40,1 do 60 m2
+3000000,WIELKOPOLSKIE,3 kwarta³,2025,,szt.,n,ogó³em,od 60,1 do 80 m2
+3000000,WIELKOPOLSKIE,3 kwarta³,2025,,szt.,n,ogó³em,od 80,1 m2
+3000000,WIELKOPOLSKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,ogó³em
+3000000,WIELKOPOLSKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,do 40 m2
+3000000,WIELKOPOLSKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,od 40,1 do 60 m2
+3000000,WIELKOPOLSKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,od 60,1 do 80 m2
+3000000,WIELKOPOLSKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,od 80,1 m2
+3000000,WIELKOPOLSKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,ogó³em
+3000000,WIELKOPOLSKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,do 40 m2
+3000000,WIELKOPOLSKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,od 40,1 do 60 m2
+3000000,WIELKOPOLSKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,od 60,1 do 80 m2
+3000000,WIELKOPOLSKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,od 80,1 m2
+3000000,WIELKOPOLSKIE,4 kwarta³,2025,,szt.,n,ogó³em,ogó³em
+3000000,WIELKOPOLSKIE,4 kwarta³,2025,,szt.,n,ogó³em,do 40 m2
+3000000,WIELKOPOLSKIE,4 kwarta³,2025,,szt.,n,ogó³em,od 40,1 do 60 m2
+3000000,WIELKOPOLSKIE,4 kwarta³,2025,,szt.,n,ogó³em,od 60,1 do 80 m2
+3000000,WIELKOPOLSKIE,4 kwarta³,2025,,szt.,n,ogó³em,od 80,1 m2
+3000000,WIELKOPOLSKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,ogó³em
+3000000,WIELKOPOLSKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,do 40 m2
+3000000,WIELKOPOLSKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,od 40,1 do 60 m2
+3000000,WIELKOPOLSKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,od 60,1 do 80 m2
+3000000,WIELKOPOLSKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,od 80,1 m2
+3000000,WIELKOPOLSKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,ogó³em
+3000000,WIELKOPOLSKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,do 40 m2
+3000000,WIELKOPOLSKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,od 40,1 do 60 m2
+3000000,WIELKOPOLSKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,od 60,1 do 80 m2
+3000000,WIELKOPOLSKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,od 80,1 m2
+3200000,ZACHODNIOPOMORSKIE,1 kwarta³,2025,,szt.,n,ogó³em,ogó³em
+3200000,ZACHODNIOPOMORSKIE,1 kwarta³,2025,,szt.,n,ogó³em,do 40 m2
+3200000,ZACHODNIOPOMORSKIE,1 kwarta³,2025,,szt.,n,ogó³em,od 40,1 do 60 m2
+3200000,ZACHODNIOPOMORSKIE,1 kwarta³,2025,,szt.,n,ogó³em,od 60,1 do 80 m2
+3200000,ZACHODNIOPOMORSKIE,1 kwarta³,2025,,szt.,n,ogó³em,od 80,1 m2
+3200000,ZACHODNIOPOMORSKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,ogó³em
+3200000,ZACHODNIOPOMORSKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,do 40 m2
+3200000,ZACHODNIOPOMORSKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,od 40,1 do 60 m2
+3200000,ZACHODNIOPOMORSKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,od 60,1 do 80 m2
+3200000,ZACHODNIOPOMORSKIE,1 kwarta³,2025,,szt.,n,rynek pierwotny,od 80,1 m2
+3200000,ZACHODNIOPOMORSKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,ogó³em
+3200000,ZACHODNIOPOMORSKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,do 40 m2
+3200000,ZACHODNIOPOMORSKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,od 40,1 do 60 m2
+3200000,ZACHODNIOPOMORSKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,od 60,1 do 80 m2
+3200000,ZACHODNIOPOMORSKIE,1 kwarta³,2025,,szt.,n,rynek wtórny,od 80,1 m2
+3200000,ZACHODNIOPOMORSKIE,2 kwarta³,2025,,szt.,n,ogó³em,ogó³em
+3200000,ZACHODNIOPOMORSKIE,2 kwarta³,2025,,szt.,n,ogó³em,do 40 m2
+3200000,ZACHODNIOPOMORSKIE,2 kwarta³,2025,,szt.,n,ogó³em,od 40,1 do 60 m2
+3200000,ZACHODNIOPOMORSKIE,2 kwarta³,2025,,szt.,n,ogó³em,od 60,1 do 80 m2
+3200000,ZACHODNIOPOMORSKIE,2 kwarta³,2025,,szt.,n,ogó³em,od 80,1 m2
+3200000,ZACHODNIOPOMORSKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,ogó³em
+3200000,ZACHODNIOPOMORSKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,do 40 m2
+3200000,ZACHODNIOPOMORSKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,od 40,1 do 60 m2
+3200000,ZACHODNIOPOMORSKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,od 60,1 do 80 m2
+3200000,ZACHODNIOPOMORSKIE,2 kwarta³,2025,,szt.,n,rynek pierwotny,od 80,1 m2
+3200000,ZACHODNIOPOMORSKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,ogó³em
+3200000,ZACHODNIOPOMORSKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,do 40 m2
+3200000,ZACHODNIOPOMORSKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,od 40,1 do 60 m2
+3200000,ZACHODNIOPOMORSKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,od 60,1 do 80 m2
+3200000,ZACHODNIOPOMORSKIE,2 kwarta³,2025,,szt.,n,rynek wtórny,od 80,1 m2
+3200000,ZACHODNIOPOMORSKIE,3 kwarta³,2025,,szt.,n,ogó³em,ogó³em
+3200000,ZACHODNIOPOMORSKIE,3 kwarta³,2025,,szt.,n,ogó³em,do 40 m2
+3200000,ZACHODNIOPOMORSKIE,3 kwarta³,2025,,szt.,n,ogó³em,od 40,1 do 60 m2
+3200000,ZACHODNIOPOMORSKIE,3 kwarta³,2025,,szt.,n,ogó³em,od 60,1 do 80 m2
+3200000,ZACHODNIOPOMORSKIE,3 kwarta³,2025,,szt.,n,ogó³em,od 80,1 m2
+3200000,ZACHODNIOPOMORSKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,ogó³em
+3200000,ZACHODNIOPOMORSKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,do 40 m2
+3200000,ZACHODNIOPOMORSKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,od 40,1 do 60 m2
+3200000,ZACHODNIOPOMORSKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,od 60,1 do 80 m2
+3200000,ZACHODNIOPOMORSKIE,3 kwarta³,2025,,szt.,n,rynek pierwotny,od 80,1 m2
+3200000,ZACHODNIOPOMORSKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,ogó³em
+3200000,ZACHODNIOPOMORSKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,do 40 m2
+3200000,ZACHODNIOPOMORSKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,od 40,1 do 60 m2
+3200000,ZACHODNIOPOMORSKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,od 60,1 do 80 m2
+3200000,ZACHODNIOPOMORSKIE,3 kwarta³,2025,,szt.,n,rynek wtórny,od 80,1 m2
+3200000,ZACHODNIOPOMORSKIE,4 kwarta³,2025,,szt.,n,ogó³em,ogó³em
+3200000,ZACHODNIOPOMORSKIE,4 kwarta³,2025,,szt.,n,ogó³em,do 40 m2
+3200000,ZACHODNIOPOMORSKIE,4 kwarta³,2025,,szt.,n,ogó³em,od 40,1 do 60 m2
+3200000,ZACHODNIOPOMORSKIE,4 kwarta³,2025,,szt.,n,ogó³em,od 60,1 do 80 m2
+3200000,ZACHODNIOPOMORSKIE,4 kwarta³,2025,,szt.,n,ogó³em,od 80,1 m2
+3200000,ZACHODNIOPOMORSKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,ogó³em
+3200000,ZACHODNIOPOMORSKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,do 40 m2
+3200000,ZACHODNIOPOMORSKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,od 40,1 do 60 m2
+3200000,ZACHODNIOPOMORSKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,od 60,1 do 80 m2
+3200000,ZACHODNIOPOMORSKIE,4 kwarta³,2025,,szt.,n,rynek pierwotny,od 80,1 m2
+3200000,ZACHODNIOPOMORSKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,ogó³em
+3200000,ZACHODNIOPOMORSKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,do 40 m2
+3200000,ZACHODNIOPOMORSKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,od 40,1 do 60 m2
+3200000,ZACHODNIOPOMORSKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,od 60,1 do 80 m2
+3200000,ZACHODNIOPOMORSKIE,4 kwarta³,2025,,szt.,n,rynek wtórny,od 80,1 m2
