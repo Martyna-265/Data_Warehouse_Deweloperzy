@@ -11,8 +11,8 @@
   DTS:LocaleID="1045"
   DTS:ObjectName="Package"
   DTS:PackageType="5"
-  DTS:VersionBuild="103"
-  DTS:VersionGUID="{1E0B94B5-0357-4930-ABE3-B44B51885440}">
+  DTS:VersionBuild="115"
+  DTS:VersionGUID="{755DA2B9-E789-4B90-B4EA-3A48C5956D1F}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -21,6 +21,8 @@
       DTS:CreationName="FLATFILE"
       DTS:DTSID="{6B518AC8-B435-4458-B1A6-B540358735E0}"
       DTS:ObjectName="Budownictwo">
+      <DTS:PropertyExpression
+        DTS:Name="ConnectionString">@[User::FolderProjektu] + "\\Dane\\Budownictwo.csv"</DTS:PropertyExpression>
       <DTS:ObjectData>
         <DTS:ConnectionManager
           DTS:Format="Delimited"
@@ -30,7 +32,7 @@
           DTS:RowDelimiter=""
           DTS:TextQualifier="_x003C_none_x003E_"
           DTS:CodePage="65001"
-          DTS:ConnectionString="C:\Users\msado\SynologyDrive\Studia\Hurtownie danych\Deweloperzy\Dane\Budownictwo.csv">
+          DTS:ConnectionString="C:\Users\zawol\repos\Data_Warehouse_Deweloperzy\Dane\Budownictwo.csv">
           <DTS:FlatFileColumns>
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -1013,6 +1015,8 @@
       DTS:CreationName="FLATFILE"
       DTS:DTSID="{6024B375-040F-46B4-BBE9-7E828D2D6E23}"
       DTS:ObjectName="Budownictwo_Unpivot">
+      <DTS:PropertyExpression
+        DTS:Name="ConnectionString">@[User::FolderProjektu] + "\\Dane\\Budownictwo_UNPIVOT.csv"</DTS:PropertyExpression>
       <DTS:ObjectData>
         <DTS:ConnectionManager
           DTS:Format="Delimited"
@@ -1022,7 +1026,7 @@
           DTS:RowDelimiter=""
           DTS:TextQualifier="_x003C_none_x003E_"
           DTS:CodePage="65001"
-          DTS:ConnectionString="C:\Users\msado\SynologyDrive\Studia\Hurtownie danych\Deweloperzy\Dane\Budownictwo_UNPIVOT.csv">
+          DTS:ConnectionString="C:\Users\zawol\repos\Data_Warehouse_Deweloperzy\Dane\Budownictwo_UNPIVOT.csv">
           <DTS:FlatFileColumns>
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -1090,11 +1094,13 @@
       DTS:CreationName="EXCEL"
       DTS:DTSID="{99FBE691-1BB7-4411-A72D-3A19C9ED64B7}"
       DTS:ObjectName="Liczba_mieszkan">
+      <DTS:PropertyExpression
+        DTS:Name="ExcelFilePath">@[User::FolderProjektu] + "\\Dane\\Liczba_mieszkań.xlsx"</DTS:PropertyExpression>
       <DTS:ObjectData>
         <DTS:ConnectionManager
           DTS:ConnectRetryCount="0"
           DTS:ConnectRetryInterval="0"
-          DTS:ConnectionString="Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\msado\SynologyDrive\Studia\Hurtownie danych\Deweloperzy\Dane\Liczba_mieszkań.xlsx;Extended Properties=&quot;EXCEL 12.0 XML;HDR=YES&quot;;" />
+          DTS:ConnectionString="Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\zawol\repos\Data_Warehouse_Deweloperzy\Dane\Liczba_mieszkań.xlsx;Extended Properties=&quot;EXCEL 12.0 XML;HDR=YES&quot;;" />
       </DTS:ObjectData>
     </DTS:ConnectionManager>
     <DTS:ConnectionManager
@@ -1102,11 +1108,13 @@
       DTS:CreationName="EXCEL"
       DTS:DTSID="{8A94EA2B-B461-46BA-8C33-B2199578C70E}"
       DTS:ObjectName="Mediana">
+      <DTS:PropertyExpression
+        DTS:Name="ExcelFilePath">@[User::FolderProjektu] + "\\Dane\\Mediana.xlsx"</DTS:PropertyExpression>
       <DTS:ObjectData>
         <DTS:ConnectionManager
           DTS:ConnectRetryCount="0"
           DTS:ConnectRetryInterval="0"
-          DTS:ConnectionString="Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\msado\SynologyDrive\Studia\Hurtownie danych\Deweloperzy\Dane\Mediana.xlsx;Extended Properties=&quot;EXCEL 12.0 XML;HDR=YES&quot;;" />
+          DTS:ConnectionString="Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\zawol\repos\Data_Warehouse_Deweloperzy\Dane\Mediana.xlsx;Extended Properties=&quot;EXCEL 12.0 XML;HDR=YES&quot;;" />
       </DTS:ObjectData>
     </DTS:ConnectionManager>
     <DTS:ConnectionManager
@@ -1114,6 +1122,8 @@
       DTS:CreationName="FLATFILE"
       DTS:DTSID="{480A6B34-84BF-4472-9CAD-90A1B997E0F9}"
       DTS:ObjectName="Mieszkania_pozwolenia">
+      <DTS:PropertyExpression
+        DTS:Name="ConnectionString">@[User::FolderProjektu] + "\\Dane\\Mieszkania_pozwolenia.csv"</DTS:PropertyExpression>
       <DTS:ObjectData>
         <DTS:ConnectionManager
           DTS:Format="Delimited"
@@ -1123,7 +1133,7 @@
           DTS:RowDelimiter=""
           DTS:TextQualifier="_x003C_none_x003E_"
           DTS:CodePage="65001"
-          DTS:ConnectionString="C:\Users\msado\SynologyDrive\Studia\Hurtownie danych\Deweloperzy\Dane\Mieszkania_pozwolenia.csv">
+          DTS:ConnectionString="C:\Users\zawol\repos\Data_Warehouse_Deweloperzy\Dane\Mieszkania_pozwolenia.csv">
           <DTS:FlatFileColumns>
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -2106,6 +2116,8 @@
       DTS:CreationName="FLATFILE"
       DTS:DTSID="{3498D750-E8E2-423E-BE8E-77389B3CF3A4}"
       DTS:ObjectName="NUTS_do_2017">
+      <DTS:PropertyExpression
+        DTS:Name="ConnectionString">@[User::FolderProjektu] + "\\Dane\\NUTS_do_2017.csv"</DTS:PropertyExpression>
       <DTS:ObjectData>
         <DTS:ConnectionManager
           DTS:Format="Delimited"
@@ -2115,7 +2127,7 @@
           DTS:RowDelimiter=""
           DTS:TextQualifier="_x003C_none_x003E_"
           DTS:CodePage="1250"
-          DTS:ConnectionString="C:\Users\msado\SynologyDrive\Studia\Hurtownie danych\Deweloperzy\Dane\NUTS_do_2017.csv">
+          DTS:ConnectionString="C:\Users\zawol\repos\Data_Warehouse_Deweloperzy\Dane\NUTS_do_2017.csv">
           <DTS:FlatFileColumns>
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -2152,6 +2164,8 @@
       DTS:CreationName="FLATFILE"
       DTS:DTSID="{82EA3244-3C9B-4B7F-9EEB-B2A3017B49CA}"
       DTS:ObjectName="NUTS_od_2018">
+      <DTS:PropertyExpression
+        DTS:Name="ConnectionString">@[User::FolderProjektu] + "\\Dane\\NUTS_od_2018.csv"</DTS:PropertyExpression>
       <DTS:ObjectData>
         <DTS:ConnectionManager
           DTS:Format="Delimited"
@@ -2161,7 +2175,7 @@
           DTS:RowDelimiter=""
           DTS:TextQualifier="_x003C_none_x003E_"
           DTS:CodePage="1250"
-          DTS:ConnectionString="C:\Users\msado\SynologyDrive\Studia\Hurtownie danych\Deweloperzy\Dane\NUTS_od_2018.csv">
+          DTS:ConnectionString="C:\Users\zawol\repos\Data_Warehouse_Deweloperzy\Dane\NUTS_od_2018.csv">
           <DTS:FlatFileColumns>
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -2198,6 +2212,8 @@
       DTS:CreationName="FLATFILE"
       DTS:DTSID="{5E784CA4-1C12-4BD1-AB28-FDBDCD98325A}"
       DTS:ObjectName="Odrzucone_dane_Budownictwo">
+      <DTS:PropertyExpression
+        DTS:Name="ConnectionString">@[User::FolderProjektu] + "\\Odrzucone_dane\\Odrzucone_dane_Budownictwo.txt"</DTS:PropertyExpression>
       <DTS:ObjectData>
         <DTS:ConnectionManager
           DTS:Format="Delimited"
@@ -2206,7 +2222,7 @@
           DTS:RowDelimiter=""
           DTS:TextQualifier="_x003C_none_x003E_"
           DTS:CodePage="65001"
-          DTS:ConnectionString="C:\Users\msado\SynologyDrive\Studia\Hurtownie danych\Deweloperzy\Odrzucone_dane\Odrzucone_dane_Budownictwo.txt">
+          DTS:ConnectionString="C:\Users\zawol\repos\Data_Warehouse_Deweloperzy\Odrzucone_dane\Odrzucone_dane_Budownictwo.txt">
           <DTS:FlatFileColumns>
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -2271,6 +2287,8 @@
       DTS:CreationName="FLATFILE"
       DTS:DTSID="{96EE097C-F6E3-491D-AA93-DA5834BD26EC}"
       DTS:ObjectName="Odrzucone_dane_Liczba_mieszkan">
+      <DTS:PropertyExpression
+        DTS:Name="ConnectionString">@[User::FolderProjektu] + "\\Odrzucone_dane\\Odrzucone_dane_Liczba_mieszkan.txt"</DTS:PropertyExpression>
       <DTS:ObjectData>
         <DTS:ConnectionManager
           DTS:Format="Delimited"
@@ -2279,7 +2297,7 @@
           DTS:RowDelimiter=""
           DTS:TextQualifier="_x003C_none_x003E_"
           DTS:CodePage="1250"
-          DTS:ConnectionString="C:\Users\msado\SynologyDrive\Studia\Hurtownie danych\Deweloperzy\Odrzucone_dane\Odrzucone_dane_Liczba_mieszkan.txt">
+          DTS:ConnectionString="C:\Users\zawol\repos\Data_Warehouse_Deweloperzy\Odrzucone_dane\Odrzucone_dane_Liczba_mieszkan.txt">
           <DTS:FlatFileColumns>
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -2370,6 +2388,8 @@
       DTS:CreationName="FLATFILE"
       DTS:DTSID="{8435915E-63F2-40F1-ADCA-B42CD2776225}"
       DTS:ObjectName="Odrzucone_dane_Mediana">
+      <DTS:PropertyExpression
+        DTS:Name="ConnectionString">@[User::FolderProjektu] + "\\Odrzucone_dane\\Odrzucone_dane_Mediana.txt"</DTS:PropertyExpression>
       <DTS:ObjectData>
         <DTS:ConnectionManager
           DTS:Format="Delimited"
@@ -2378,7 +2398,7 @@
           DTS:RowDelimiter=""
           DTS:TextQualifier="_x003C_none_x003E_"
           DTS:CodePage="1250"
-          DTS:ConnectionString="C:\Users\msado\SynologyDrive\Studia\Hurtownie danych\Deweloperzy\Odrzucone_dane\Odrzucone_dane_Mediana.txt">
+          DTS:ConnectionString="C:\Users\zawol\repos\Data_Warehouse_Deweloperzy\Odrzucone_dane\Odrzucone_dane_Mediana.txt">
           <DTS:FlatFileColumns>
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -2469,6 +2489,8 @@
       DTS:CreationName="FLATFILE"
       DTS:DTSID="{1E95D899-6501-416C-832D-FC9C7F051E31}"
       DTS:ObjectName="Odrzucone_dane_Powierzchnia">
+      <DTS:PropertyExpression
+        DTS:Name="ConnectionString">@[User::FolderProjektu] + "\\Odrzucone_dane\\Odrzucone_dane_Powierzchnia.txt"</DTS:PropertyExpression>
       <DTS:ObjectData>
         <DTS:ConnectionManager
           DTS:Format="Delimited"
@@ -2477,7 +2499,7 @@
           DTS:RowDelimiter=""
           DTS:TextQualifier="_x003C_none_x003E_"
           DTS:CodePage="1250"
-          DTS:ConnectionString="C:\Users\msado\SynologyDrive\Studia\Hurtownie danych\Deweloperzy\Odrzucone_dane\Odrzucone_dane_Powierzchnia.txt">
+          DTS:ConnectionString="C:\Users\zawol\repos\Data_Warehouse_Deweloperzy\Odrzucone_dane\Odrzucone_dane_Powierzchnia.txt">
           <DTS:FlatFileColumns>
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -2568,6 +2590,8 @@
       DTS:CreationName="FLATFILE"
       DTS:DTSID="{DCA1ACA4-FDAC-450E-B6F4-156CCE040370}"
       DTS:ObjectName="Odrzucone_dane_Przecietne_wynagrodzenie">
+      <DTS:PropertyExpression
+        DTS:Name="ConnectionString">@[User::FolderProjektu] + "\\Odrzucone_dane\\Odrzucone_dane_Przecietne_wynagrodzenie.txt"</DTS:PropertyExpression>
       <DTS:ObjectData>
         <DTS:ConnectionManager
           DTS:Format="Delimited"
@@ -2576,7 +2600,7 @@
           DTS:RowDelimiter=""
           DTS:TextQualifier="_x003C_none_x003E_"
           DTS:CodePage="65001"
-          DTS:ConnectionString="C:\Users\msado\SynologyDrive\Studia\Hurtownie danych\Deweloperzy\Odrzucone_dane\Odrzucone_dane_Przecietne_wynagrodzenie.txt">
+          DTS:ConnectionString="C:\Users\zawol\repos\Data_Warehouse_Deweloperzy\Odrzucone_dane\Odrzucone_dane_Przecietne_wynagrodzenie.txt">
           <DTS:FlatFileColumns>
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -2641,6 +2665,8 @@
       DTS:CreationName="FLATFILE"
       DTS:DTSID="{F6EC6488-7627-4D76-87F3-27C4A989EF83}"
       DTS:ObjectName="Odrzucone_dane_Srednia_cena">
+      <DTS:PropertyExpression
+        DTS:Name="ConnectionString">@[User::FolderProjektu] + "\\Odrzucone_dane\\Odrzucone_dane_Srednia_cena.txt"</DTS:PropertyExpression>
       <DTS:ObjectData>
         <DTS:ConnectionManager
           DTS:Format="Delimited"
@@ -2649,7 +2675,7 @@
           DTS:RowDelimiter=""
           DTS:TextQualifier="_x003C_none_x003E_"
           DTS:CodePage="1250"
-          DTS:ConnectionString="C:\Users\msado\SynologyDrive\Studia\Hurtownie danych\Deweloperzy\Odrzucone_dane\Odrzucone_dane_Srednia_cena.txt">
+          DTS:ConnectionString="C:\Users\zawol\repos\Data_Warehouse_Deweloperzy\Odrzucone_dane\Odrzucone_dane_Srednia_cena.txt">
           <DTS:FlatFileColumns>
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -2740,6 +2766,8 @@
       DTS:CreationName="FLATFILE"
       DTS:DTSID="{DEEE9087-3293-4B16-AA3C-CC8D40822BA5}"
       DTS:ObjectName="Odrzucone_dane_Srednia_cena_m2">
+      <DTS:PropertyExpression
+        DTS:Name="ConnectionString">@[User::FolderProjektu] + "\\Odrzucone_dane\\Odrzucone_dane_Srednia_cena_m2.txt"</DTS:PropertyExpression>
       <DTS:ObjectData>
         <DTS:ConnectionManager
           DTS:Format="Delimited"
@@ -2748,7 +2776,7 @@
           DTS:RowDelimiter=""
           DTS:TextQualifier="_x003C_none_x003E_"
           DTS:CodePage="1250"
-          DTS:ConnectionString="C:\Users\msado\SynologyDrive\Studia\Hurtownie danych\Deweloperzy\Odrzucone_dane\Odrzucone_dane_Srednia_cena_m2.txt">
+          DTS:ConnectionString="C:\Users\zawol\repos\Data_Warehouse_Deweloperzy\Odrzucone_dane\Odrzucone_dane_Srednia_cena_m2.txt">
           <DTS:FlatFileColumns>
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -2839,6 +2867,8 @@
       DTS:CreationName="FLATFILE"
       DTS:DTSID="{EBC4CBE5-C4B4-4888-9E37-B6508B1C4D08}"
       DTS:ObjectName="Odrzucone_dane_Wartosc">
+      <DTS:PropertyExpression
+        DTS:Name="ConnectionString">@[User::FolderProjektu] + "\\Odrzucone_dane\\Odrzucone_dane_Wartosc.txt"</DTS:PropertyExpression>
       <DTS:ObjectData>
         <DTS:ConnectionManager
           DTS:Format="Delimited"
@@ -2847,7 +2877,7 @@
           DTS:RowDelimiter=""
           DTS:TextQualifier="_x003C_none_x003E_"
           DTS:CodePage="1250"
-          DTS:ConnectionString="C:\Users\msado\SynologyDrive\Studia\Hurtownie danych\Deweloperzy\Odrzucone_dane\Odrzucone_dane_Wartosc.txt">
+          DTS:ConnectionString="C:\Users\zawol\repos\Data_Warehouse_Deweloperzy\Odrzucone_dane\Odrzucone_dane_Wartosc.txt">
           <DTS:FlatFileColumns>
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -2938,6 +2968,8 @@
       DTS:CreationName="FLATFILE"
       DTS:DTSID="{72CC1DBC-F1CA-414D-8037-65CA444CB385}"
       DTS:ObjectName="Odrzucone_dane_Wynagrodzenie_region">
+      <DTS:PropertyExpression
+        DTS:Name="ConnectionString">@[User::FolderProjektu] + "\\Odrzucone_dane\\Odrzucone_dane_Wynagrodzenia_region.txt"</DTS:PropertyExpression>
       <DTS:ObjectData>
         <DTS:ConnectionManager
           DTS:Format="Delimited"
@@ -2946,7 +2978,7 @@
           DTS:RowDelimiter=""
           DTS:TextQualifier="_x003C_none_x003E_"
           DTS:CodePage="1250"
-          DTS:ConnectionString="C:\Users\msado\SynologyDrive\Studia\Hurtownie danych\Deweloperzy\Odrzucone_dane\Odrzucone_dane_Wynagrodzenie_region.txt">
+          DTS:ConnectionString="C:\Users\zawol\repos\Data_Warehouse_Deweloperzy\Odrzucone_dane\Odrzucone_dane_Wynagrodzenia_region.txt">
           <DTS:FlatFileColumns>
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -3028,11 +3060,13 @@
       DTS:CreationName="EXCEL"
       DTS:DTSID="{523FCCB0-1819-490C-84BF-F7F3B98F332F}"
       DTS:ObjectName="Powierzchnia">
+      <DTS:PropertyExpression
+        DTS:Name="ExcelFilePath">@[User::FolderProjektu] + "\\Dane\\Powierzchnia.xlsx"</DTS:PropertyExpression>
       <DTS:ObjectData>
         <DTS:ConnectionManager
           DTS:ConnectRetryCount="0"
           DTS:ConnectRetryInterval="0"
-          DTS:ConnectionString="Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\msado\SynologyDrive\Studia\Hurtownie danych\Deweloperzy\Dane\Powierzchnia.xlsx;Extended Properties=&quot;EXCEL 12.0 XML;HDR=YES&quot;;" />
+          DTS:ConnectionString="Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\zawol\repos\Data_Warehouse_Deweloperzy\Dane\Powierzchnia.xlsx;Extended Properties=&quot;EXCEL 12.0 XML;HDR=YES&quot;;" />
       </DTS:ObjectData>
     </DTS:ConnectionManager>
     <DTS:ConnectionManager
@@ -3040,6 +3074,8 @@
       DTS:CreationName="FLATFILE"
       DTS:DTSID="{2AC12ECF-C40B-43A1-8331-3F48FF776688}"
       DTS:ObjectName="Przecietne_wynagrodzenie">
+      <DTS:PropertyExpression
+        DTS:Name="ConnectionString">@[User::FolderProjektu] + "\\Dane\\Przeciętne_wynagrodzenie.csv"</DTS:PropertyExpression>
       <DTS:ObjectData>
         <DTS:ConnectionManager
           DTS:Format="Delimited"
@@ -3049,7 +3085,7 @@
           DTS:RowDelimiter=""
           DTS:TextQualifier="_x003C_none_x003E_"
           DTS:CodePage="65001"
-          DTS:ConnectionString="C:\Users\msado\SynologyDrive\Studia\Hurtownie danych\Deweloperzy\Dane\Przeciętne_wynagrodzenie.csv">
+          DTS:ConnectionString="C:\Users\zawol\repos\Data_Warehouse_Deweloperzy\Dane\Przeciętne_wynagrodzenie.csv">
           <DTS:FlatFileColumns>
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -4032,6 +4068,8 @@
       DTS:CreationName="FLATFILE"
       DTS:DTSID="{2B12727B-C4B6-4F66-8BEB-8024E6A1BA9E}"
       DTS:ObjectName="Przecietne_wynagrodzenie_Unpivot">
+      <DTS:PropertyExpression
+        DTS:Name="ConnectionString">@[User::FolderProjektu] + "\\Dane\\Przeciętne_wynagrodzenie_UNPIVOT.csv"</DTS:PropertyExpression>
       <DTS:ObjectData>
         <DTS:ConnectionManager
           DTS:Format="Delimited"
@@ -4041,7 +4079,7 @@
           DTS:RowDelimiter=""
           DTS:TextQualifier="_x003C_none_x003E_"
           DTS:CodePage="65001"
-          DTS:ConnectionString="C:\Users\msado\SynologyDrive\Studia\Hurtownie danych\Deweloperzy\Dane\Przeciętne_wynagrodzenie_UNPIVOT.csv">
+          DTS:ConnectionString="C:\Users\zawol\repos\Data_Warehouse_Deweloperzy\Dane\Przeciętne_wynagrodzenie_UNPIVOT.csv">
           <DTS:FlatFileColumns>
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -4097,11 +4135,13 @@
       DTS:CreationName="EXCEL"
       DTS:DTSID="{50106A88-4604-46DD-BF54-534C3AB6A8BE}"
       DTS:ObjectName="Srednia_cena">
+      <DTS:PropertyExpression
+        DTS:Name="ExcelFilePath">@[User::FolderProjektu] + "\\Dane\\Średnia_cena.xlsx"</DTS:PropertyExpression>
       <DTS:ObjectData>
         <DTS:ConnectionManager
           DTS:ConnectRetryCount="0"
           DTS:ConnectRetryInterval="0"
-          DTS:ConnectionString="Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\msado\SynologyDrive\Studia\Hurtownie danych\Deweloperzy\Dane\Średnia_cena.xlsx;Extended Properties=&quot;EXCEL 12.0 XML;HDR=YES&quot;;" />
+          DTS:ConnectionString="Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\zawol\repos\Data_Warehouse_Deweloperzy\Dane\Średnia_cena.xlsx;Extended Properties=&quot;EXCEL 12.0 XML;HDR=YES&quot;;" />
       </DTS:ObjectData>
     </DTS:ConnectionManager>
     <DTS:ConnectionManager
@@ -4109,11 +4149,13 @@
       DTS:CreationName="EXCEL"
       DTS:DTSID="{1741814F-070E-46FF-95B4-92646E16722A}"
       DTS:ObjectName="Srednia_cena_m2">
+      <DTS:PropertyExpression
+        DTS:Name="ExcelFilePath">@[User::FolderProjektu] + "\\Dane\\Średnia_cena_m2.xlsx"</DTS:PropertyExpression>
       <DTS:ObjectData>
         <DTS:ConnectionManager
           DTS:ConnectRetryCount="0"
           DTS:ConnectRetryInterval="0"
-          DTS:ConnectionString="Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\msado\SynologyDrive\Studia\Hurtownie danych\Deweloperzy\Dane\Średnia_cena_m2.xlsx;Extended Properties=&quot;EXCEL 12.0 XML;HDR=YES&quot;;" />
+          DTS:ConnectionString="Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\zawol\repos\Data_Warehouse_Deweloperzy\Dane\Średnia_cena_m2.xlsx;Extended Properties=&quot;EXCEL 12.0 XML;HDR=YES&quot;;" />
       </DTS:ObjectData>
     </DTS:ConnectionManager>
     <DTS:ConnectionManager
@@ -4121,11 +4163,13 @@
       DTS:CreationName="EXCEL"
       DTS:DTSID="{C7428EFF-7A72-4F9A-AC45-F57540B94A04}"
       DTS:ObjectName="Stopy_procentowe">
+      <DTS:PropertyExpression
+        DTS:Name="ExcelFilePath">@[User::FolderProjektu] + "\\Dane\\Stopy_procentowe.xlsx"</DTS:PropertyExpression>
       <DTS:ObjectData>
         <DTS:ConnectionManager
           DTS:ConnectRetryCount="0"
           DTS:ConnectRetryInterval="0"
-          DTS:ConnectionString="Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\msado\SynologyDrive\Studia\Hurtownie danych\Deweloperzy\Dane\Stopy_procentowe.xlsx;Extended Properties=&quot;EXCEL 12.0 XML;HDR=YES&quot;;" />
+          DTS:ConnectionString="Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\zawol\repos\Data_Warehouse_Deweloperzy\Dane\Stopy_procentowe.xlsx;Extended Properties=&quot;EXCEL 12.0 XML;HDR=YES&quot;;" />
       </DTS:ObjectData>
     </DTS:ConnectionManager>
     <DTS:ConnectionManager
@@ -4133,6 +4177,8 @@
       DTS:CreationName="FLATFILE"
       DTS:DTSID="{76EC44AE-47AF-4C2A-8912-2F4A363627AB}"
       DTS:ObjectName="Stopy_procentowe_csv">
+      <DTS:PropertyExpression
+        DTS:Name="ConnectionString">@[User::FolderProjektu] + "\\Dane\\Stopy_procentowe.csv"</DTS:PropertyExpression>
       <DTS:ObjectData>
         <DTS:ConnectionManager
           DTS:Format="Delimited"
@@ -4142,7 +4188,7 @@
           DTS:RowDelimiter=""
           DTS:TextQualifier="_x003C_none_x003E_"
           DTS:CodePage="65001"
-          DTS:ConnectionString="C:\Users\msado\SynologyDrive\Studia\Hurtownie danych\Deweloperzy\Dane\Stopy_procentowe.csv">
+          DTS:ConnectionString="C:\Users\zawol\repos\Data_Warehouse_Deweloperzy\Dane\Stopy_procentowe.csv">
           <DTS:FlatFileColumns>
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -5431,6 +5477,8 @@
       DTS:CreationName="FLATFILE"
       DTS:DTSID="{A2432932-CEED-4D17-8383-178DEDD02EDA}"
       DTS:ObjectName="Stopy_procentowe_Unpivot">
+      <DTS:PropertyExpression
+        DTS:Name="ConnectionString">@[User::FolderProjektu] + "\\Dane\\Stopy_procentowe_UNPIVOT.csv"</DTS:PropertyExpression>
       <DTS:ObjectData>
         <DTS:ConnectionManager
           DTS:Format="Delimited"
@@ -5440,7 +5488,7 @@
           DTS:RowDelimiter=""
           DTS:TextQualifier="_x003C_none_x003E_"
           DTS:CodePage="1250"
-          DTS:ConnectionString="C:\Users\msado\SynologyDrive\Studia\Hurtownie danych\Deweloperzy\Dane\Stopy_procentowe_UNPIVOT.csv">
+          DTS:ConnectionString="C:\Users\zawol\repos\Data_Warehouse_Deweloperzy\Dane\Stopy_procentowe_UNPIVOT.csv">
           <DTS:FlatFileColumns>
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -5469,11 +5517,13 @@
       DTS:CreationName="EXCEL"
       DTS:DTSID="{3ECD3C2E-4270-4444-9C38-539D83E06197}"
       DTS:ObjectName="Wartosc">
+      <DTS:PropertyExpression
+        DTS:Name="ExcelFilePath">@[User::FolderProjektu] + "\\Dane\\Wartość.xlsx"</DTS:PropertyExpression>
       <DTS:ObjectData>
         <DTS:ConnectionManager
           DTS:ConnectRetryCount="0"
           DTS:ConnectRetryInterval="0"
-          DTS:ConnectionString="Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\msado\SynologyDrive\Studia\Hurtownie danych\Deweloperzy\Dane\Wartość.xlsx;Extended Properties=&quot;EXCEL 12.0 XML;HDR=YES&quot;;" />
+          DTS:ConnectionString="Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\zawol\repos\Data_Warehouse_Deweloperzy\Dane\Wartość.xlsx;Extended Properties=&quot;EXCEL 12.0 XML;HDR=YES&quot;;" />
       </DTS:ObjectData>
     </DTS:ConnectionManager>
     <DTS:ConnectionManager
@@ -5481,11 +5531,13 @@
       DTS:CreationName="EXCEL"
       DTS:DTSID="{EC2973A4-2C99-418A-A435-C8188FBCC42F}"
       DTS:ObjectName="Wynagrodzenia_regionalne">
+      <DTS:PropertyExpression
+        DTS:Name="ExcelFilePath">@[User::FolderProjektu] + "\\Dane\\Wynagrodzenia_regionalne.xlsx"</DTS:PropertyExpression>
       <DTS:ObjectData>
         <DTS:ConnectionManager
           DTS:ConnectRetryCount="0"
           DTS:ConnectRetryInterval="0"
-          DTS:ConnectionString="Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\msado\SynologyDrive\Studia\Hurtownie danych\Deweloperzy\Dane\Wynagrodzenia_regionalne.xlsx;Extended Properties=&quot;EXCEL 12.0 XML;HDR=YES&quot;;" />
+          DTS:ConnectionString="Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\zawol\repos\Data_Warehouse_Deweloperzy\Dane\Wynagrodzenia_regionalne.xlsx;Extended Properties=&quot;EXCEL 12.0 XML;HDR=YES&quot;;" />
       </DTS:ObjectData>
     </DTS:ConnectionManager>
   </DTS:ConnectionManagers>
@@ -5516,6 +5568,16 @@
       DTS:ObjectName="DataZmiany2018">
       <DTS:VariableValue
         DTS:DataType="7">1/1/2018</DTS:VariableValue>
+    </DTS:Variable>
+    <DTS:Variable
+      DTS:CreationName=""
+      DTS:DTSID="{131F747F-62AB-44D1-B2F9-76CC0BA0BFF0}"
+      DTS:Expression="@[User::FolderProjektu] + &quot;\\Dane\\Budownictwo.csv&quot;"
+      DTS:IncludeInDebugDump="2345"
+      DTS:Namespace="User"
+      DTS:ObjectName="FolderProjektu">
+      <DTS:VariableValue
+        DTS:DataType="8">C:\Users\zawol\repos\Data_Warehouse_Deweloperzy</DTS:VariableValue>
     </DTS:Variable>
   </DTS:Variables>
   <DTS:Executables>
@@ -13858,8 +13920,9 @@ namespace ST_bb153761f71d4917b2630cdf9c71b61f
 
                         string rowText = currentSektor + " " + currentKategoria + " " + subKategoria;
 
-                        if (rowText.Contains("mieszkaniow") && rowText.Contains("gospodarstw") && !rowText.Contains("mln"))
-                        {
+                        //if (rowText.Contains("mieszkaniow") && rowText.Contains("gospodarstw") && !rowText.Contains("mln"))
+                        if (rowText.Contains("mieszkaniow"))
+                            {
                             int numDates = headers.Length - startCol;
                             int dataStartCol = cells.Length - numDates;
 
@@ -13936,7 +13999,7 @@ namespace ST_bb153761f71d4917b2630cdf9c71b61f
     <msb:CodeName>ST_bb153761f71d4917b2630cdf9c71b61f</msb:CodeName>
     <msb:Language>msBuild</msb:Language>
     <msb:DisplayName>ST_bb153761f71d4917b2630cdf9c71b61f</msb:DisplayName>
-    <msb:ProjectId>{3BBA55D1-92A5-4C12-91F2-966571C6D274}</msb:ProjectId>
+    <msb:ProjectId>{CA07E0F5-3E5C-4456-A163-B44E5C6AE081}</msb:ProjectId>
   </msb:PropertyGroup>
   <msb:ItemGroup>
     <msb:Project Include="ST_bb153761f71d4917b2630cdf9c71b61f.csproj" />
@@ -14078,15 +14141,15 @@ namespace ST_bb153761f71d4917b2630cdf9c71b61f.Properties {
           <BinaryItem
             Name="ST_bb153761f71d4917b2630cdf9c71b61f.dll">TVqQAAMAAAAEAAAA//8AALgAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAgAAAAA4fug4AtAnNIbgBTM0hVGhpcyBwcm9ncmFtIGNhbm5vdCBiZSBydW4gaW4gRE9TIG1v
-ZGUuDQ0KJAAAAAAAAABQRQAATAEDAGoEIGoAAAAAAAAAAOAAIiALATAAABoAAAAIAAAAAAAAXjkA
+ZGUuDQ0KJAAAAAAAAABQRQAATAEDAJWoJmoAAAAAAAAAAOAAIiALATAAABoAAAAIAAAAAAAAEjkA
 AAAgAAAAQAAAAAAAEAAgAAAAAgAABAAAAAAAAAAGAAAAAAAAAACAAAAAAgAAAAAAAAMAYIUAABAA
-ABAAAAAAEAAAEAAAAAAAABAAAAAAAAAAAAAAAAw5AABPAAAAAEAAAHgEAAAAAAAAAAAAAAAAAAAA
+ABAAAAAAEAAAEAAAAAAAABAAAAAAAAAAAAAAAMA4AABPAAAAAEAAAHgEAAAAAAAAAAAAAAAAAAAA
 AAAAAGAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAIAAACAAAAAAAAAAAAAAACCAAAEgAAAAAAAAAAAAAAC50ZXh0AAAAZBkAAAAgAAAAGgAAAAIA
+AAAAIAAACAAAAAAAAAAAAAAACCAAAEgAAAAAAAAAAAAAAC50ZXh0AAAAGBkAAAAgAAAAGgAAAAIA
 AAAAAAAAAAAAAAAAACAAAGAucnNyYwAAAHgEAAAAQAAAAAYAAAAcAAAAAAAAAAAAAAAAAABAAABA
-LnJlbG9jAAAMAAAAAGAAAAACAAAAIgAAAAAAAAAAAAAAAAAAQAAAQgAAAAAAAAAAAAAAAAAAAABA
-OQAAAAAAAEgAAAACAAUA7CYAAGgRAAABAAAAAAAAAFQ4AAC4AAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAABswBgDxBQAAAQAAEQIoEAAACm8RAAAKcgEAAHBvEgAACm8T
+LnJlbG9jAAAMAAAAAGAAAAACAAAAIgAAAAAAAAAAAAAAAAAAQAAAQgAAAAAAAAAAAAAAAAAAAAD0
+OAAAAAAAAEgAAAACAAUAxCYAAEQRAAABAAAAAAAAAAg4AAC4AAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAABswBgDLBQAAAQAAEQIoEAAACm8RAAAKcgEAAHBvEgAACm8T
 AAAKcisAAHByLwAAcG8UAAAKCgIoEAAACm8RAAAKcjEAAHBvEgAACm8TAAAKcisAAHByLwAAcG8U
 AAAKCwYoFQAACigWAAAKcmMAAHByaQAAcG8UAAAKcoEAAHByhQAAcG8UAAAKcmkAAHByYwAAcG8U
 AAAKF40eAAABJRZyYwAAcKIXbxcAAAoMcxgAAAolcokAAHBykQAAcG8ZAAAKJXKXAABwcp8AAHBv
@@ -14098,120 +14161,120 @@ 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
-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
+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
-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
-TgQGAN0GoAQAAAAAFwAAAAAAAQABAAEAEABrBDQDOQABAAEAAAAQAHgF1AVRAAEAAwAAARAAAwbU
-BWUAAwAHAAMBAABnBgAASQAEAAoAEQBfBBkBEQA0AR0BEQCUACEBBgZJACUBVoBXBigBVoAUASgB
-UCAAAAAAhgBxBAYAAQCEJgAAAACGGDEFBgABAIwmAAAAAIMYMQUGAAEAlCYAAAAAkwjNBCwBAQDA
-JgAAAACTCBwBMQEBAMcmAAAAAJMIKAE2AQEAzyYAAAAAlgiUBjwBAgDWJgAAAACGGDEFBgACAN4m
-AAAAAJEYNwVBAQIAAAABAC4DCQAxBQEAEQAxBQYAGQAxBQoAKQAxBRAAMQAxBRAAOQAxBRAAQQAx
-BRAASQAxBRAAUQAxBRAAWQAxBRAAYQAxBRAAaQAxBQYAmQAxBQYAwQAxBRUA0QAxBQYAcQBfBkwA
-2QA0BlEA4QBFBFYA6QB7A1wA8QB5AGAA+QCUBmYAAQG7BmsA8QCOBnIADAAxBQYADAB1AIMA+QAO
-AGYAgQAxBYsAEQEFARAA8QCOBpMA8QBVBFwA8QAfBVwAIQGaA5oA8QCiA6AA8QAMBqQA8QCQA6kA
-DADNBq8AiQAxBRAA8QCBALUA8QCABroADABFBMAA8QDmBpoA8QCABscAKQF4AQYA2QCgBgEA2QB1
-Bs4AiQCkAFwA8QCABtQA8QD0BtoAMQEnBd0AcQAxBQYAoQAxBQYAOQHOAOYAOQHZBu8AqQAxBfUA
-yQAxBQYACAAUAA8BCAAYABQBKQBzAHwBLgALAFQBLgATAF0BLgAbAHwBLgAjAIUBLgArAK4BLgAz
-AK4BLgA7AK4BLgBDAIUBLgBLALQBLgBTAK4BLgBbAMsBQwBjABQBSQBzAHwBYQB7ABQBYwBrABQB
-GwADAAEABAADAAAA0QRFAQAAPAFKAQAAmAZPAQIABAADAAIABQAFAAEABgAFAAIABwAHAHwABIAA
-AAEAAACyJQVZAAAAAAAANAMAAAQAAAAAAAAAAAAAAP0AUQAAAAAAEQAAAAAAAAAAAAAABgGtAwAA
-AAAEAAAAAAAAAAAAAAD9AE4EAAAAABEAAAAAAAAAAAAAAAYBKgAAAAAAAAAAAAEAAACCBQAABQAC
-AAAAAAAARGljdGlvbmFyeWAyAGdldF9VVEY4ADxNb2R1bGU+AFN5c3RlbS5JTwBNaWNyb3NvZnQu
-U3FsU2VydmVyLk1hbmFnZWREVFMAdmFsdWVfXwBtc2NvcmxpYgBTeXN0ZW0uQ29sbGVjdGlvbnMu
-R2VuZXJpYwBBZGQAUmVwbGFjZQBJc051bGxPcldoaXRlU3BhY2UAZGVmYXVsdEluc3RhbmNlAGdl
-dF9NZXNzYWdlAElEaXNwb3NhYmxlAFJ1bnRpbWVUeXBlSGFuZGxlAEdldFR5cGVGcm9tSGFuZGxl
-AEZpbGUATWljcm9zb2Z0LlNxbFNlcnZlci5EdHMuUnVudGltZQBXcml0ZUxpbmUAVHlwZQBGYWls
-dXJlAGdldF9DdWx0dXJlAHNldF9DdWx0dXJlAHJlc291cmNlQ3VsdHVyZQBWU1RBUlRTY3JpcHRP
-YmplY3RNb2RlbEJhc2UAQXBwbGljYXRpb25TZXR0aW5nc0Jhc2UARGlzcG9zZQBFZGl0b3JCcm93
-c2FibGVTdGF0ZQBDb21waWxlckdlbmVyYXRlZEF0dHJpYnV0ZQBEZWJ1Z2dlck5vblVzZXJDb2Rl
-QXR0cmlidXRlAERlYnVnZ2FibGVBdHRyaWJ1dGUARWRpdG9yQnJvd3NhYmxlQXR0cmlidXRlAEFz
-c2VtYmx5VGl0bGVBdHRyaWJ1dGUAQXNzZW1ibHlUcmFkZW1hcmtBdHRyaWJ1dGUAVGFyZ2V0RnJh
-bWV3b3JrQXR0cmlidXRlAEFzc2VtYmx5Q29uZmlndXJhdGlvbkF0dHJpYnV0ZQBBc3NlbWJseURl
-c2NyaXB0aW9uQXR0cmlidXRlAENvbXBpbGF0aW9uUmVsYXhhdGlvbnNBdHRyaWJ1dGUAQXNzZW1i
-bHlQcm9kdWN0QXR0cmlidXRlAEFzc2VtYmx5Q29weXJpZ2h0QXR0cmlidXRlAFNTSVNTY3JpcHRU
-YXNrRW50cnlQb2ludEF0dHJpYnV0ZQBBc3NlbWJseUNvbXBhbnlBdHRyaWJ1dGUAUnVudGltZUNv
-bXBhdGliaWxpdHlBdHRyaWJ1dGUAdmFsdWUAU1RfYmIxNTM3NjFmNzFkNDkxN2IyNjMwY2RmOWM3
-MWI2MWYARW5jb2RpbmcAU3lzdGVtLlJ1bnRpbWUuVmVyc2lvbmluZwBnZXRfQ29ubmVjdGlvblN0
-cmluZwBTdWJzdHJpbmcASXNNYXRjaABnZXRfTGVuZ3RoAE1pY3Jvc29mdC5TcWxTZXJ2ZXIuU2Ny
-aXB0VGFzawBNaWNyb3NvZnQuU3FsU2VydmVyLkR0cy5UYXNrcy5TY3JpcHRUYXNrAFNjcmlwdE9i
-amVjdE1vZGVsAFN5c3RlbS5Db21wb25lbnRNb2RlbABTVF9iYjE1Mzc2MWY3MWQ0OTE3YjI2MzBj
-ZGY5YzcxYjYxZi5kbGwAZ2V0X0l0ZW0AU3lzdGVtAFRyaW0ARW51bQByZXNvdXJjZU1hbgBTY3Jp
-cHRNYWluAFN5c3RlbS5Db25maWd1cmF0aW9uAFN5c3RlbS5HbG9iYWxpemF0aW9uAFN5c3RlbS5S
-ZWZsZWN0aW9uAEV4Y2VwdGlvbgBDdWx0dXJlSW5mbwBDaGFyAGdldF9SZXNvdXJjZU1hbmFnZXIA
-Q29ubmVjdGlvbk1hbmFnZXIARXZlbnRzT2JqZWN0V3JhcHBlcgBTdHJlYW1Xcml0ZXIAVGV4dFdy
-aXRlcgBUb0xvd2VyAEZpcmVFcnJvcgAuY3RvcgAuY2N0b3IAU3lzdGVtLkRpYWdub3N0aWNzAFN5
-c3RlbS5SdW50aW1lLkNvbXBpbGVyU2VydmljZXMAU3lzdGVtLlJlc291cmNlcwBTVF9iYjE1Mzc2
-MWY3MWQ0OTE3YjI2MzBjZGY5YzcxYjYxZi5Qcm9wZXJ0aWVzLlJlc291cmNlcy5yZXNvdXJjZXMA
-RGVidWdnaW5nTW9kZXMAU1RfYmIxNTM3NjFmNzFkNDkxN2IyNjMwY2RmOWM3MWI2MWYuUHJvcGVy
-dGllcwBTZXR0aW5ncwBDb250YWlucwBTeXN0ZW0uVGV4dC5SZWd1bGFyRXhwcmVzc2lvbnMAZ2V0
-X0Nvbm5lY3Rpb25zAFN0cmluZ1NwbGl0T3B0aW9ucwBTdWNjZXNzAGdldF9EdHMAU2NyaXB0UmVz
-dWx0cwBnZXRfRXZlbnRzAENvbmNhdABPYmplY3QAU3BsaXQAZ2V0X0RlZmF1bHQAc2V0X1Rhc2tS
-ZXN1bHQAU3lzdGVtLlRleHQAUmVhZEFsbFRleHQAUmVnZXgAQ29udGFpbnNLZXkAZ2V0X0Fzc2Vt
-Ymx5AG9wX0luZXF1YWxpdHkARW1wdHkAAAAAKVMAdABvAHAAeQBfAHAAcgBvAGMAZQBuAHQAbwB3
-AGUAXwBjAHMAdgAAAyIAAAEAMVMAdABvAHAAeQBfAHAAcgBvAGMAZQBuAHQAbwB3AGUAXwBVAG4A
-cABpAHYAbwB0AAAFDQAKAAAXWwBSAE8AVwBfAEIAUgBFAEEASwBdAAADCgAAAyAAAAdzAHQAeQAA
-BTAAMQAAB2wAdQB0AAAFMAAyAAAHbQBhAHIAAAUwADMAAAdrAHcAaQAABTAANAAAB20AYQBqAAAF
-MAA1AAAHYwB6AGUAAAUwADYAAAdsAGkAcAAABTAANwAAB3MAaQBlAAAFMAA4AAAHdwByAHoAAAUw
-ADkAAAdwAGEAegEBBTEAMAAAB3AAYQB6AAAHbABpAHMAAAUxADEAAAdnAHIAdQAABTEAMgAAGUQA
-YQB0AGEAOwBXAGEAcgB0AG8AcwBjAAApXgAyADAAXABkAHsAMgB9AC0AXABkAHsAMgB9AC0AXABk
-AHsAMgB9AAEDLgAAAy0AAUFOAGkAZQAgAHoAbgBhAGwAZQB6AGkAbwBuAG8AIAB3AGkAZQByAHMA
-egBhACAAegAgAGQAYQB0AGEAbQBpACEAABdtAGkAZQBzAHoAawBhAG4AaQBvAHcAABdnAG8AcwBw
-AG8AZABhAHIAcwB0AHcAAAdtAGwAbgAABTIAMAAABy0AMAAxAAEDJQAAB24AcAAuAAAJYgAuAGQA
-LgAAAzsAAElOAGkAZQAgAHoAbgBhAGwAZQB6AGkAbwBuAG8AIAB3AGkAZQByAHMAegBhACAAZABs
-AGEAIABrAHIAZQBkAHkAdADzAHcAIQABH1UAbgBwAGkAdgBvAHQAIABLAHIAZQBkAHkAdAB5AAAd
-QgBBAQQBRAAgAFMASwBSAFkAUABUAFUAOgAgAAFxUwBUAF8AYgBiADEANQAzADcANgAxAGYANwAx
-AGQANAA5ADEANwBiADIANgAzADAAYwBkAGYAOQBjADcAMQBiADYAMQBmAC4AUAByAG8AcABlAHIA
-dABpAGUAcwAuAFIAZQBzAG8AdQByAGMAZQBzAAAAAABrT7/8QGuXQrKZAcdlMVrGAAQgAQEIAyAA
-AQUgAQEREQQgAQEOBSABARFdMAcjDg4dDhUSPQIODhJBAwgIHQ4CDg4IHQ4ICAgOAg4IHQ4ODggI
-CAgIDg4ODg4SRQQgABJtBCAAEnEFIAESdRwDIAAOBSACDg4OBAAAEn0GAAIODhJ9CSACHQ4dDhGA
-hQYVEj0CDg4HIAIBEwATAQcgAwEOAhJ9BiABHQ4dAwUAAgIODgMgAAgEIAECDgUgAg4ICAUgAQIT
-AAQAAQIOBQABDh0OBiABEwETAAYAAw4ODg4FIAASgJkFAAIODg4CBg4IIAUCCA4ODggIAAESgJ0R
-gKEFIAASgKUHIAIBDhKApQi3elxWGTTgiQiJhF3NgIDMkQQAAAAABAEAAAADBhJVAwYSWQMGEhAC
-BggDBhEUBAAAElUEAAASWQUAAQESWQQAABIQAwAAAQQIABJVBAgAElkECAASEAgBAAgAAAAAAB4B
-AAEAVAIWV3JhcE5vbkV4Y2VwdGlvblRocm93cwEIAQACAAAAAAAoAQAjU1RfYmIxNTM3NjFmNzFk
-NDkxN2IyNjMwY2RmOWM3MWI2MWYAAAUBAAAAABYBABFDb3B5cmlnaHQgQCAgMjAyNgAASQEAGi5O
-RVRGcmFtZXdvcmssVmVyc2lvbj12NC43AQBUDhRGcmFtZXdvcmtEaXNwbGF5TmFtZRIuTkVUIEZy
-YW1ld29yayA0LjcAAAC0AAAAzsrvvgEAAACRAAAAbFN5c3RlbS5SZXNvdXJjZXMuUmVzb3VyY2VS
-ZWFkZXIsIG1zY29ybGliLCBWZXJzaW9uPTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGlj
-S2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OSNTeXN0ZW0uUmVzb3VyY2VzLlJ1bnRpbWVSZXNvdXJj
-ZVNldAIAAAAAAAAAAAAAAFBBRFBBRFC0AAAANDkAAAAAAAAAAAAATjkAAAAgAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAEA5AAAAAAAAAAAAAAAAX0NvckRsbE1haW4AbXNjb3JlZS5kbGwAAAAAAP8lACAA
-EAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+HwAAChMWG40eAAABJRYRCqIlF3KFAABwoiUYEQuiJRlyhQAAcKIlGhEWoignAAAKcscBAHBvIgAA
+CjmkAQAAEQiOaREHWRMXERWOaREXWRMYERgWLwQRBxMYFhMZOHMBAAARBxEZWBMaERgRGVgTGxEa
+EQiOaTxjAQAAERsRFY5pPFgBAAARCBEamnIrAABwci8AAHBvFAAACm8eAAAKbx8AAAoTHHIvAABw
+Ex0RHHJTAQBwKCAAAAosEREcFh8KbyMAAAoTHTiDAAAAERxvIQAAChsyeREccn0BAHBvIgAACi0O
+ERxygQEAcG8iAAAKLF0RHBYZbyMAAAoTHxEcERxvIQAAChhZGG8jAAAKEyAJER9vJAAACiw1G40e
+AAABJRZy3wEAcKIlFxEgoiUYcoEBAHCiJRkJER9vKAAACqIlGnLlAQBwoignAAAKEx0RFREbmnIr
+AABwci8AAHBvFAAACnLtAQBwci8AAHBvFAAACm8eAAAKEx4RHXIvAABwKCkAAAosSBEeKCYAAAot
+PxEecvEBAHAoKQAACiwxER5y+QEAcCgpAAAKLCMRHnKBAQBwKCkAAAosFREEER1yAwIAcBEeKCoA
+AApvHAAAChEZF1gTGREZERc/hP7//xcTCSsQERQXWBMUERQIjmk/Y/3//xEJLQtyBwIAcHMlAAAK
+et4MEQQsBxEEbysAAArcAigQAAAKFm8sAAAK3j4TIQIoEAAACm8tAAAKFnJRAgBwcnECAHARIW8u
+AAAKKC8AAAp+MAAAChZvMQAACiYCKBAAAAoXbywAAAreACoAQTQAAAIAAACFAQAA7QMAAHIFAAAM
+AAAAAAAAAAAAAABUAAAAOAUAAIwFAAA+AAAAEQAAAR4CKDIAAAoqHgIoMwAACiqufgEAAAQtHnKP
+AgBw0AMAAAIoNAAACm81AAAKczYAAAqAAQAABH4BAAAEKhp+AgAABCoeAoACAAAEKhp+AwAABCoe
+Aig3AAAKKi5zCAAABoADAAAEKgAAQlNKQgEAAQAAAAAADAAAAHY0LjAuMzAzMTkAAAAABQBsAAAA
+tAQAACN+AAAgBQAA/AYAACNTdHJpbmdzAAAAABwMAAAEAwAAI1VTACAPAAAQAAAAI0dVSUQAAAAw
+DwAAFAIAACNCbG9iAAAAAAAAAAIAAAFXHaIJCQMAAAD6ATMAFgAAAQAAACkAAAAFAAAABgAAAAkA
+AAABAAAANwAAAAIAAAAQAAAAAQAAAAIAAAADAAAABAAAAAEAAAABAAAABAAAAAEAAAABAAAAAAAd
+BAEAAAAAAAYAgQJRBQYAEANRBQYAzQE+BQ8AxQUAAAYA+gGgBAYAZAKgBAYARQKgBAYA9wKgBAYA
+oQKgBAYAugKgBAYAEQKgBAYALAJhAwoA1QLMAwoARAHMAwYAAQBaAAYABwUgAAYAsgROBAYAWgRO
+BAYAsAE+BQYAhwZOBAYA0QRxBQYAvASLBA4AgAEHBA4A4QEHBA4AYAF2BAYAlQFRBQoA9QPMAxIA
+OAblABIA4QTlAAYAiQNOBAYAWAOvBgYA4AAgAAYARAZOBAYAFAUgAAYAyAROBA4AxwYVBgYAsABO
+BAoA8wTMAwYADwFOBAYAvABOBAYA3QagBAAAAAAXAAAAAAABAAEAAQAQAGsENAM5AAEAAQAAABAA
+eAXUBVEAAQADAAABEAADBtQFZQADAAcAAwEAAGcGAABJAAQACgARAF8EGAERADQBHAERAJQAIAEG
+BkkAJAFWgFcGJwFWgBQBJwFQIAAAAACGAHEEBgABAFwmAAAAAIYYMQUGAAEAZCYAAAAAgxgxBQYA
+AQBsJgAAAACTCM0EKwEBAJgmAAAAAJMIHAEwAQEAnyYAAAAAkwgoATUBAQCnJgAAAACWCJQGOwEC
+AK4mAAAAAIYYMQUGAAIAtiYAAAAAkRg3BUABAgAAAAEALgMJADEFAQARADEFBgAZADEFCgApADEF
+EAAxADEFEAA5ADEFEABBADEFEABJADEFEABRADEFEABZADEFEABhADEFEABpADEFBgCZADEFBgDB
+ADEFFQDRADEFBgBxAF8GSwDZADQGUADhAEUEVQDpAHsDWwDxAHkAXwD5AJQGZQABAbsGagDxAI4G
+cQAMADEFBgAMAHUAggD5AA4AZQCBADEFigARAQUBEADxAI4GkgDxAFUEWwDxAB8FWwAhAZoDmQDx
+AKIDnwDxAAwGowDxAJADqAAMAM0GrgCJADEFEADxAIEAtADxAIAGuQAMAEUEvwDxAOYGmQDxAIAG
+xgApAXgBBgDZAKAGAQDZAHUGzQCJAKQAWwDxAIAG0wDxAPQG2QAxAScF3ABxADEFBgChADEFBgA5
+Ac4A5QA5AdkG7gCpADEF9ADJADEFBgAIABQADgEIABgAEwEpAHMAewEuAAsAUwEuABMAXAEuABsA
+ewEuACMAhAEuACsArQEuADMArQEuADsArQEuAEMAhAEuAEsAswEuAFMArQEuAFsAygFDAGMAEwFJ
+AHMAewFhAHsAEwFjAGsAEwEbAAMAAQAEAAMAAADRBEQBAAA8AUkBAACYBk4BAgAEAAMAAgAFAAUA
+AQAGAAUAAgAHAAcAewAEgAAAAQAAALclWl8AAAAAAAA0AwAABAAAAAAAAAAAAAAA/ABRAAAAAAAR
+AAAAAAAAAAAAAAAFAa0DAAAAAAQAAAAAAAAAAAAAAPwATgQAAAAAEQAAAAAAAAAAAAAABQEqAAAA
+AAAAAAAAAQAAAIIFAAAFAAIAAAAAAABEaWN0aW9uYXJ5YDIAZ2V0X1VURjgAPE1vZHVsZT4AU3lz
+dGVtLklPAE1pY3Jvc29mdC5TcWxTZXJ2ZXIuTWFuYWdlZERUUwB2YWx1ZV9fAG1zY29ybGliAFN5
+c3RlbS5Db2xsZWN0aW9ucy5HZW5lcmljAEFkZABSZXBsYWNlAElzTnVsbE9yV2hpdGVTcGFjZQBk
+ZWZhdWx0SW5zdGFuY2UAZ2V0X01lc3NhZ2UASURpc3Bvc2FibGUAUnVudGltZVR5cGVIYW5kbGUA
+R2V0VHlwZUZyb21IYW5kbGUARmlsZQBNaWNyb3NvZnQuU3FsU2VydmVyLkR0cy5SdW50aW1lAFdy
+aXRlTGluZQBUeXBlAEZhaWx1cmUAZ2V0X0N1bHR1cmUAc2V0X0N1bHR1cmUAcmVzb3VyY2VDdWx0
+dXJlAFZTVEFSVFNjcmlwdE9iamVjdE1vZGVsQmFzZQBBcHBsaWNhdGlvblNldHRpbmdzQmFzZQBE
+aXNwb3NlAEVkaXRvckJyb3dzYWJsZVN0YXRlAENvbXBpbGVyR2VuZXJhdGVkQXR0cmlidXRlAERl
+YnVnZ2VyTm9uVXNlckNvZGVBdHRyaWJ1dGUARGVidWdnYWJsZUF0dHJpYnV0ZQBFZGl0b3JCcm93
+c2FibGVBdHRyaWJ1dGUAQXNzZW1ibHlUaXRsZUF0dHJpYnV0ZQBBc3NlbWJseVRyYWRlbWFya0F0
+dHJpYnV0ZQBUYXJnZXRGcmFtZXdvcmtBdHRyaWJ1dGUAQXNzZW1ibHlDb25maWd1cmF0aW9uQXR0
+cmlidXRlAEFzc2VtYmx5RGVzY3JpcHRpb25BdHRyaWJ1dGUAQ29tcGlsYXRpb25SZWxheGF0aW9u
+c0F0dHJpYnV0ZQBBc3NlbWJseVByb2R1Y3RBdHRyaWJ1dGUAQXNzZW1ibHlDb3B5cmlnaHRBdHRy
+aWJ1dGUAU1NJU1NjcmlwdFRhc2tFbnRyeVBvaW50QXR0cmlidXRlAEFzc2VtYmx5Q29tcGFueUF0
+dHJpYnV0ZQBSdW50aW1lQ29tcGF0aWJpbGl0eUF0dHJpYnV0ZQB2YWx1ZQBTVF9iYjE1Mzc2MWY3
+MWQ0OTE3YjI2MzBjZGY5YzcxYjYxZgBFbmNvZGluZwBTeXN0ZW0uUnVudGltZS5WZXJzaW9uaW5n
+AGdldF9Db25uZWN0aW9uU3RyaW5nAFN1YnN0cmluZwBJc01hdGNoAGdldF9MZW5ndGgATWljcm9z
+b2Z0LlNxbFNlcnZlci5TY3JpcHRUYXNrAE1pY3Jvc29mdC5TcWxTZXJ2ZXIuRHRzLlRhc2tzLlNj
+cmlwdFRhc2sAU2NyaXB0T2JqZWN0TW9kZWwAU3lzdGVtLkNvbXBvbmVudE1vZGVsAFNUX2JiMTUz
+NzYxZjcxZDQ5MTdiMjYzMGNkZjljNzFiNjFmLmRsbABnZXRfSXRlbQBTeXN0ZW0AVHJpbQBFbnVt
+AHJlc291cmNlTWFuAFNjcmlwdE1haW4AU3lzdGVtLkNvbmZpZ3VyYXRpb24AU3lzdGVtLkdsb2Jh
+bGl6YXRpb24AU3lzdGVtLlJlZmxlY3Rpb24ARXhjZXB0aW9uAEN1bHR1cmVJbmZvAENoYXIAZ2V0
+X1Jlc291cmNlTWFuYWdlcgBDb25uZWN0aW9uTWFuYWdlcgBFdmVudHNPYmplY3RXcmFwcGVyAFN0
+cmVhbVdyaXRlcgBUZXh0V3JpdGVyAFRvTG93ZXIARmlyZUVycm9yAC5jdG9yAC5jY3RvcgBTeXN0
+ZW0uRGlhZ25vc3RpY3MAU3lzdGVtLlJ1bnRpbWUuQ29tcGlsZXJTZXJ2aWNlcwBTeXN0ZW0uUmVz
+b3VyY2VzAFNUX2JiMTUzNzYxZjcxZDQ5MTdiMjYzMGNkZjljNzFiNjFmLlByb3BlcnRpZXMuUmVz
+b3VyY2VzLnJlc291cmNlcwBEZWJ1Z2dpbmdNb2RlcwBTVF9iYjE1Mzc2MWY3MWQ0OTE3YjI2MzBj
+ZGY5YzcxYjYxZi5Qcm9wZXJ0aWVzAFNldHRpbmdzAENvbnRhaW5zAFN5c3RlbS5UZXh0LlJlZ3Vs
+YXJFeHByZXNzaW9ucwBnZXRfQ29ubmVjdGlvbnMAU3RyaW5nU3BsaXRPcHRpb25zAFN1Y2Nlc3MA
+Z2V0X0R0cwBTY3JpcHRSZXN1bHRzAGdldF9FdmVudHMAQ29uY2F0AE9iamVjdABTcGxpdABnZXRf
+RGVmYXVsdABzZXRfVGFza1Jlc3VsdABTeXN0ZW0uVGV4dABSZWFkQWxsVGV4dABSZWdleABDb250
+YWluc0tleQBnZXRfQXNzZW1ibHkAb3BfSW5lcXVhbGl0eQBFbXB0eQAAAAApUwB0AG8AcAB5AF8A
+cAByAG8AYwBlAG4AdABvAHcAZQBfAGMAcwB2AAADIgAAAQAxUwB0AG8AcAB5AF8AcAByAG8AYwBl
+AG4AdABvAHcAZQBfAFUAbgBwAGkAdgBvAHQAAAUNAAoAABdbAFIATwBXAF8AQgBSAEUAQQBLAF0A
+AAMKAAADIAAAB3MAdAB5AAAFMAAxAAAHbAB1AHQAAAUwADIAAAdtAGEAcgAABTAAMwAAB2sAdwBp
+AAAFMAA0AAAHbQBhAGoAAAUwADUAAAdjAHoAZQAABTAANgAAB2wAaQBwAAAFMAA3AAAHcwBpAGUA
+AAUwADgAAAd3AHIAegAABTAAOQAAB3AAYQB6AQEFMQAwAAAHcABhAHoAAAdsAGkAcwAABTEAMQAA
+B2cAcgB1AAAFMQAyAAAZRABhAHQAYQA7AFcAYQByAHQAbwBzAGMAACleADIAMABcAGQAewAyAH0A
+LQBcAGQAewAyAH0ALQBcAGQAewAyAH0AAQMuAAADLQABQU4AaQBlACAAegBuAGEAbABlAHoAaQBv
+AG4AbwAgAHcAaQBlAHIAcwB6AGEAIAB6ACAAZABhAHQAYQBtAGkAIQAAF20AaQBlAHMAegBrAGEA
+bgBpAG8AdwAABTIAMAAABy0AMAAxAAEDJQAAB24AcAAuAAAJYgAuAGQALgAAAzsAAElOAGkAZQAg
+AHoAbgBhAGwAZQB6AGkAbwBuAG8AIAB3AGkAZQByAHMAegBhACAAZABsAGEAIABrAHIAZQBkAHkA
+dADzAHcAIQABH1UAbgBwAGkAdgBvAHQAIABLAHIAZQBkAHkAdAB5AAAdQgBBAQQBRAAgAFMASwBS
+AFkAUABUAFUAOgAgAAFxUwBUAF8AYgBiADEANQAzADcANgAxAGYANwAxAGQANAA5ADEANwBiADIA
+NgAzADAAYwBkAGYAOQBjADcAMQBiADYAMQBmAC4AUAByAG8AcABlAHIAdABpAGUAcwAuAFIAZQBz
+AG8AdQByAGMAZQBzAAAAAACkIA4ILQ8hQK48AYo3g/fEAAQgAQEIAyAAAQUgAQEREQQgAQEOBSAB
+ARFdLwciDg4dDhUSPQIODhJBAwgIHQ4CDg4IHQ4ICAgOAg4IHQ4OCAgICAgODg4ODhJFBCAAEm0E
+IAAScQUgARJ1HAMgAA4FIAIODg4EAAASfQYAAg4OEn0JIAIdDh0OEYCFBhUSPQIODgcgAgETABMB
+ByADAQ4CEn0GIAEdDh0DBQACAg4OAyAACAQgAQIOBSACDggIBSABAhMABAABAg4FAAEOHQ4GIAET
+ARMABgADDg4ODgUgABKAmQUAAg4ODgIGDgggBQIIDg4OCAgAARKAnRGAoQUgABKApQcgAgEOEoCl
+CLd6XFYZNOCJCImEXc2AgMyRBAAAAAAEAQAAAAMGElUDBhJZAwYSEAIGCAMGERQEAAASVQQAABJZ
+BQABARJZBAAAEhADAAABBAgAElUECAASWQQIABIQCAEACAAAAAAAHgEAAQBUAhZXcmFwTm9uRXhj
+ZXB0aW9uVGhyb3dzAQgBAAIAAAAAACgBACNTVF9iYjE1Mzc2MWY3MWQ0OTE3YjI2MzBjZGY5Yzcx
+YjYxZgAABQEAAAAAFgEAEUNvcHlyaWdodCBAICAyMDI2AABJAQAaLk5FVEZyYW1ld29yayxWZXJz
+aW9uPXY0LjcBAFQOFEZyYW1ld29ya0Rpc3BsYXlOYW1lEi5ORVQgRnJhbWV3b3JrIDQuN7QAAADO
+yu++AQAAAJEAAABsU3lzdGVtLlJlc291cmNlcy5SZXNvdXJjZVJlYWRlciwgbXNjb3JsaWIsIFZl
+cnNpb249NC4wLjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1iNzdhNWM1NjE5
+MzRlMDg5I1N5c3RlbS5SZXNvdXJjZXMuUnVudGltZVJlc291cmNlU2V0AgAAAAAAAAAAAAAAUEFE
+UEFEULQAAADoOAAAAAAAAAAAAAACOQAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA9DgAAAAAAAAA
+AAAAAABfQ29yRGxsTWFpbgBtc2NvcmVlLmRsbAAAAAAA/yUAIAAQAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AQAQAAAAGAAAgAAAAAAAAAAAAAAAAAAAAQABAAAAMAAAgAAAAAAAAAAAAAAAAAAAAQAAAAAASAAA
 AFhAAAAaBAAAAAAAAAAAAAAaBDQAAABWAFMAXwBWAEUAUgBTAEkATwBOAF8ASQBOAEYATwAAAAAA
-vQTv/gAAAQAAAAEABVmyJQAAAQAFWbIlPwAAAAAAAAAEAAAAAgAAAAAAAAAAAAAAAAAAAEQAAAAB
+vQTv/gAAAQAAAAEAWl+3JQAAAQBaX7clPwAAAAAAAAAEAAAAAgAAAAAAAAAAAAAAAAAAAEQAAAAB
 AFYAYQByAEYAaQBsAGUASQBuAGYAbwAAAAAAJAAEAAAAVAByAGEAbgBzAGwAYQB0AGkAbwBuAAAA
 AAAAALAEegMAAAEAUwB0AHIAaQBuAGcARgBpAGwAZQBJAG4AZgBvAAAAVgMAAAEAMAAwADAAMAAw
 ADQAYgAwAAAAGgABAAEAQwBvAG0AbQBlAG4AdABzAAAAAAAAACIAAQABAEMAbwBtAHAAYQBuAHkA
 TgBhAG0AZQAAAAAAAAAAAHAAJAABAEYAaQBsAGUARABlAHMAYwByAGkAcAB0AGkAbwBuAAAAAABT
 AFQAXwBiAGIAMQA1ADMANwA2ADEAZgA3ADEAZAA0ADkAMQA3AGIAMgA2ADMAMABjAGQAZgA5AGMA
 NwAxAGIANgAxAGYAAAA+AA8AAQBGAGkAbABlAFYAZQByAHMAaQBvAG4AAAAAADEALgAwAC4AOQA2
-ADUAMAAuADIAMgA3ADgAOQAAAAAAcAAoAAEASQBuAHQAZQByAG4AYQBsAE4AYQBtAGUAAABTAFQA
+ADUANQAuADIANAA0ADEAMAAAAAAAcAAoAAEASQBuAHQAZQByAG4AYQBsAE4AYQBtAGUAAABTAFQA
 XwBiAGIAMQA1ADMANwA2ADEAZgA3ADEAZAA0ADkAMQA3AGIAMgA2ADMAMABjAGQAZgA5AGMANwAx
 AGIANgAxAGYALgBkAGwAbAAAAEgAEgABAEwAZQBnAGEAbABDAG8AcAB5AHIAaQBnAGgAdAAAAEMA
 bwBwAHkAcgBpAGcAaAB0ACAAQAAgACAAMgAwADIANgAAACoAAQABAEwAZQBnAGEAbABUAHIAYQBk
@@ -14220,15 +14283,15 @@ ZQAAAFMAVABfAGIAYgAxADUAMwA3ADYAMQBmADcAMQBkADQAOQAxADcAYgAyADYAMwAwAGMAZABm
 ADkAYwA3ADEAYgA2ADEAZgAuAGQAbABsAAAAaAAkAAEAUAByAG8AZAB1AGMAdABOAGEAbQBlAAAA
 AABTAFQAXwBiAGIAMQA1ADMANwA2ADEAZgA3ADEAZAA0ADkAMQA3AGIAMgA2ADMAMABjAGQAZgA5
 AGMANwAxAGIANgAxAGYAAABCAA8AAQBQAHIAbwBkAHUAYwB0AFYAZQByAHMAaQBvAG4AAAAxAC4A
-MAAuADkANgA1ADAALgAyADIANwA4ADkAAAAAAEYADwABAEEAcwBzAGUAbQBiAGwAeQAgAFYAZQBy
-AHMAaQBvAG4AAAAxAC4AMAAuADkANgA1ADAALgAyADIANwA4ADkAAAAAAAAAAAAAAAAAAAAAAAAA
+MAAuADkANgA1ADUALgAyADQANAAxADAAAAAAAEYADwABAEEAcwBzAGUAbQBiAGwAeQAgAFYAZQBy
+AHMAaQBvAG4AAAAxAC4AMAAuADkANgA1ADUALgAyADQANAAxADAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwAAAMAAAAYDkAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwAAAMAAAAFDkAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
@@ -18047,6 +18110,14 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
       <GraphLayout
         Capacity="16" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
         <NodeLayout
+          Size="172,42.6666666666667"
+          Id="Package\Staging Budownictwo\Flat File Destination"
+          TopLeft="111.874994998798,147.549992964268" />
+        <NodeLayout
+          Size="157.333333333334,42.6666666666667"
+          Id="Package\Staging Budownictwo\Data Conversion"
+          TopLeft="359.999983906746,233.349988873005" />
+        <NodeLayout
           Size="152,42.6666666666667"
           Id="Package\Staging Budownictwo\Flat File Source"
           TopLeft="334.374985052273,55.8999973344804" />
@@ -18054,72 +18125,10 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
           Size="156,42.6666666666667"
           Id="Package\Staging Budownictwo\Conditional Split"
           TopLeft="350.624984325841,144.29999311924" />
-        <EdgeLayout
-          Id="Package\Staging Budownictwo.Paths[Flat File Source Output]"
-          TopLeft="410.374985052273,98.5666640011471">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="18.2499992735684,45.733329118093"
-              Start="0,0"
-              End="18.2499992735684,38.233329118093">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,18.8666645590465" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,18.8666645590465"
-                    Point2="0,22.8666645590465"
-                    Point3="4,22.8666645590465" />
-                  <mssgle:LineSegment
-                    End="14.2499992735684,22.8666645590465" />
-                  <mssgle:CubicBezierSegment
-                    Point1="14.2499992735684,22.8666645590465"
-                    Point2="18.2499992735684,22.8666645590465"
-                    Point3="18.2499992735684,26.8666645590465" />
-                  <mssgle:LineSegment
-                    End="18.2499992735684,38.233329118093" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
         <NodeLayout
           Size="172,42.6666666666667"
-          Id="Package\Staging Budownictwo\Flat File Destination"
-          TopLeft="111.874994998798,147.549992964268" />
-        <EdgeLayout
-          Id="Package\Staging Budownictwo.Paths[Braki danych]"
-          TopLeft="350.624984325841,167.258326375087">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="-66.7499893270435,0"
-              Start="0,0"
-              End="-59.2499893270435,0">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="-59.2499893270435,0" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="-58.2769282572718,5,57.3038671875,11.609375"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="157.333333333334,42.6666666666667"
-          Id="Package\Staging Budownictwo\Data Conversion"
-          TopLeft="359.999983906746,233.349988873005" />
+          Id="Package\Staging Budownictwo\OLE DB Destination"
+          TopLeft="359.999983906746,324.349984533787" />
         <EdgeLayout
           Id="Package\Staging Budownictwo.Paths[Poprawne dane]"
           TopLeft="428.624984325841,186.966659785907">
@@ -18156,10 +18165,42 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
               RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="172,42.6666666666667"
-          Id="Package\Staging Budownictwo\OLE DB Destination"
-          TopLeft="359.999983906746,324.349984533787" />
+        <EdgeLayout
+          Id="Package\Staging Budownictwo.Paths[Flat File Source Output]"
+          TopLeft="410.374985052273,98.5666640011471">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="18.2499992735684,45.733329118093"
+              Start="0,0"
+              End="18.2499992735684,38.233329118093">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,18.8666645590465" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,18.8666645590465"
+                    Point2="0,22.8666645590465"
+                    Point3="4,22.8666645590465" />
+                  <mssgle:LineSegment
+                    End="14.2499992735684,22.8666645590465" />
+                  <mssgle:CubicBezierSegment
+                    Point1="14.2499992735684,22.8666645590465"
+                    Point2="18.2499992735684,22.8666645590465"
+                    Point3="18.2499992735684,26.8666645590465" />
+                  <mssgle:LineSegment
+                    End="18.2499992735684,38.233329118093" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
         <EdgeLayout
           Id="Package\Staging Budownictwo.Paths[Data Conversion Output]"
           TopLeft="442.33331724008,276.016655539672">
@@ -18179,7 +18220,33 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Staging Budownictwo.Paths[Braki danych]"
+          TopLeft="350.624984325841,167.258326375087">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="-66.7499893270435,0"
+              Start="0,0"
+              End="-59.2499893270435,0">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="-59.2499893270435,0" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="-58.2769282572718,5,57.3038671875,11.609375"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
@@ -18202,15 +18269,15 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
     design-time-name="Package\Staging Kredyty">
     <LayoutInfo>
       <GraphLayout
-        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
-        <NodeLayout
-          Size="152,42.6666666666667"
-          Id="Package\Staging Kredyty\Flat File Source"
-          TopLeft="350.624984325842,71.4999965906144" />
+        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
         <NodeLayout
           Size="172,42.6666666666667"
           Id="Package\Staging Kredyty\OLE DB Destination"
           TopLeft="340.624984772876,256.099987788201" />
+        <NodeLayout
+          Size="152,42.6666666666667"
+          Id="Package\Staging Kredyty\Flat File Source"
+          TopLeft="350.624984325842,71.4999965906144" />
         <NodeLayout
           Size="157.333333333334,42.6666666666667"
           Id="Package\Staging Kredyty\Data Conversion"
@@ -18234,7 +18301,9 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -18256,7 +18325,9 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
