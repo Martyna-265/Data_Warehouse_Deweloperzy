@@ -11,8 +11,8 @@
   DTS:LocaleID="1045"
   DTS:ObjectName="Package"
   DTS:PackageType="5"
-  DTS:VersionBuild="115"
-  DTS:VersionGUID="{755DA2B9-E789-4B90-B4EA-3A48C5956D1F}">
+  DTS:VersionBuild="125"
+  DTS:VersionGUID="{B84E6AE6-327C-41F1-98CA-E7FA5313F695}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -32,7 +32,7 @@
           DTS:RowDelimiter=""
           DTS:TextQualifier="_x003C_none_x003E_"
           DTS:CodePage="65001"
-          DTS:ConnectionString="C:\Users\zawol\repos\Data_Warehouse_Deweloperzy\Dane\Budownictwo.csv">
+          DTS:ConnectionString="C:\Users\msado\SynologyDrive\Studia\Hurtownie danych\Deweloperzy\Dane\Budownictwo.csv">
           <DTS:FlatFileColumns>
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -1026,7 +1026,7 @@
           DTS:RowDelimiter=""
           DTS:TextQualifier="_x003C_none_x003E_"
           DTS:CodePage="65001"
-          DTS:ConnectionString="C:\Users\zawol\repos\Data_Warehouse_Deweloperzy\Dane\Budownictwo_UNPIVOT.csv">
+          DTS:ConnectionString="C:\Users\msado\SynologyDrive\Studia\Hurtownie danych\Deweloperzy\Dane\Budownictwo_UNPIVOT.csv">
           <DTS:FlatFileColumns>
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -1100,7 +1100,7 @@
         <DTS:ConnectionManager
           DTS:ConnectRetryCount="0"
           DTS:ConnectRetryInterval="0"
-          DTS:ConnectionString="Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\zawol\repos\Data_Warehouse_Deweloperzy\Dane\Liczba_mieszkań.xlsx;Extended Properties=&quot;EXCEL 12.0 XML;HDR=YES&quot;;" />
+          DTS:ConnectionString="Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\msado\SynologyDrive\Studia\Hurtownie danych\Deweloperzy\Dane\Liczba_mieszkań.xlsx;Extended Properties=&quot;EXCEL 12.0 XML;HDR=YES&quot;;" />
       </DTS:ObjectData>
     </DTS:ConnectionManager>
     <DTS:ConnectionManager
@@ -1114,7 +1114,7 @@
         <DTS:ConnectionManager
           DTS:ConnectRetryCount="0"
           DTS:ConnectRetryInterval="0"
-          DTS:ConnectionString="Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\zawol\repos\Data_Warehouse_Deweloperzy\Dane\Mediana.xlsx;Extended Properties=&quot;EXCEL 12.0 XML;HDR=YES&quot;;" />
+          DTS:ConnectionString="Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\msado\SynologyDrive\Studia\Hurtownie danych\Deweloperzy\Dane\Mediana.xlsx;Extended Properties=&quot;EXCEL 12.0 XML;HDR=YES&quot;;" />
       </DTS:ObjectData>
     </DTS:ConnectionManager>
     <DTS:ConnectionManager
@@ -1133,7 +1133,7 @@
           DTS:RowDelimiter=""
           DTS:TextQualifier="_x003C_none_x003E_"
           DTS:CodePage="65001"
-          DTS:ConnectionString="C:\Users\zawol\repos\Data_Warehouse_Deweloperzy\Dane\Mieszkania_pozwolenia.csv">
+          DTS:ConnectionString="C:\Users\msado\SynologyDrive\Studia\Hurtownie danych\Deweloperzy\Dane\Mieszkania_pozwolenia.csv">
           <DTS:FlatFileColumns>
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -2127,7 +2127,7 @@
           DTS:RowDelimiter=""
           DTS:TextQualifier="_x003C_none_x003E_"
           DTS:CodePage="1250"
-          DTS:ConnectionString="C:\Users\zawol\repos\Data_Warehouse_Deweloperzy\Dane\NUTS_do_2017.csv">
+          DTS:ConnectionString="C:\Users\msado\SynologyDrive\Studia\Hurtownie danych\Deweloperzy\Dane\NUTS_do_2017.csv">
           <DTS:FlatFileColumns>
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -2175,7 +2175,7 @@
           DTS:RowDelimiter=""
           DTS:TextQualifier="_x003C_none_x003E_"
           DTS:CodePage="1250"
-          DTS:ConnectionString="C:\Users\zawol\repos\Data_Warehouse_Deweloperzy\Dane\NUTS_od_2018.csv">
+          DTS:ConnectionString="C:\Users\msado\SynologyDrive\Studia\Hurtownie danych\Deweloperzy\Dane\NUTS_od_2018.csv">
           <DTS:FlatFileColumns>
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -2222,7 +2222,7 @@
           DTS:RowDelimiter=""
           DTS:TextQualifier="_x003C_none_x003E_"
           DTS:CodePage="65001"
-          DTS:ConnectionString="C:\Users\zawol\repos\Data_Warehouse_Deweloperzy\Odrzucone_dane\Odrzucone_dane_Budownictwo.txt">
+          DTS:ConnectionString="C:\Users\msado\SynologyDrive\Studia\Hurtownie danych\Deweloperzy\Odrzucone_dane\Odrzucone_dane_Budownictwo.txt">
           <DTS:FlatFileColumns>
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -2297,7 +2297,7 @@
           DTS:RowDelimiter=""
           DTS:TextQualifier="_x003C_none_x003E_"
           DTS:CodePage="1250"
-          DTS:ConnectionString="C:\Users\zawol\repos\Data_Warehouse_Deweloperzy\Odrzucone_dane\Odrzucone_dane_Liczba_mieszkan.txt">
+          DTS:ConnectionString="C:\Users\msado\SynologyDrive\Studia\Hurtownie danych\Deweloperzy\Odrzucone_dane\Odrzucone_dane_Liczba_mieszkan.txt">
           <DTS:FlatFileColumns>
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -2398,7 +2398,7 @@
           DTS:RowDelimiter=""
           DTS:TextQualifier="_x003C_none_x003E_"
           DTS:CodePage="1250"
-          DTS:ConnectionString="C:\Users\zawol\repos\Data_Warehouse_Deweloperzy\Odrzucone_dane\Odrzucone_dane_Mediana.txt">
+          DTS:ConnectionString="C:\Users\msado\SynologyDrive\Studia\Hurtownie danych\Deweloperzy\Odrzucone_dane\Odrzucone_dane_Mediana.txt">
           <DTS:FlatFileColumns>
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -2499,7 +2499,7 @@
           DTS:RowDelimiter=""
           DTS:TextQualifier="_x003C_none_x003E_"
           DTS:CodePage="1250"
-          DTS:ConnectionString="C:\Users\zawol\repos\Data_Warehouse_Deweloperzy\Odrzucone_dane\Odrzucone_dane_Powierzchnia.txt">
+          DTS:ConnectionString="C:\Users\msado\SynologyDrive\Studia\Hurtownie danych\Deweloperzy\Odrzucone_dane\Odrzucone_dane_Powierzchnia.txt">
           <DTS:FlatFileColumns>
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -2600,7 +2600,7 @@
           DTS:RowDelimiter=""
           DTS:TextQualifier="_x003C_none_x003E_"
           DTS:CodePage="65001"
-          DTS:ConnectionString="C:\Users\zawol\repos\Data_Warehouse_Deweloperzy\Odrzucone_dane\Odrzucone_dane_Przecietne_wynagrodzenie.txt">
+          DTS:ConnectionString="C:\Users\msado\SynologyDrive\Studia\Hurtownie danych\Deweloperzy\Odrzucone_dane\Odrzucone_dane_Przecietne_wynagrodzenie.txt">
           <DTS:FlatFileColumns>
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -2675,7 +2675,7 @@
           DTS:RowDelimiter=""
           DTS:TextQualifier="_x003C_none_x003E_"
           DTS:CodePage="1250"
-          DTS:ConnectionString="C:\Users\zawol\repos\Data_Warehouse_Deweloperzy\Odrzucone_dane\Odrzucone_dane_Srednia_cena.txt">
+          DTS:ConnectionString="C:\Users\msado\SynologyDrive\Studia\Hurtownie danych\Deweloperzy\Odrzucone_dane\Odrzucone_dane_Srednia_cena.txt">
           <DTS:FlatFileColumns>
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -2776,7 +2776,7 @@
           DTS:RowDelimiter=""
           DTS:TextQualifier="_x003C_none_x003E_"
           DTS:CodePage="1250"
-          DTS:ConnectionString="C:\Users\zawol\repos\Data_Warehouse_Deweloperzy\Odrzucone_dane\Odrzucone_dane_Srednia_cena_m2.txt">
+          DTS:ConnectionString="C:\Users\msado\SynologyDrive\Studia\Hurtownie danych\Deweloperzy\Odrzucone_dane\Odrzucone_dane_Srednia_cena_m2.txt">
           <DTS:FlatFileColumns>
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -2877,7 +2877,7 @@
           DTS:RowDelimiter=""
           DTS:TextQualifier="_x003C_none_x003E_"
           DTS:CodePage="1250"
-          DTS:ConnectionString="C:\Users\zawol\repos\Data_Warehouse_Deweloperzy\Odrzucone_dane\Odrzucone_dane_Wartosc.txt">
+          DTS:ConnectionString="C:\Users\msado\SynologyDrive\Studia\Hurtownie danych\Deweloperzy\Odrzucone_dane\Odrzucone_dane_Wartosc.txt">
           <DTS:FlatFileColumns>
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -2978,7 +2978,7 @@
           DTS:RowDelimiter=""
           DTS:TextQualifier="_x003C_none_x003E_"
           DTS:CodePage="1250"
-          DTS:ConnectionString="C:\Users\zawol\repos\Data_Warehouse_Deweloperzy\Odrzucone_dane\Odrzucone_dane_Wynagrodzenia_region.txt">
+          DTS:ConnectionString="C:\Users\msado\SynologyDrive\Studia\Hurtownie danych\Deweloperzy\Odrzucone_dane\Odrzucone_dane_Wynagrodzenia_region.txt">
           <DTS:FlatFileColumns>
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -3066,7 +3066,7 @@
         <DTS:ConnectionManager
           DTS:ConnectRetryCount="0"
           DTS:ConnectRetryInterval="0"
-          DTS:ConnectionString="Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\zawol\repos\Data_Warehouse_Deweloperzy\Dane\Powierzchnia.xlsx;Extended Properties=&quot;EXCEL 12.0 XML;HDR=YES&quot;;" />
+          DTS:ConnectionString="Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\msado\SynologyDrive\Studia\Hurtownie danych\Deweloperzy\Dane\Powierzchnia.xlsx;Extended Properties=&quot;EXCEL 12.0 XML;HDR=YES&quot;;" />
       </DTS:ObjectData>
     </DTS:ConnectionManager>
     <DTS:ConnectionManager
@@ -3085,7 +3085,7 @@
           DTS:RowDelimiter=""
           DTS:TextQualifier="_x003C_none_x003E_"
           DTS:CodePage="65001"
-          DTS:ConnectionString="C:\Users\zawol\repos\Data_Warehouse_Deweloperzy\Dane\Przeciętne_wynagrodzenie.csv">
+          DTS:ConnectionString="C:\Users\msado\SynologyDrive\Studia\Hurtownie danych\Deweloperzy\Dane\Przeciętne_wynagrodzenie.csv">
           <DTS:FlatFileColumns>
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -4079,7 +4079,7 @@
           DTS:RowDelimiter=""
           DTS:TextQualifier="_x003C_none_x003E_"
           DTS:CodePage="65001"
-          DTS:ConnectionString="C:\Users\zawol\repos\Data_Warehouse_Deweloperzy\Dane\Przeciętne_wynagrodzenie_UNPIVOT.csv">
+          DTS:ConnectionString="C:\Users\msado\SynologyDrive\Studia\Hurtownie danych\Deweloperzy\Dane\Przeciętne_wynagrodzenie_UNPIVOT.csv">
           <DTS:FlatFileColumns>
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -4088,7 +4088,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="Sektor"
-              DTS:DTSID="{18D63113-A997-413B-B28C-B7204A5AA7F2}"
+              DTS:DTSID="{377002BF-5A4F-421D-A152-CD051F8F452D}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -4097,7 +4097,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="Jednostka"
-              DTS:DTSID="{F983DB93-28C6-415E-BB6F-786BBCD98F70}"
+              DTS:DTSID="{0B5CACFF-DF59-427B-AE54-18BBDC32E73C}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -4106,7 +4106,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="Rok"
-              DTS:DTSID="{A68AA823-A98B-4614-9FE5-B8B34FB7DB86}"
+              DTS:DTSID="{5D9CCD46-00EC-4BC8-8351-DAAF49A21A04}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -4115,7 +4115,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="Kwartal"
-              DTS:DTSID="{7F7E2DCA-0CAD-472E-ABB7-C825919E0806}"
+              DTS:DTSID="{C0BA34E3-4049-45A9-A27A-6495A502E1D1}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -4124,7 +4124,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="Wartosc"
-              DTS:DTSID="{844E1611-3E26-45BD-8226-DCCD622293F9}"
+              DTS:DTSID="{2BD73FEC-80D0-4B5F-A6CD-433E9DDD54DE}"
               DTS:CreationName="" />
           </DTS:FlatFileColumns>
         </DTS:ConnectionManager>
@@ -4141,7 +4141,7 @@
         <DTS:ConnectionManager
           DTS:ConnectRetryCount="0"
           DTS:ConnectRetryInterval="0"
-          DTS:ConnectionString="Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\zawol\repos\Data_Warehouse_Deweloperzy\Dane\Średnia_cena.xlsx;Extended Properties=&quot;EXCEL 12.0 XML;HDR=YES&quot;;" />
+          DTS:ConnectionString="Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\msado\SynologyDrive\Studia\Hurtownie danych\Deweloperzy\Dane\Średnia_cena.xlsx;Extended Properties=&quot;EXCEL 12.0 XML;HDR=YES&quot;;" />
       </DTS:ObjectData>
     </DTS:ConnectionManager>
     <DTS:ConnectionManager
@@ -4155,7 +4155,7 @@
         <DTS:ConnectionManager
           DTS:ConnectRetryCount="0"
           DTS:ConnectRetryInterval="0"
-          DTS:ConnectionString="Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\zawol\repos\Data_Warehouse_Deweloperzy\Dane\Średnia_cena_m2.xlsx;Extended Properties=&quot;EXCEL 12.0 XML;HDR=YES&quot;;" />
+          DTS:ConnectionString="Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\msado\SynologyDrive\Studia\Hurtownie danych\Deweloperzy\Dane\Średnia_cena_m2.xlsx;Extended Properties=&quot;EXCEL 12.0 XML;HDR=YES&quot;;" />
       </DTS:ObjectData>
     </DTS:ConnectionManager>
     <DTS:ConnectionManager
@@ -4169,7 +4169,7 @@
         <DTS:ConnectionManager
           DTS:ConnectRetryCount="0"
           DTS:ConnectRetryInterval="0"
-          DTS:ConnectionString="Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\zawol\repos\Data_Warehouse_Deweloperzy\Dane\Stopy_procentowe.xlsx;Extended Properties=&quot;EXCEL 12.0 XML;HDR=YES&quot;;" />
+          DTS:ConnectionString="Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\msado\SynologyDrive\Studia\Hurtownie danych\Deweloperzy\Dane\Stopy_procentowe.xlsx;Extended Properties=&quot;EXCEL 12.0 XML;HDR=YES&quot;;" />
       </DTS:ObjectData>
     </DTS:ConnectionManager>
     <DTS:ConnectionManager
@@ -4188,7 +4188,7 @@
           DTS:RowDelimiter=""
           DTS:TextQualifier="_x003C_none_x003E_"
           DTS:CodePage="65001"
-          DTS:ConnectionString="C:\Users\zawol\repos\Data_Warehouse_Deweloperzy\Dane\Stopy_procentowe.csv">
+          DTS:ConnectionString="C:\Users\msado\SynologyDrive\Studia\Hurtownie danych\Deweloperzy\Dane\Stopy_procentowe.csv">
           <DTS:FlatFileColumns>
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -5488,7 +5488,7 @@
           DTS:RowDelimiter=""
           DTS:TextQualifier="_x003C_none_x003E_"
           DTS:CodePage="1250"
-          DTS:ConnectionString="C:\Users\zawol\repos\Data_Warehouse_Deweloperzy\Dane\Stopy_procentowe_UNPIVOT.csv">
+          DTS:ConnectionString="C:\Users\msado\SynologyDrive\Studia\Hurtownie danych\Deweloperzy\Dane\Stopy_procentowe_UNPIVOT.csv">
           <DTS:FlatFileColumns>
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -5523,7 +5523,7 @@
         <DTS:ConnectionManager
           DTS:ConnectRetryCount="0"
           DTS:ConnectRetryInterval="0"
-          DTS:ConnectionString="Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\zawol\repos\Data_Warehouse_Deweloperzy\Dane\Wartość.xlsx;Extended Properties=&quot;EXCEL 12.0 XML;HDR=YES&quot;;" />
+          DTS:ConnectionString="Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\msado\SynologyDrive\Studia\Hurtownie danych\Deweloperzy\Dane\Wartość.xlsx;Extended Properties=&quot;EXCEL 12.0 XML;HDR=YES&quot;;" />
       </DTS:ObjectData>
     </DTS:ConnectionManager>
     <DTS:ConnectionManager
@@ -5537,7 +5537,7 @@
         <DTS:ConnectionManager
           DTS:ConnectRetryCount="0"
           DTS:ConnectRetryInterval="0"
-          DTS:ConnectionString="Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\zawol\repos\Data_Warehouse_Deweloperzy\Dane\Wynagrodzenia_regionalne.xlsx;Extended Properties=&quot;EXCEL 12.0 XML;HDR=YES&quot;;" />
+          DTS:ConnectionString="Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\msado\SynologyDrive\Studia\Hurtownie danych\Deweloperzy\Dane\Wynagrodzenia_regionalne.xlsx;Extended Properties=&quot;EXCEL 12.0 XML;HDR=YES&quot;;" />
       </DTS:ObjectData>
     </DTS:ConnectionManager>
   </DTS:ConnectionManagers>
@@ -5577,7 +5577,7 @@
       DTS:Namespace="User"
       DTS:ObjectName="FolderProjektu">
       <DTS:VariableValue
-        DTS:DataType="8">C:\Users\zawol\repos\Data_Warehouse_Deweloperzy</DTS:VariableValue>
+        DTS:DataType="8">C:\Users\msado\SynologyDrive\Studia\Hurtownie danych\Deweloperzy</DTS:VariableValue>
     </DTS:Variable>
   </DTS:Variables>
   <DTS:Executables>
@@ -11365,13 +11365,13 @@
                       containsID="true"
                       dataType="System.String"
                       description="Specifies the expression. This expression version uses lineage identifiers instead of column names."
-                      name="Expression">#{Package\Staging Wynagrodzenia\Flat File Source.Outputs[Flat File Source Output].Columns[Wartosc]} == "." &amp;&amp; #{Package\Staging Wynagrodzenia\Flat File Source.Outputs[Flat File Source Output].Columns[Wartosc]} == "-" &amp;&amp; #{Package\Staging Wynagrodzenia\Flat File Source.Outputs[Flat File Source Output].Columns[Wartosc]} == "x" &amp;&amp; #{Package\Staging Wynagrodzenia\Flat File Source.Outputs[Flat File Source Output].Columns[Wartosc]} == ""</property>
+                      name="Expression">#{Package\Staging Wynagrodzenia\Flat File Source.Outputs[Flat File Source Output].Columns[Wartosc]} == "." || #{Package\Staging Wynagrodzenia\Flat File Source.Outputs[Flat File Source Output].Columns[Wartosc]} == "-" || #{Package\Staging Wynagrodzenia\Flat File Source.Outputs[Flat File Source Output].Columns[Wartosc]} == "x" || #{Package\Staging Wynagrodzenia\Flat File Source.Outputs[Flat File Source Output].Columns[Wartosc]} == ""</property>
                     <property
                       containsID="true"
                       dataType="System.String"
                       description="Specifies the friendly version of the expression. This expression version uses column names."
                       expressionType="Notify"
-                      name="FriendlyExpression">Wartosc == "." &amp;&amp; Wartosc == "-" &amp;&amp; Wartosc == "x" &amp;&amp; Wartosc == ""</property>
+                      name="FriendlyExpression">Wartosc == "." || Wartosc == "-" || Wartosc == "x" || Wartosc == ""</property>
                     <property
                       dataType="System.Int32"
                       description="Specifies the position of the condition in the list of conditions that the transformation evaluates. The evaluation order is from the lowest to the highest value."
@@ -14321,15 +14321,6 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
           VSTAMinorVersion="0"
           Language="CSharp">
           <ProjectItem
-            Name="Properties\Settings.settings"
-            Encoding="UTF8"><![CDATA[<?xml version='1.0' encoding='iso-8859-1'?>
-<SettingsFile xmlns="uri:settings" CurrentProfile="(Default)">
-  <Profiles>
-    <Profile Name="(Default)" />
-  </Profiles>
-  <Settings />
-</SettingsFile>]]></ProjectItem>
-          <ProjectItem
             Name="Properties\Resources.resx"
             Encoding="UTF8"><![CDATA[<?xml version="1.0" encoding="utf-8"?>
 <root>
@@ -14449,6 +14440,35 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
   </resheader>
 </root>]]></ProjectItem>
           <ProjectItem
+            Name="Properties\Settings.Designer.cs"
+            Encoding="UTF8"><![CDATA[//------------------------------------------------------------------------------
+// <auto-generated>
+//     This code was generated by a tool.
+//
+//     Changes to this file may cause incorrect behavior and will be lost if
+//     the code is regenerated.
+// </auto-generated>
+//------------------------------------------------------------------------------
+
+[assembly: global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode", Scope="member", Target="ST_9a524b8584ce4affa316138645b1e4f1.Properties.Settings.get_Default():ST_9a524b8584ce4affa316138645b1e4f1.Properties.Sett" +
+    "ings")]
+
+namespace ST_9a524b8584ce4affa316138645b1e4f1.Properties {
+    
+    
+    internal sealed partial class Settings : global::System.Configuration.ApplicationSettingsBase {
+        
+        [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
+        private static Settings defaultInstance = new Settings();
+        
+        public static Settings Default {
+            get {
+                return defaultInstance;
+            }
+        }
+    }
+}]]></ProjectItem>
+          <ProjectItem
             Name="ScriptMain.cs"
             Encoding="UTF8"><![CDATA[#region Help:  Introduction to the script task
 /* The Script Task allows you to perform virtually any operation that can be accomplished in
@@ -14564,6 +14584,11 @@ namespace ST_9a524b8584ce4affa316138645b1e4f1
 
                         string sektor = cells[0].Replace("\"", "");
                         string jednostka = cells[2].Replace("\"", "");
+
+                        if (string.IsNullOrWhiteSpace(jednostka))
+                        {
+                            jednostka = "zł";
+                        }
 
                         for (int c = 3; c < cells.Length; c++)
                         {
@@ -14696,7 +14721,7 @@ namespace ST_9a524b8584ce4affa316138645b1e4f1
     <msb:CodeName>ST_9a524b8584ce4affa316138645b1e4f1</msb:CodeName>
     <msb:Language>msBuild</msb:Language>
     <msb:DisplayName>ST_9a524b8584ce4affa316138645b1e4f1</msb:DisplayName>
-    <msb:ProjectId>{222F95E9-E028-41C7-B029-B9A5C4F35A94}</msb:ProjectId>
+    <msb:ProjectId>{2D6A3EC9-A0E5-42B2-93FA-22F1F9E31604}</msb:ProjectId>
   </msb:PropertyGroup>
   <msb:ItemGroup>
     <msb:Project Include="ST_9a524b8584ce4affa316138645b1e4f1.csproj" />
@@ -14708,35 +14733,6 @@ namespace ST_9a524b8584ce4affa316138645b1e4f1
     <msb:File Include="ScriptMain.cs" />
   </msb:ItemGroup>
 </c:Project>]]></ProjectItem>
-          <ProjectItem
-            Name="Properties\Settings.Designer.cs"
-            Encoding="UTF8"><![CDATA[//------------------------------------------------------------------------------
-// <auto-generated>
-//     This code was generated by a tool.
-//
-//     Changes to this file may cause incorrect behavior and will be lost if
-//     the code is regenerated.
-// </auto-generated>
-//------------------------------------------------------------------------------
-
-[assembly: global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode", Scope="member", Target="ST_9a524b8584ce4affa316138645b1e4f1.Properties.Settings.get_Default():ST_9a524b8584ce4affa316138645b1e4f1.Properties.Sett" +
-    "ings")]
-
-namespace ST_9a524b8584ce4affa316138645b1e4f1.Properties {
-    
-    
-    internal sealed partial class Settings : global::System.Configuration.ApplicationSettingsBase {
-        
-        [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-        private static Settings defaultInstance = new Settings();
-        
-        public static Settings Default {
-            get {
-                return defaultInstance;
-            }
-        }
-    }
-}]]></ProjectItem>
           <ProjectItem
             Name="Properties\AssemblyInfo.cs"
             Encoding="UTF8"><![CDATA[using System.Reflection;
@@ -14767,6 +14763,15 @@ using System.Runtime.CompilerServices;
 // by using the '*' as shown below:
 
 [assembly: AssemblyVersion("1.0.*")]]]></ProjectItem>
+          <ProjectItem
+            Name="Properties\Settings.settings"
+            Encoding="UTF8"><![CDATA[<?xml version='1.0' encoding='iso-8859-1'?>
+<SettingsFile xmlns="uri:settings" CurrentProfile="(Default)">
+  <Profiles>
+    <Profile Name="(Default)" />
+  </Profiles>
+  <Settings />
+</SettingsFile>]]></ProjectItem>
           <ProjectItem
             Name="Properties\Resources.Designer.cs"
             Encoding="UTF8"><![CDATA[//------------------------------------------------------------------------------
@@ -14838,97 +14843,97 @@ namespace ST_9a524b8584ce4affa316138645b1e4f1.Properties {
           <BinaryItem
             Name="ST_9a524b8584ce4affa316138645b1e4f1.dll">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
-ZGUuDQ0KJAAAAAAAAABQRQAATAEDAHDeH2oAAAAAAAAAAOAAIiALATAAABQAAAAIAAAAAAAASjIA
+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
-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
+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
-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
+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
-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
+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
-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
-cQUAAAYA3wFUBAYASQJUBAYAKgJUBAYA3AJUBAYAhgJUBAYAnwJUBAYA9gFUBAYAEQIiAwoAugKF
-AwoAKQGFAwYAuwQ3AAYAZgQHBAYADgQHBAYAlQHqBAYABQYHBAYAhQQdBQYAcAQ/BA4AZQHAAw4A
-xgHAAw4ARQEqBAYAegH9BAoArgOFAxIAyQXKABIAlQTKAAYAGQMtBgYAxQA3AAYAyAQ3AAYAfAQH
-BAYASgMHBAYAlQAHBAoApwSFAwYA9AAHBAYAoQAHBAYAPQZUBAAAAAAuAAAAAAABAAEAAQAQAB8E
-AQA5AAEAAQAAABAAJAWABU0AAQADAAABEAC8BYAFYQADAAcAAwEAAOUFAABFAAQACgARABMExAAR
-ABkByAARAHkAzAAGBmAA0ABWgNUF0wBWgPkA0wBQIAAAAACGACUEBgABAHwiAAAAAIYY3QQGAAEA
-hCIAAAAAgxjdBAYAAQCMIgAAAACTCIEE1wABALgiAAAAAJMIAQHcAAEAvyIAAAAAkwgNAeEAAQDH
-IgAAAACWCBIG5wACAM4iAAAAAIYY3QQGAAIA1iIAAAAAkRjjBOwAAgAAAAEAEwMJAN0EAQARAN0E
-BgAZAN0ECgApAN0EEAAxAN0EEAA5AN0EEABBAN0EEABJAN0EEABRAN0EEABZAN0EEABhAN0EEABp
-AN0EBgCRAN0EBgC5AN0EFQDJAN0EBgBxAN0FMwDRAMUFOADZAP4DPQDhADwDQwDpACUARwDxAK8F
-TAB5AN0EVAD5AOoAEAAJAQwGXAAJAXEAYwAJAVsDaQAJAVEDbQAJAf4FcwARAV0BBgDRAB4GAQDR
-APMFeQCBAIkAQwAJAf4FfwAJAUYGhQAZAdMEiABxAN0EBgCZAN0EBgAhAbMAkQAhATkGmgChAN0E
-oADBAN0EBgAIABQAugAIABgAvwApAHMAJwEuAAsA/wAuABMACAEuABsAJwEuACMAMAEuACsAWQEu
-ADMAWQEuADsAWQEuAEMAMAEuAEsAXwEuAFMAWQEuAFsAdgFDAGMAvwBJAHMAJwFhAHsAvwBjAGsA
-vwAbAAMAAQAEAAMAAACFBPAAAAAhAfUAAAAWBvoAAgAEAAMAAgAFAAUAAQAGAAUAAgAHAAcABIAA
-AAEAAACyJQhGAAAAAAAAAQAAAAQAAAAAAAAAAAAAAKgAaAAAAAAAEQAAAAAAAAAAAAAAsQBmAwAA
-AAAEAAAAAAAAAAAAAACoAAcEAAAAABEAAAAAAAAAAAAAALEAQQAAAAAAAAAAAAEAAAAuBQAABQAC
-AAAAAAAAU1RfOWE1MjRiODU4NGNlNGFmZmEzMTYxMzg2NDViMWU0ZjEAZ2V0X1VURjgAPE1vZHVs
-ZT4AU3lzdGVtLklPAE1pY3Jvc29mdC5TcWxTZXJ2ZXIuTWFuYWdlZERUUwB2YWx1ZV9fAG1zY29y
-bGliAFJlcGxhY2UAZGVmYXVsdEluc3RhbmNlAGdldF9NZXNzYWdlAElEaXNwb3NhYmxlAFJ1bnRp
-bWVUeXBlSGFuZGxlAEdldFR5cGVGcm9tSGFuZGxlAEZpbGUATWljcm9zb2Z0LlNxbFNlcnZlci5E
-dHMuUnVudGltZQBXcml0ZUxpbmUAVHlwZQBGYWlsdXJlAGdldF9DdWx0dXJlAHNldF9DdWx0dXJl
-AHJlc291cmNlQ3VsdHVyZQBWU1RBUlRTY3JpcHRPYmplY3RNb2RlbEJhc2UAQXBwbGljYXRpb25T
-ZXR0aW5nc0Jhc2UARGlzcG9zZQBFZGl0b3JCcm93c2FibGVTdGF0ZQBDb21waWxlckdlbmVyYXRl
-ZEF0dHJpYnV0ZQBEZWJ1Z2dlck5vblVzZXJDb2RlQXR0cmlidXRlAERlYnVnZ2FibGVBdHRyaWJ1
-dGUARWRpdG9yQnJvd3NhYmxlQXR0cmlidXRlAEFzc2VtYmx5VGl0bGVBdHRyaWJ1dGUAQXNzZW1i
-bHlUcmFkZW1hcmtBdHRyaWJ1dGUAVGFyZ2V0RnJhbWV3b3JrQXR0cmlidXRlAEFzc2VtYmx5Q29u
-ZmlndXJhdGlvbkF0dHJpYnV0ZQBBc3NlbWJseURlc2NyaXB0aW9uQXR0cmlidXRlAENvbXBpbGF0
-aW9uUmVsYXhhdGlvbnNBdHRyaWJ1dGUAQXNzZW1ibHlQcm9kdWN0QXR0cmlidXRlAEFzc2VtYmx5
-Q29weXJpZ2h0QXR0cmlidXRlAFNTSVNTY3JpcHRUYXNrRW50cnlQb2ludEF0dHJpYnV0ZQBBc3Nl
-bWJseUNvbXBhbnlBdHRyaWJ1dGUAUnVudGltZUNvbXBhdGliaWxpdHlBdHRyaWJ1dGUAdmFsdWUA
-RW5jb2RpbmcAU3lzdGVtLlJ1bnRpbWUuVmVyc2lvbmluZwBnZXRfQ29ubmVjdGlvblN0cmluZwBT
-dWJzdHJpbmcAZ2V0X0xlbmd0aABNaWNyb3NvZnQuU3FsU2VydmVyLlNjcmlwdFRhc2sATWljcm9z
-b2Z0LlNxbFNlcnZlci5EdHMuVGFza3MuU2NyaXB0VGFzawBTY3JpcHRPYmplY3RNb2RlbABTeXN0
-ZW0uQ29tcG9uZW50TW9kZWwAU1RfOWE1MjRiODU4NGNlNGFmZmEzMTYxMzg2NDViMWU0ZjEuZGxs
-AGdldF9JdGVtAFN5c3RlbQBFbnVtAHJlc291cmNlTWFuAFNjcmlwdE1haW4AU3lzdGVtLkNvbmZp
-Z3VyYXRpb24AU3lzdGVtLkdsb2JhbGl6YXRpb24AU3lzdGVtLlJlZmxlY3Rpb24ARXhjZXB0aW9u
-AEN1bHR1cmVJbmZvAENoYXIAZ2V0X1Jlc291cmNlTWFuYWdlcgBDb25uZWN0aW9uTWFuYWdlcgBF
-dmVudHNPYmplY3RXcmFwcGVyAFN0cmVhbVdyaXRlcgBUZXh0V3JpdGVyAEZpcmVFcnJvcgAuY3Rv
-cgAuY2N0b3IAU3lzdGVtLkRpYWdub3N0aWNzAFN5c3RlbS5SdW50aW1lLkNvbXBpbGVyU2Vydmlj
-ZXMAU3lzdGVtLlJlc291cmNlcwBTVF85YTUyNGI4NTg0Y2U0YWZmYTMxNjEzODY0NWIxZTRmMS5Q
-cm9wZXJ0aWVzLlJlc291cmNlcy5yZXNvdXJjZXMARGVidWdnaW5nTW9kZXMAU1RfOWE1MjRiODU4
-NGNlNGFmZmEzMTYxMzg2NDViMWU0ZjEuUHJvcGVydGllcwBSZWFkQWxsTGluZXMAU2V0dGluZ3MA
-Z2V0X0Nvbm5lY3Rpb25zAFN1Y2Nlc3MAZ2V0X0R0cwBTY3JpcHRSZXN1bHRzAGdldF9FdmVudHMA
-Q29uY2F0AE9iamVjdABTcGxpdABnZXRfRGVmYXVsdABzZXRfVGFza1Jlc3VsdABTeXN0ZW0uVGV4
-dABnZXRfQXNzZW1ibHkARW1wdHkAADFQAHIAegBlAGMAaQBlAHQAbgBlAF8AdwB5AG4AYQBnAHIA
-bwBkAHoAZQBuAGkAZQAAQVAAcgB6AGUAYwBpAGUAdABuAGUAXwB3AHkAbgBhAGcAcgBvAGQAegBl
-AG4AaQBlAF8AVQBuAHAAaQB2AG8AdAAASVMAZQBrAHQAbwByADsASgBlAGQAbgBvAHMAdABrAGEA
-OwBSAG8AawA7AEsAdwBhAHIAdABhAGwAOwBXAGEAcgB0AG8AcwBjAAADIgAAAQADMQAAAzsAACtV
-AG4AcABpAHYAbwB0ACAAVwB5AG4AYQBnAHIAbwBkAHoAZQBuAGkAYQAAHUIAQQEEAUQAIABTAEsA
-UgBZAFAAVABVADoAIAABcVMAVABfADkAYQA1ADIANABiADgANQA4ADQAYwBlADQAYQBmAGYAYQAz
-ADEANgAxADMAOAA2ADQANQBiADEAZQA0AGYAMQAuAFAAcgBvAHAAZQByAHQAaQBlAHMALgBSAGUA
-cwBvAHUAcgBjAGUAcwAAAAAAFMNU8rPkQECqmvX+RVlMkAAEIAEBCAMgAAEFIAEBEREEIAEBDgUg
-AQERWRcHDw4OHQ4SPR0OHQ4IHQ4ODggODg4SQQQgABJpBCAAEm0FIAEScRwDIAAOBAAAEnUHAAId
-Dg4SdQcgAwEOAhJ1BiABHQ4dAwUgAg4ODgMgAAgFIAIOCAgFAAEOHQ4FIAASgI0FAAIODg4CBg4I
-IAUCCA4ODggIAAESgJERgJUFIAASgJkHIAIBDhKAmQi3elxWGTTgiQiJhF3NgIDMkQQAAAAABAEA
-AAADBhJRAwYSVQMGEhACBggDBhEUBAAAElEEAAASVQUAAQESVQQAABIQAwAAAQQIABJRBAgAElUE
-CAASEAgBAAgAAAAAAB4BAAEAVAIWV3JhcE5vbkV4Y2VwdGlvblRocm93cwEIAQACAAAAAAAoAQAj
-U1RfOWE1MjRiODU4NGNlNGFmZmEzMTYxMzg2NDViMWU0ZjEAAAUBAAAAABYBABFDb3B5cmlnaHQg
-QCAgMjAyNgAASQEAGi5ORVRGcmFtZXdvcmssVmVyc2lvbj12NC43AQBUDhRGcmFtZXdvcmtEaXNw
-bGF5TmFtZRIuTkVUIEZyYW1ld29yayA0Lje0AAAAzsrvvgEAAACRAAAAbFN5c3RlbS5SZXNvdXJj
-ZXMuUmVzb3VyY2VSZWFkZXIsIG1zY29ybGliLCBWZXJzaW9uPTQuMC4wLjAsIEN1bHR1cmU9bmV1
-dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OSNTeXN0ZW0uUmVzb3VyY2VzLlJ1
-bnRpbWVSZXNvdXJjZVNldAIAAAAAAAAAAAAAAFBBRFBBRFC0AAAAIDIAAAAAAAAAAAAAOjIAAAAg
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAACwyAAAAAAAAAAAAAAAAX0NvckRsbE1haW4AbXNjb3JlZS5k
-bGwAAAAAAP8lACAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+cnUAAHBvFwAACggWmheNIAAAASUWHzudbxgAAAoTBAgXmheNIAAAASUWHzudbxgAAAoTBRgTBjgK
+AQAACBEGmheNIAAAASUWHzudbxgAAAoTBxEHjmkZP+QAAAARBxaacr8AAHBywwAAcG8ZAAAKEwgR
+Bxiacr8AAHBywwAAcG8ZAAAKEwkRCSgaAAAKLAdyxQAAcBMJGRMKOJcAAAARChEEjmk8lwAAABEK
+EQWOaTyMAAAAEQQRCpoTCxEFEQqabxsAAAoWMAdyywAAcCsMEQURCpoWF28cAAAKEwwRBxEKmhMN
+CR8JjSEAAAElFhEIoiUXcs8AAHCiJRgRCaIlGXLPAABwoiUaEQuiJRtyzwAAcKIlHBEMoiUdcs8A
+AHCiJR4RDaIoHQAACm8XAAAKEQoXWBMKEQoRB45pP17///8RBhdYEwYRBgiOaT/s/v//3goJLAYJ
+bx4AAArcAigQAAAKFm8fAAAK3j4TDgIoEAAACm8gAAAKFnLTAABwcv8AAHARDm8hAAAKKCIAAAp+
+IwAAChZvJAAACiYCKBAAAAoXbx8AAAreACoAAABBNAAAAgAAAE8AAABTAQAAogEAAAoAAAAAAAAA
+AAAAADYAAACEAQAAugEAAD4AAAAQAAABHgIoJQAACioeAigmAAAKKq5+AQAABC0ech0BAHDQAwAA
+AignAAAKbygAAApzKQAACoABAAAEfgEAAAQqGn4CAAAEKh4CgAIAAAQqGn4DAAAEKh4CKCoAAAoq
+LnMIAAAGgAMAAAQqAABCU0pCAQABAAAAAAAMAAAAdjQuMC4zMDMxOQAAAAAFAGwAAABMBAAAI34A
+ALgEAABgBgAAI1N0cmluZ3MAAAAAGAsAAJABAAAjVVMAqAwAABAAAAAjR1VJRAAAALgMAADIAQAA
+I0Jsb2IAAAAAAAAAAgAAAVcdogEJAwAAAPoBMwAWAAABAAAAJgAAAAUAAAAGAAAACQAAAAEAAAAq
+AAAAAgAAABAAAAABAAAAAgAAAAMAAAAEAAAAAQAAAAQAAAABAAAAAQAAAAAA6QMBAAAAAAAGAHkC
+EAUGAAgDEAUGAMUB/QQPAIQFAAAGAPIBZwQGAFwCZwQGAD0CZwQGAO8CZwQGAJkCZwQGALICZwQG
+AAkCZwQGACQCNQMKAM0CmAMKADwBmAMGAM4ENwAGAHkEGgQGACEEGgQGAKgB/QQGABgGGgQGAJgE
+MAUGAIMEUgQOAHgB0wMOANkB0wMOAFgBPQQGAI0BEAUKAMEDmAMSANwF3QASAKgE3QAGACwDQAYG
+ANgANwAGANsENwAGAI8EGgQGAF0DGgQGAKgAGgQKALoEmAMGAAcBGgQGALQAGgQGAFAGZwQAAAAA
+LgAAAAAAAQABAAEAEAAyBAEAOQABAAEAAAAQADcFkwVNAAEAAwAAARAAzwWTBWEAAwAHAAMBAAD4
+BQAARQAEAAoAEQAmBMkAEQAsAc0AEQCMANEABgZgANUAVoDoBdgAVoAMAdgAUCAAAAAAhgA4BAYA
+AQCMIgAAAACGGPAEBgABAJQiAAAAAIMY8AQGAAEAnCIAAAAAkwiUBNwAAQDIIgAAAACTCBQB4QAB
+AM8iAAAAAJMIIAHmAAEA1yIAAAAAlgglBuwAAgDeIgAAAACGGPAEBgACAOYiAAAAAJEY9gTxAAIA
+AAABACYDCQDwBAEAEQDwBAYAGQDwBAoAKQDwBBAAMQDwBBAAOQDwBBAAQQDwBBAASQDwBBAAUQDw
+BBAAWQDwBBAAYQDwBBAAaQDwBAYAkQDwBAYAuQDwBBUAyQDwBAYAcQDwBTMA0QDYBTgA2QARBD0A
+4QBPA0MA6QAlAEcA8QDCBUwAeQDwBFQA+QD9ABAACQEfBlwACQFxAGMACQF5AGkACQFuA24ACQFk
+A3IACQERBngAEQFwAQYA0QAxBgEA0QAGBn4AgQCcAEMACQERBoQACQFZBooAGQHmBI0AcQDwBAYA
+mQDwBAYAIQHGAJYAIQFMBp8AoQDwBKUAwQDwBAYACAAUAL8ACAAYAMQAKQBzACwBLgALAAQBLgAT
+AA0BLgAbACwBLgAjADUBLgArAF4BLgAzAF4BLgA7AF4BLgBDADUBLgBLAGQBLgBTAF4BLgBbAHsB
+QwBjAMQASQBzACwBYQB7AMQAYwBrAMQAGwADAAEABAADAAAAmAT1AAAANAH6AAAAKQb/AAIABAAD
+AAIABQAFAAEABgAFAAIABwAHAASAAAABAAAAuSVBVgAAAAAAAAEAAAAEAAAAAAAAAAAAAACtAGgA
+AAAAABEAAAAAAAAAAAAAALYAeQMAAAAABAAAAAAAAAAAAAAArQAaBAAAAAARAAAAAAAAAAAAAAC2
+AEEAAAAAAAAAAAABAAAAQQUAAAUAAgAAAABTVF85YTUyNGI4NTg0Y2U0YWZmYTMxNjEzODY0NWIx
+ZTRmMQBnZXRfVVRGOAA8TW9kdWxlPgBTeXN0ZW0uSU8ATWljcm9zb2Z0LlNxbFNlcnZlci5NYW5h
+Z2VkRFRTAHZhbHVlX18AbXNjb3JsaWIAUmVwbGFjZQBJc051bGxPcldoaXRlU3BhY2UAZGVmYXVs
+dEluc3RhbmNlAGdldF9NZXNzYWdlAElEaXNwb3NhYmxlAFJ1bnRpbWVUeXBlSGFuZGxlAEdldFR5
+cGVGcm9tSGFuZGxlAEZpbGUATWljcm9zb2Z0LlNxbFNlcnZlci5EdHMuUnVudGltZQBXcml0ZUxp
+bmUAVHlwZQBGYWlsdXJlAGdldF9DdWx0dXJlAHNldF9DdWx0dXJlAHJlc291cmNlQ3VsdHVyZQBW
+U1RBUlRTY3JpcHRPYmplY3RNb2RlbEJhc2UAQXBwbGljYXRpb25TZXR0aW5nc0Jhc2UARGlzcG9z
+ZQBFZGl0b3JCcm93c2FibGVTdGF0ZQBDb21waWxlckdlbmVyYXRlZEF0dHJpYnV0ZQBEZWJ1Z2dl
+ck5vblVzZXJDb2RlQXR0cmlidXRlAERlYnVnZ2FibGVBdHRyaWJ1dGUARWRpdG9yQnJvd3NhYmxl
+QXR0cmlidXRlAEFzc2VtYmx5VGl0bGVBdHRyaWJ1dGUAQXNzZW1ibHlUcmFkZW1hcmtBdHRyaWJ1
+dGUAVGFyZ2V0RnJhbWV3b3JrQXR0cmlidXRlAEFzc2VtYmx5Q29uZmlndXJhdGlvbkF0dHJpYnV0
+ZQBBc3NlbWJseURlc2NyaXB0aW9uQXR0cmlidXRlAENvbXBpbGF0aW9uUmVsYXhhdGlvbnNBdHRy
+aWJ1dGUAQXNzZW1ibHlQcm9kdWN0QXR0cmlidXRlAEFzc2VtYmx5Q29weXJpZ2h0QXR0cmlidXRl
+AFNTSVNTY3JpcHRUYXNrRW50cnlQb2ludEF0dHJpYnV0ZQBBc3NlbWJseUNvbXBhbnlBdHRyaWJ1
+dGUAUnVudGltZUNvbXBhdGliaWxpdHlBdHRyaWJ1dGUAdmFsdWUARW5jb2RpbmcAU3lzdGVtLlJ1
+bnRpbWUuVmVyc2lvbmluZwBnZXRfQ29ubmVjdGlvblN0cmluZwBTdWJzdHJpbmcAZ2V0X0xlbmd0
+aABNaWNyb3NvZnQuU3FsU2VydmVyLlNjcmlwdFRhc2sATWljcm9zb2Z0LlNxbFNlcnZlci5EdHMu
+VGFza3MuU2NyaXB0VGFzawBTY3JpcHRPYmplY3RNb2RlbABTeXN0ZW0uQ29tcG9uZW50TW9kZWwA
+U1RfOWE1MjRiODU4NGNlNGFmZmEzMTYxMzg2NDViMWU0ZjEuZGxsAGdldF9JdGVtAFN5c3RlbQBF
+bnVtAHJlc291cmNlTWFuAFNjcmlwdE1haW4AU3lzdGVtLkNvbmZpZ3VyYXRpb24AU3lzdGVtLkds
+b2JhbGl6YXRpb24AU3lzdGVtLlJlZmxlY3Rpb24ARXhjZXB0aW9uAEN1bHR1cmVJbmZvAENoYXIA
+Z2V0X1Jlc291cmNlTWFuYWdlcgBDb25uZWN0aW9uTWFuYWdlcgBFdmVudHNPYmplY3RXcmFwcGVy
+AFN0cmVhbVdyaXRlcgBUZXh0V3JpdGVyAEZpcmVFcnJvcgAuY3RvcgAuY2N0b3IAU3lzdGVtLkRp
+YWdub3N0aWNzAFN5c3RlbS5SdW50aW1lLkNvbXBpbGVyU2VydmljZXMAU3lzdGVtLlJlc291cmNl
+cwBTVF85YTUyNGI4NTg0Y2U0YWZmYTMxNjEzODY0NWIxZTRmMS5Qcm9wZXJ0aWVzLlJlc291cmNl
+cy5yZXNvdXJjZXMARGVidWdnaW5nTW9kZXMAU1RfOWE1MjRiODU4NGNlNGFmZmEzMTYxMzg2NDVi
+MWU0ZjEuUHJvcGVydGllcwBSZWFkQWxsTGluZXMAU2V0dGluZ3MAZ2V0X0Nvbm5lY3Rpb25zAFN1
+Y2Nlc3MAZ2V0X0R0cwBTY3JpcHRSZXN1bHRzAGdldF9FdmVudHMAQ29uY2F0AE9iamVjdABTcGxp
+dABnZXRfRGVmYXVsdABzZXRfVGFza1Jlc3VsdABTeXN0ZW0uVGV4dABnZXRfQXNzZW1ibHkARW1w
+dHkAAAAxUAByAHoAZQBjAGkAZQB0AG4AZQBfAHcAeQBuAGEAZwByAG8AZAB6AGUAbgBpAGUAAEFQ
+AHIAegBlAGMAaQBlAHQAbgBlAF8AdwB5AG4AYQBnAHIAbwBkAHoAZQBuAGkAZQBfAFUAbgBwAGkA
+dgBvAHQAAElTAGUAawB0AG8AcgA7AEoAZQBkAG4AbwBzAHQAawBhADsAUgBvAGsAOwBLAHcAYQBy
+AHQAYQBsADsAVwBhAHIAdABvAHMAYwAAAyIAAAEABXoAQgEBAzEAAAM7AAArVQBuAHAAaQB2AG8A
+dAAgAFcAeQBuAGEAZwByAG8AZAB6AGUAbgBpAGEAAB1CAEEBBAFEACAAUwBLAFIAWQBQAFQAVQA6
+ACAAAXFTAFQAXwA5AGEANQAyADQAYgA4ADUAOAA0AGMAZQA0AGEAZgBmAGEAMwAxADYAMQAzADgA
+NgA0ADUAYgAxAGUANABmADEALgBQAHIAbwBwAGUAcgB0AGkAZQBzAC4AUgBlAHMAbwB1AHIAYwBl
+AHMAAAB3Ab7c5MftRITmYYx1bbbwAAQgAQEIAyAAAQUgAQEREQQgAQEOBSABARFZFwcPDg4dDhI9
+HQ4dDggdDg4OCA4ODhJBBCAAEmkEIAASbQUgARJxHAMgAA4EAAASdQcAAh0ODhJ1ByADAQ4CEnUG
+IAEdDh0DBSACDg4OBAABAg4DIAAIBSACDggIBQABDh0OBSAAEoCNBQACDg4OAgYOCCAFAggODg4I
+CAABEoCREYCVBSAAEoCZByACAQ4SgJkIt3pcVhk04IkIiYRdzYCAzJEEAAAAAAQBAAAAAwYSUQMG
+ElUDBhIQAgYIAwYRFAQAABJRBAAAElUFAAEBElUEAAASEAMAAAEECAASUQQIABJVBAgAEhAIAQAI
+AAAAAAAeAQABAFQCFldyYXBOb25FeGNlcHRpb25UaHJvd3MBCAEAAgAAAAAAKAEAI1NUXzlhNTI0
+Yjg1ODRjZTRhZmZhMzE2MTM4NjQ1YjFlNGYxAAAFAQAAAAAWAQARQ29weXJpZ2h0IEAgIDIwMjYA
+AEkBABouTkVURnJhbWV3b3JrLFZlcnNpb249djQuNwEAVA4URnJhbWV3b3JrRGlzcGxheU5hbWUS
+Lk5FVCBGcmFtZXdvcmsgNC43AAAAtAAAAM7K774BAAAAkQAAAGxTeXN0ZW0uUmVzb3VyY2VzLlJl
+c291cmNlUmVhZGVyLCBtc2NvcmxpYiwgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWws
+IFB1YmxpY0tleVRva2VuPWI3N2E1YzU2MTkzNGUwODkjU3lzdGVtLlJlc291cmNlcy5SdW50aW1l
+UmVzb3VyY2VTZXQCAAAAAAAAAAAAAABQQURQQURQtAAAAFQyAAAAAAAAAAAAAG4yAAAAIAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAABgMgAAAAAAAAAAAAAAAF9Db3JEbGxNYWluAG1zY29yZWUuZGxsAAAA
+AAD/JQAgABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
@@ -14937,14 +14942,14 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAQAQAAAAGAAAgAAAAAAAAAAAAAAAAAAAAQABAAAAMAAAgAAAAAAAAAAAAAAAAAAAAQAAAAAA
 SAAAAFhAAAAaBAAAAAAAAAAAAAAaBDQAAABWAFMAXwBWAEUAUgBTAEkATwBOAF8ASQBOAEYATwAA
-AAAAvQTv/gAAAQAAAAEACEayJQAAAQAIRrIlPwAAAAAAAAAEAAAAAgAAAAAAAAAAAAAAAAAAAEQA
+AAAAvQTv/gAAAQAAAAEAQVa5JQAAAQBBVrklPwAAAAAAAAAEAAAAAgAAAAAAAAAAAAAAAAAAAEQA
 AAABAFYAYQByAEYAaQBsAGUASQBuAGYAbwAAAAAAJAAEAAAAVAByAGEAbgBzAGwAYQB0AGkAbwBu
 AAAAAAAAALAEegMAAAEAUwB0AHIAaQBuAGcARgBpAGwAZQBJAG4AZgBvAAAAVgMAAAEAMAAwADAA
 MAAwADQAYgAwAAAAGgABAAEAQwBvAG0AbQBlAG4AdABzAAAAAAAAACIAAQABAEMAbwBtAHAAYQBu
 AHkATgBhAG0AZQAAAAAAAAAAAHAAJAABAEYAaQBsAGUARABlAHMAYwByAGkAcAB0AGkAbwBuAAAA
 AABTAFQAXwA5AGEANQAyADQAYgA4ADUAOAA0AGMAZQA0AGEAZgBmAGEAMwAxADYAMQAzADgANgA0
 ADUAYgAxAGUANABmADEAAAA+AA8AAQBGAGkAbABlAFYAZQByAHMAaQBvAG4AAAAAADEALgAwAC4A
-OQA2ADUAMAAuADEANwA5ADIAOAAAAAAAcAAoAAEASQBuAHQAZQByAG4AYQBsAE4AYQBtAGUAAABT
+OQA2ADUANwAuADIAMgAwADgAMQAAAAAAcAAoAAEASQBuAHQAZQByAG4AYQBsAE4AYQBtAGUAAABT
 AFQAXwA5AGEANQAyADQAYgA4ADUAOAA0AGMAZQA0AGEAZgBmAGEAMwAxADYAMQAzADgANgA0ADUA
 YgAxAGUANABmADEALgBkAGwAbAAAAEgAEgABAEwAZQBnAGEAbABDAG8AcAB5AHIAaQBnAGgAdAAA
 AEMAbwBwAHkAcgBpAGcAaAB0ACAAQAAgACAAMgAwADIANgAAACoAAQABAEwAZQBnAGEAbABUAHIA
@@ -14953,15 +14958,15 @@ AG0AZQAAAFMAVABfADkAYQA1ADIANABiADgANQA4ADQAYwBlADQAYQBmAGYAYQAzADEANgAxADMA
 OAA2ADQANQBiADEAZQA0AGYAMQAuAGQAbABsAAAAaAAkAAEAUAByAG8AZAB1AGMAdABOAGEAbQBl
 AAAAAABTAFQAXwA5AGEANQAyADQAYgA4ADUAOAA0AGMAZQA0AGEAZgBmAGEAMwAxADYAMQAzADgA
 NgA0ADUAYgAxAGUANABmADEAAABCAA8AAQBQAHIAbwBkAHUAYwB0AFYAZQByAHMAaQBvAG4AAAAx
-AC4AMAAuADkANgA1ADAALgAxADcAOQAyADgAAAAAAEYADwABAEEAcwBzAGUAbQBiAGwAeQAgAFYA
-ZQByAHMAaQBvAG4AAAAxAC4AMAAuADkANgA1ADAALgAxADcAOQAyADgAAAAAAAAAAAAAAAAAAAAA
+AC4AMAAuADkANgA1ADcALgAyADIAMAA4ADEAAAAAAEYADwABAEEAcwBzAGUAbQBiAGwAeQAgAFYA
+ZQByAHMAaQBvAG4AAAAxAC4AMAAuADkANgA1ADcALgAyADIAMAA4ADEAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwAAAMAAAATDIAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwAAAMAAAAgDIAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
@@ -15056,7 +15061,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
           SQLTask:Connection="{F7E9F975-F239-4BCF-8698-044739DAC0A9}"
-          SQLTask:SqlStatementSource="DELETE FROM FaktWynagrodzenieSektor;&#xA;DBCC CHECKIDENT ('FaktWynagrodzenieSektor', RESEED, 0);&#xA;&#xA;INSERT INTO FaktWynagrodzenieSektor (&#xA;    SektorID, &#xA;    OkresID, &#xA;    JednostkaID, &#xA;    Wynagrodzenie&#xA;)&#xA;SELECT &#xA;    ds.SektorID,&#xA;    do.OkresID,&#xA;    dj.JednostkaID,&#xA;    ISNULL(TRY_CAST(REPLACE(stg.Wartosc, ',', '.') AS DECIMAL(18,2)), 0) AS Wynagrodzenie&#xA;&#xA;FROM StagingWynagrodzenieSektor stg&#xA;&#xA;INNER JOIN DimSektor ds &#xA;    ON ds.NazwaOryginalna = stg.Sektor&#xA;&#xA;INNER JOIN DimJednostka dj &#xA;    ON dj.NazwaJednostki = stg.Jednostka&#xA;&#xA;INNER JOIN DimOkres do &#xA;    ON do.Rok = CAST(stg.Rok AS INT) &#xA;    AND do.Kwartał = CAST(stg.Kwartal AS INT)&#xA;    AND do.MiesiącNumer = (CAST(stg.Kwartal AS INT) * 3);" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+          SQLTask:SqlStatementSource="DELETE FROM FaktWynagrodzenieSektor;&#xA;DBCC CHECKIDENT ('FaktWynagrodzenieSektor', RESEED, 0);&#xA;&#xA;INSERT INTO FaktWynagrodzenieSektor (&#xA;    SektorID, &#xA;    OkresID, &#xA;    JednostkaID, &#xA;    Wynagrodzenie&#xA;)&#xA;SELECT &#xA;    ds.SektorID,&#xA;    do.OkresID,&#xA;    dj.JednostkaID,&#xA;    ISNULL(TRY_CAST(REPLACE(stg.Wartosc, ',', '.') AS DECIMAL(18,2)), 0) AS Wynagrodzenie&#xA;&#xA;FROM StagingWynagrodzenieSektor stg&#xA;&#xA;INNER JOIN DimSektor ds &#xA;  ON TRIM(REPLACE(REPLACE(REPLACE(REPLACE(stg.Sektor, CHAR(160), ' '), '  ', ' '), CHAR(13), ''), CHAR(9), '')) = ds.NazwaOryginalna&#xA;&#xA;INNER JOIN DimJednostka dj &#xA;    ON dj.NazwaJednostki = stg.Jednostka&#xA;&#xA;INNER JOIN DimOkres do &#xA;    ON do.Rok = CAST(stg.Rok AS INT) &#xA;    AND do.Kwartał = CAST(stg.Kwartal AS INT)&#xA;    AND do.MiesiącNumer = (CAST(stg.Kwartal AS INT) * 3);" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
       </DTS:ObjectData>
     </DTS:Executable>
     <DTS:Executable
@@ -17085,7 +17090,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
           SQLTask:Connection="{F7E9F975-F239-4BCF-8698-044739DAC0A9}"
-          SQLTask:SqlStatementSource="IF (SELECT COUNT(*) FROM DimSektor) = 0&#xA;&#xA;BEGIN&#xA;&#xA;INSERT INTO DimSektor (NazwaOryginalna, NazwaSektora, TypWynagrodzenia)&#xA;SELECT &#xA;    NazwaOryginalna,&#xA;    &#xA;    LTRIM(RTRIM(&#xA;        CASE &#xA;            WHEN CHARINDEX(' w ', NazwaOryginalna) &gt; 0 THEN SUBSTRING(NazwaOryginalna, CHARINDEX(' w ', NazwaOryginalna) + 3, LEN(NazwaOryginalna))&#xA;            WHEN NazwaOryginalna LIKE 'w %' THEN SUBSTRING(NazwaOryginalna, 3, LEN(NazwaOryginalna))&#xA;            ELSE NazwaOryginalna &#xA;        END&#xA;    )) AS NazwaSektora,&#xA;&#xA;    CASE &#xA;        WHEN NazwaOryginalna LIKE '%realne%' THEN 'Realne'&#xA;        WHEN NazwaOryginalna LIKE '%nominalne%' THEN 'Nominalne'&#xA;        ELSE 'Inne / Brak'&#xA;    END AS TypWynagrodzenia&#xA;&#xA;FROM (&#xA;    VALUES &#xA;    ('Przeciętne miesięczne wynagrodzenie nominalne brutto w gospodarce narodowej'),&#xA;    ('Przeciętne miesięczne wynagrodzenie nominalne brutto  w sferze budżetowej'),&#xA;    ('Przeciętne miesięczne wynagrodzenie nominalne brutto  w sektorze przedsiębiorstw'),&#xA;    ('Przeciętne miesięczne wynagrodzenie nominalne brutto w przemyśle'),&#xA;    ('Przeciętne miesięczne wynagrodzenie nominalne brutto w górnictwie i wydobywaniu'),&#xA;    ('Przeciętne miesięczne wynagrodzenie nominalne brutto w przetwórstwie przemysłowym'),&#xA;    ('Przeciętne miesięczne wynagrodzenie nominalne brutto w wytwarzaniu i zaopatrywaniu w energię elektryczną, gaz, parę wodną i gorącą wodę'),&#xA;    ('Przeciętne miesięczne wynagrodzenie nominalne brutto w dostawie wody; gospodarowaniu ściekami i odpadami; rekultywacji'),&#xA;    ('Przeciętne miesięczne wynagrodzenie nominalne brutto w budownictwie'),&#xA;    ('Przeciętne miesięczne wynagrodzenie nominalne brutto w handlu; naprawie pojazdów samochodowych'),&#xA;    ('Przeciętne miesięczne wynagrodzenie nominalne brutto w transporcie i gospodarce magazynowej'),&#xA;    ('Przeciętne miesięczne wynagrodzenia nominalne brutto w informacji i komunikacji'),&#xA;    ('Przeciętne miesięczne wynagrodzenie nominalne brutto w działalności finansowej i ubezpieczeniowej'),&#xA;    ('Przeciętne miesięczne wynagrodzenie nominalne brutto w obsłudze rynku nieruchomości'),&#xA;    ('Przeciętne miesięczne wynagrodzenie nominalne brutto w edukacji'),&#xA;    ('Przeciętne miesięczne wynagrodzenie nominalne brutto w opiece zdrowotnej i pomocy społecznej'),&#xA;    ('Przeciętne miesięczne wynagrodzenie realne brutto w gospodarce narodowej'),&#xA;    ('Przeciętne miesięczne wynagrodzenie realne brutto w sektorze przedsiębiorstw')&#xA;) AS T(NazwaOryginalna);&#xA;&#xA;END" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+          SQLTask:SqlStatementSource="IF (SELECT COUNT(*) FROM DimSektor) = 0&#xA;BEGIN&#xA;&#xA;    WITH CzysteDane AS (&#xA;        SELECT &#xA;            REPLACE(NazwaOryginalna, '  ', ' ') AS NazwaOryginalna&#xA;        FROM (&#xA;            VALUES &#xA;            ('Przeciętne miesięczne wynagrodzenie nominalne brutto w gospodarce narodowej'),&#xA;            ('Przeciętne miesięczne wynagrodzenie nominalne brutto w sferze budżetowej'),&#xA;            ('Przeciętne miesięczne wynagrodzenie nominalne brutto w sektorze przedsiębiorstw'),&#xA;            ('Przeciętne miesięczne wynagrodzenie nominalne brutto w przemyśle'),&#xA;            ('Przeciętne miesięczne wynagrodzenie nominalne brutto w budownictwie'),&#xA;            ('Przeciętne miesięczne wynagrodzenie nominalne brutto w handlu'),&#xA;            ('Przeciętne miesięczne wynagrodzenie nominalne brutto w transporcie i gospodarce magazynowej'),&#xA;            ('Przeciętne miesięczne wynagrodzenia nominalne brutto w informacji i komunikacji'),&#xA;            ('Przeciętne miesięczne wynagrodzenie nominalne brutto w działalności finansowej i ubezpieczeniowej'),&#xA;            ('Przeciętne miesięczne wynagrodzenie nominalne brutto w obsłudze rynku nieruchomości'),&#xA;            ('Przeciętne miesięczne wynagrodzenie nominalne brutto w edukacji'),&#xA;            ('Przeciętne miesięczne wynagrodzenie nominalne brutto w opiece zdrowotnej i pomocy społecznej'),&#xA;            ('Przeciętne miesięczne wynagrodzenie realne brutto w gospodarce narodowej'),&#xA;            ('Przeciętne miesięczne wynagrodzenie realne brutto w sektorze przedsiębiorstw')&#xA;        ) AS T(NazwaOryginalna)&#xA;    )&#xA;&#xA;    INSERT INTO DimSektor (NazwaOryginalna, NazwaSektora, TypWynagrodzenia)&#xA;    SELECT &#xA;        NazwaOryginalna,&#xA;        &#xA;        LTRIM(RTRIM(&#xA;            CASE &#xA;                WHEN CHARINDEX(' w ', NazwaOryginalna) &gt; 0 THEN SUBSTRING(NazwaOryginalna, CHARINDEX(' w ', NazwaOryginalna) + 3, LEN(NazwaOryginalna))&#xA;                WHEN NazwaOryginalna LIKE 'w %' THEN SUBSTRING(NazwaOryginalna, 3, LEN(NazwaOryginalna))&#xA;                ELSE NazwaOryginalna &#xA;            END&#xA;        )) AS NazwaSektora,&#xA;&#xA;        CASE &#xA;            WHEN NazwaOryginalna LIKE '%realne%' THEN 'Realne'&#xA;            WHEN NazwaOryginalna LIKE '%nominalne%' THEN 'Nominalne'&#xA;            ELSE 'Inne / Brak'&#xA;        END AS TypWynagrodzenia&#xA;    FROM CzysteDane;&#xA;&#xA;END" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
       </DTS:ObjectData>
     </DTS:Executable>
   </DTS:Executables>

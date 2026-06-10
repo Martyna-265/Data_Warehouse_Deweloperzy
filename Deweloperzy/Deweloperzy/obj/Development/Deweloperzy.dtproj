@@ -26,7 +26,7 @@
           <SSIS:Property SSIS:Name="CreatorComputerName">MARTYNA-LAP</SSIS:Property>
           <SSIS:Property SSIS:Name="Description">
           </SSIS:Property>
-          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA+Rk3LXB2T0uC0gJdKrnjyAAAAAACAAAAAAAQZgAAAAEAACAAAADr1UP//bzfVoRA93EMeQe/ewmzJwLH8zcRVXz0/UlFoAAAAAAOgAAAAAIAACAAAABnOZAI6FTSeCi47ihcdWWnKwjaU21u+xdYHCgHqRp21JAAAADaszO1Us7s/jB7qV9ZBFNuGyX+6vPNwUrMwx4k9khWSGEVeei78lDmeF3/AChEnQ3RoNeBU9CR+w0Blj0sxLtpYe+BIroy9g5DZhxXf2awPdD0VXnn4ygePB2bCMa7+EyYDmaggIB+fGIJ3NyiHhGqq1+upRxRySH7eMNi/wt22j2EYV/lBHFVUF7060j+5jJAAAAA9o63qmy/JTF9SVELTY/fF0hNe0ADGyLW3J2tlIw8piV4JVOKVH5j9XiThtwqfLs+PYflKWMzjwIdDsA9UEAtoQ==</SSIS:Property>
+          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA6ILekNgG0kWEk1YTlTFvXAAAAAACAAAAAAAQZgAAAAEAACAAAAD6Jrt3EDP8b4Lr3R2mDPoWLYzOw08bTeUb9g7K5m7ipQAAAAAOgAAAAAIAACAAAAANrSqjBozw5gzuACy5OwJWE3+hAghnHf9amAGp1g15AJAAAAD6OUHCFQSehCPdAk3AGmQngOfFL9J9AnuVJhJLY5VdZR9j6lMdqK5KrKCNFM1+aVtoJGYSYidejgJascz6L+n2D7r2YIiNGMUwIQzMoPUfwT7ltbhs6FLTrsXFNKUuGMK91VySyR9/MaytgZK8FB4CUidhTZK6nj3X6zkPRjajxtNCule6Ojn7EUwvRzVr+gxAAAAAc4AGfPbfCqoqCAI3WwBvhRDyKZEj+Wew+hA93a0yCjBh0YwDQNZqim+Meop/qjoG4UXpZ/gROfr0fFJf/vjx+A==</SSIS:Property>
           <SSIS:Property SSIS:Name="FormatVersion">1</SSIS:Property>
         </SSIS:Properties>
         <SSIS:Packages>
@@ -42,10 +42,10 @@
                 <SSIS:Property SSIS:Name="Name">Package</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionMajor">1</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionMinor">0</SSIS:Property>
-                <SSIS:Property SSIS:Name="VersionBuild">115</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionBuild">125</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionComments">
                 </SSIS:Property>
-                <SSIS:Property SSIS:Name="VersionGUID">{755DA2B9-E789-4B90-B4EA-3A48C5956D1F}</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionGUID">{B84E6AE6-327C-41F1-98CA-E7FA5313F695}</SSIS:Property>
                 <SSIS:Property SSIS:Name="PackageFormatVersion">8</SSIS:Property>
                 <SSIS:Property SSIS:Name="Description">
                 </SSIS:Property>
@@ -590,7 +590,7 @@
                     <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                    <SSIS:Property SSIS:Name="Value">Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\zawol\repos\Data_Warehouse_Deweloperzy\Dane\Liczba_mieszkań.xlsx;Extended Properties="EXCEL 12.0 XML;HDR=YES";</SSIS:Property>
+                    <SSIS:Property SSIS:Name="Value">Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\msado\SynologyDrive\Studia\Hurtownie danych\Deweloperzy\Dane\Liczba_mieszkań.xlsx;Extended Properties="EXCEL 12.0 XML;HDR=YES";</SSIS:Property>
                     <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
                   </SSIS:Properties>
                 </SSIS:Parameter>
@@ -663,7 +663,7 @@
                     <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                    <SSIS:Property SSIS:Name="Value">C:\Users\zawol\repos\Data_Warehouse_Deweloperzy\Dane\Liczba_mieszkań.xlsx</SSIS:Property>
+                    <SSIS:Property SSIS:Name="Value">C:\Users\msado\SynologyDrive\Studia\Hurtownie danych\Deweloperzy\Dane\Liczba_mieszkań.xlsx</SSIS:Property>
                     <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
                   </SSIS:Properties>
                 </SSIS:Parameter>
@@ -707,7 +707,7 @@
                     <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                    <SSIS:Property SSIS:Name="Value">Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\zawol\repos\Data_Warehouse_Deweloperzy\Dane\Mediana.xlsx;Extended Properties="EXCEL 12.0 XML;HDR=YES";</SSIS:Property>
+                    <SSIS:Property SSIS:Name="Value">Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\msado\SynologyDrive\Studia\Hurtownie danych\Deweloperzy\Dane\Mediana.xlsx;Extended Properties="EXCEL 12.0 XML;HDR=YES";</SSIS:Property>
                     <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
                   </SSIS:Properties>
                 </SSIS:Parameter>
@@ -780,7 +780,7 @@
                     <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                    <SSIS:Property SSIS:Name="Value">C:\Users\zawol\repos\Data_Warehouse_Deweloperzy\Dane\Mediana.xlsx</SSIS:Property>
+                    <SSIS:Property SSIS:Name="Value">C:\Users\msado\SynologyDrive\Studia\Hurtownie danych\Deweloperzy\Dane\Mediana.xlsx</SSIS:Property>
                     <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
                   </SSIS:Properties>
                 </SSIS:Parameter>
@@ -3008,7 +3008,7 @@
                     <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                    <SSIS:Property SSIS:Name="Value">Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\zawol\repos\Data_Warehouse_Deweloperzy\Dane\Powierzchnia.xlsx;Extended Properties="EXCEL 12.0 XML;HDR=YES";</SSIS:Property>
+                    <SSIS:Property SSIS:Name="Value">Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\msado\SynologyDrive\Studia\Hurtownie danych\Deweloperzy\Dane\Powierzchnia.xlsx;Extended Properties="EXCEL 12.0 XML;HDR=YES";</SSIS:Property>
                     <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
                   </SSIS:Properties>
                 </SSIS:Parameter>
@@ -3081,7 +3081,7 @@
                     <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                    <SSIS:Property SSIS:Name="Value">C:\Users\zawol\repos\Data_Warehouse_Deweloperzy\Dane\Powierzchnia.xlsx</SSIS:Property>
+                    <SSIS:Property SSIS:Name="Value">C:\Users\msado\SynologyDrive\Studia\Hurtownie danych\Deweloperzy\Dane\Powierzchnia.xlsx</SSIS:Property>
                     <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
                   </SSIS:Properties>
                 </SSIS:Parameter>
@@ -3489,7 +3489,7 @@
                     <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                    <SSIS:Property SSIS:Name="Value">Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\zawol\repos\Data_Warehouse_Deweloperzy\Dane\Średnia_cena.xlsx;Extended Properties="EXCEL 12.0 XML;HDR=YES";</SSIS:Property>
+                    <SSIS:Property SSIS:Name="Value">Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\msado\SynologyDrive\Studia\Hurtownie danych\Deweloperzy\Dane\Średnia_cena.xlsx;Extended Properties="EXCEL 12.0 XML;HDR=YES";</SSIS:Property>
                     <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
                   </SSIS:Properties>
                 </SSIS:Parameter>
@@ -3562,7 +3562,7 @@
                     <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                    <SSIS:Property SSIS:Name="Value">C:\Users\zawol\repos\Data_Warehouse_Deweloperzy\Dane\Średnia_cena.xlsx</SSIS:Property>
+                    <SSIS:Property SSIS:Name="Value">C:\Users\msado\SynologyDrive\Studia\Hurtownie danych\Deweloperzy\Dane\Średnia_cena.xlsx</SSIS:Property>
                     <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
                   </SSIS:Properties>
                 </SSIS:Parameter>
@@ -3606,7 +3606,7 @@
                     <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                    <SSIS:Property SSIS:Name="Value">Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\zawol\repos\Data_Warehouse_Deweloperzy\Dane\Średnia_cena_m2.xlsx;Extended Properties="EXCEL 12.0 XML;HDR=YES";</SSIS:Property>
+                    <SSIS:Property SSIS:Name="Value">Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\msado\SynologyDrive\Studia\Hurtownie danych\Deweloperzy\Dane\Średnia_cena_m2.xlsx;Extended Properties="EXCEL 12.0 XML;HDR=YES";</SSIS:Property>
                     <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
                   </SSIS:Properties>
                 </SSIS:Parameter>
@@ -3679,7 +3679,7 @@
                     <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                    <SSIS:Property SSIS:Name="Value">C:\Users\zawol\repos\Data_Warehouse_Deweloperzy\Dane\Średnia_cena_m2.xlsx</SSIS:Property>
+                    <SSIS:Property SSIS:Name="Value">C:\Users\msado\SynologyDrive\Studia\Hurtownie danych\Deweloperzy\Dane\Średnia_cena_m2.xlsx</SSIS:Property>
                     <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
                   </SSIS:Properties>
                 </SSIS:Parameter>
@@ -3723,7 +3723,7 @@
                     <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                    <SSIS:Property SSIS:Name="Value">Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\zawol\repos\Data_Warehouse_Deweloperzy\Dane\Stopy_procentowe.xlsx;Extended Properties="EXCEL 12.0 XML;HDR=YES";</SSIS:Property>
+                    <SSIS:Property SSIS:Name="Value">Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\msado\SynologyDrive\Studia\Hurtownie danych\Deweloperzy\Dane\Stopy_procentowe.xlsx;Extended Properties="EXCEL 12.0 XML;HDR=YES";</SSIS:Property>
                     <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
                   </SSIS:Properties>
                 </SSIS:Parameter>
@@ -3796,7 +3796,7 @@
                     <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                    <SSIS:Property SSIS:Name="Value">C:\Users\zawol\repos\Data_Warehouse_Deweloperzy\Dane\Stopy_procentowe.xlsx</SSIS:Property>
+                    <SSIS:Property SSIS:Name="Value">C:\Users\msado\SynologyDrive\Studia\Hurtownie danych\Deweloperzy\Dane\Stopy_procentowe.xlsx</SSIS:Property>
                     <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
                   </SSIS:Properties>
                 </SSIS:Parameter>
@@ -4204,7 +4204,7 @@
                     <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                    <SSIS:Property SSIS:Name="Value">Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\zawol\repos\Data_Warehouse_Deweloperzy\Dane\Wartość.xlsx;Extended Properties="EXCEL 12.0 XML;HDR=YES";</SSIS:Property>
+                    <SSIS:Property SSIS:Name="Value">Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\msado\SynologyDrive\Studia\Hurtownie danych\Deweloperzy\Dane\Wartość.xlsx;Extended Properties="EXCEL 12.0 XML;HDR=YES";</SSIS:Property>
                     <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
                   </SSIS:Properties>
                 </SSIS:Parameter>
@@ -4277,7 +4277,7 @@
                     <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                    <SSIS:Property SSIS:Name="Value">C:\Users\zawol\repos\Data_Warehouse_Deweloperzy\Dane\Wartość.xlsx</SSIS:Property>
+                    <SSIS:Property SSIS:Name="Value">C:\Users\msado\SynologyDrive\Studia\Hurtownie danych\Deweloperzy\Dane\Wartość.xlsx</SSIS:Property>
                     <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
                   </SSIS:Properties>
                 </SSIS:Parameter>
@@ -4321,7 +4321,7 @@
                     <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                    <SSIS:Property SSIS:Name="Value">Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\zawol\repos\Data_Warehouse_Deweloperzy\Dane\Wynagrodzenia_regionalne.xlsx;Extended Properties="EXCEL 12.0 XML;HDR=YES";</SSIS:Property>
+                    <SSIS:Property SSIS:Name="Value">Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\msado\SynologyDrive\Studia\Hurtownie danych\Deweloperzy\Dane\Wynagrodzenia_regionalne.xlsx;Extended Properties="EXCEL 12.0 XML;HDR=YES";</SSIS:Property>
                     <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
                   </SSIS:Properties>
                 </SSIS:Parameter>
@@ -4394,7 +4394,7 @@
                     <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                    <SSIS:Property SSIS:Name="Value">C:\Users\zawol\repos\Data_Warehouse_Deweloperzy\Dane\Wynagrodzenia_regionalne.xlsx</SSIS:Property>
+                    <SSIS:Property SSIS:Name="Value">C:\Users\msado\SynologyDrive\Studia\Hurtownie danych\Deweloperzy\Dane\Wynagrodzenia_regionalne.xlsx</SSIS:Property>
                     <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
                   </SSIS:Properties>
                 </SSIS:Parameter>
