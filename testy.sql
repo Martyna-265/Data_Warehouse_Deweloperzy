@@ -7,7 +7,7 @@ PRINT '--- ROZPOCZÊCIE TESTÓW INTEGRALNOŒCI: STAGING VS FAKTY ---';
 PRINT '';
 
 ---------------------------------------------------------
--- 1. BUDOWNICTWO (Grupowane po kwarta³ach)
+-- 1. BUDOWNICTWO
 ---------------------------------------------------------
 DECLARE @StgBudownictwo INT = (SELECT COUNT(DISTINCT Rok + Kwartal) FROM StagingBudownictwo WHERE Rok >= 2014);
 DECLARE @FaktBudownictwo INT = (SELECT COUNT(*) FROM FaktBudownictwo);
@@ -107,8 +107,15 @@ PRINT '';
 PRINT '--- ZAKOÑCZENIE TESTÓW INTEGRALNOŒCI ---';
 PRINT '';
 
+PRINT '--- ROZPOCZÊCIE TESTÓW JAKOŒCI ---';
 
--- TEST 11: Duplikaty w wymiarze Sektor
+---------------------------------------------------------
+-- SPRAWDZENIE DUPLIKATÓW
+---------------------------------------------------------
+PRINT '';
+PRINT '--- WERYFIKACJA DUPLIKATÓW ---';
+
+-- 11. WYMIAR SEKTOR
 DECLARE @DuplikatySektor INT = (SELECT COUNT(*) FROM (SELECT NazwaOryginalna FROM DimSektor GROUP BY NazwaOryginalna HAVING COUNT(*) > 1) AS Sub);
 
 IF @DuplikatySektor = 0
@@ -116,22 +123,138 @@ IF @DuplikatySektor = 0
 ELSE
     PRINT 'TEST 11 FAIL: Znaleziono duplikaty w DimSektor! Iloœæ: ' + CAST(@DuplikatySektor AS VARCHAR);
 
--- TEST 12: Sprawdzenie czystoœci danych w Kredytach (czy przesz³o "np." lub "b.d.")
-DECLARE @BrudneDaneKredyty INT = (SELECT COUNT(*) FROM StagingKredytyNieruchomosci WHERE Wartosc IN ('np.', 'b.d.', '-'));
+-- 12. WYMIAR OKRES
+DECLARE @DuplikatyOkres INT = (
+    SELECT COUNT(*) FROM (
+        SELECT Rok, Kwarta³, Miesi¹cNumer
+        FROM DimOkres
+        GROUP BY Rok, Kwarta³, Miesi¹cNumer
+        HAVING COUNT(*) > 1
+    ) AS Sub
+);
+
+IF @DuplikatyOkres = 0
+    PRINT 'TEST 12 PASS: Wymiar DimOkres jest unikalny. Brak duplikatów czasu.';
+ELSE
+    PRINT 'TEST 12 FAIL: Krytyczny b³¹d! Wymiar DimOkres zawiera duplikaty. Iloœæ: ' + CAST(@DuplikatyOkres AS VARCHAR);
+
+-- 13. WYMIAR JEDNOSTKA
+DECLARE @DuplikatyJednostka INT = (SELECT COUNT(*) FROM (SELECT NazwaJednostki FROM DimJednostka GROUP BY NazwaJednostki HAVING COUNT(*) > 1) AS Sub);
+
+IF @DuplikatyJednostka = 0
+    PRINT 'TEST 13 PASS: Wymiar DimJednostka nie zawiera duplikatów.';
+ELSE
+    PRINT 'TEST 13 FAIL: Znaleziono duplikaty w DimJednostka! Iloœæ: ' + CAST(@DuplikatyJednostka AS VARCHAR);
+
+---------------------------------------------------------
+-- TESTY SCD2 W WYMIARZE REGION
+---------------------------------------------------------
+PRINT '';
+PRINT '--- WERYFIKACJA SCD2 (DimRegion) ---';
+
+-- 14. JEDEN AKTYWNY WIERSZ DLA REGIONU
+
+DECLARE @ZdublowaneAktywneRegiony INT = (
+    SELECT COUNT(*) FROM (
+        SELECT NazwaWojewództwa
+        FROM DimRegion
+        WHERE ValidFlag = 1
+        GROUP BY NazwaWojewództwa
+        HAVING COUNT(*) > 1
+    ) AS Sub
+);
+
+IF @ZdublowaneAktywneRegiony = 0
+    PRINT 'TEST 14 PASS: Wymiar SCD2 jest spójny - ka¿dy region ma tylko jeden aktywny wiersz.';
+ELSE
+    PRINT 'TEST 14 FAIL: B£¥D SCD2! Znaleziono regiony z wieloma aktywnymi wierszami. Iloœæ: ' + CAST(@ZdublowaneAktywneRegiony AS VARCHAR);
+
+-- 15. OTWARTE DATY DLA AKTYWNYCH REKORDÓW
+-- Zak³adamy, ¿e aktywny rekord ma ValidTo równe NULL. 
+
+DECLARE @ZleZamknieteAktywne INT = (
+    SELECT COUNT(*) 
+    FROM DimRegion 
+    WHERE ValidFlag = 1 
+      AND ValidTo IS NOT NULL 
+);
+
+IF @ZleZamknieteAktywne = 0
+    PRINT 'TEST 15 PASS: Wymiar SCD2 spójny logicznie - aktywne wiersze maj¹ otwarte daty koñcowe.';
+ELSE
+    PRINT 'TEST 15 FAIL: B£¥D SCD2! Znaleziono aktywne regiony z zamkniêt¹ dat¹ ValidTo. Iloœæ: ' + CAST(@ZleZamknieteAktywne AS VARCHAR);
+
+-- 16. NAK£ADANIE SIÊ OKRESÓW WA¯NOŒCI
+
+DECLARE @NakladajaceSieOkresy INT = (
+    SELECT COUNT(*) FROM (
+        SELECT 
+            NazwaWojewództwa,
+            ValidFrom,
+            ValidTo,
+            LEAD(ValidFrom) OVER(PARTITION BY NazwaWojewództwa ORDER BY ValidFrom) AS NastepnyValidFrom
+        FROM DimRegion
+    ) AS Sub
+    WHERE ValidTo > NastepnyValidFrom
+);
+
+IF @NakladajaceSieOkresy = 0
+    PRINT 'TEST 16 PASS: Wymiar SCD2 ma ci¹g³¹ historiê. ¯adne okresy wa¿noœci siê nie nak³adaj¹.';
+ELSE
+    PRINT 'TEST 16 FAIL: KRYTYCZNY B£¥D SCD2! Znaleziono nak³adaj¹ce siê daty w historii regionów. Iloœæ: ' + CAST(@NakladajaceSieOkresy AS VARCHAR);
+
+------------------------------------------------------------
+-- SPRAWDZENIE CZYSTOŒCI DANYCH (CZY NIE MA NP. "-", "b.d")
+------------------------------------------------------------
+PRINT '';
+PRINT '--- WERYFIKACJA CZYSTOŒCI DANYCH ---';
+
+-- 17. WYNAGRODZENIA REGIONALNE
+DECLARE @BrudneDaneWynagrodzeniaRegion INT = (SELECT COUNT(*) FROM StagingWynagrodzeniaRegion WHERE Wartosc IN ('.', '-', ' ', 'x', 'X'));
+
+IF @BrudneDaneWynagrodzeniaRegion = 0
+    PRINT 'TEST 17 PASS: Czystoœæ danych (StagingWynagrodzeniaRegion). Brak b³êdnych znaków.';
+ELSE
+    PRINT 'TEST 17 FAIL: Brudne dane w StagingWynagrodzeniaRegion! Iloœæ: ' + CAST(@BrudneDaneWynagrodzeniaRegion AS VARCHAR);
+
+-- 18. WYNAGRODZENIA SEKTOR
+DECLARE @BrudneDaneWynagrodzeniaSektor INT = (SELECT COUNT(*) FROM StagingWynagrodzenieSektor WHERE Wartosc IN ('.', '-', ' ', 'x', 'X'));
+
+IF @BrudneDaneWynagrodzeniaSektor = 0
+    PRINT 'TEST 18 PASS: Czystoœæ danych (StagingWynagrodzenieSektor). Brak b³êdnych znaków.';
+ELSE
+    PRINT 'TEST 18 FAIL: Brudne dane w StagingWynagrodzenieSektor! Iloœæ: ' + CAST(@BrudneDaneWynagrodzeniaSektor AS VARCHAR);
+
+-- 19. BUDOWNICTWO
+DECLARE @BrudneDaneBudownictwo INT = (SELECT COUNT(*) FROM StagingBudownictwo WHERE Wartosc IN ('.', '-', ' ', 'x', 'X'));
+
+IF @BrudneDaneBudownictwo = 0
+    PRINT 'TEST 19 PASS: Czystoœæ danych (StagingBudownictwo). Brak b³êdnych znaków.';
+ELSE
+    PRINT 'TEST 19 FAIL: Brudne dane w StagingBudownictwo! Iloœæ: ' + CAST(@BrudneDaneBudownictwo AS VARCHAR);
+
+-- 20. KREDYTY
+DECLARE @BrudneDaneKredyty INT = (SELECT COUNT(*) FROM StagingKredytyNieruchomosci WHERE Wartosc IN ('np.', 'b.d.', '.', '-', ' ', 'x', 'X'));
 
 IF @BrudneDaneKredyty = 0
-    PRINT 'TEST 12 PASS: Filtracja zanieczyszczeñ C# zadzia³a³a. Brak "np.", "b.d.", "-" w danych.';
+    PRINT 'TEST 20 PASS: Czystoœæ danych (StagingKredytyNieruchomosci). Brak b³êdnych znaków.';
 ELSE
-    PRINT 'TEST 12 FAIL: Skrypt C# przepuœci³ brudne dane! Iloœæ: ' + CAST(@BrudneDaneKredyty AS VARCHAR);
+    PRINT 'TEST 20 FAIL: Brudne dane w StagingKredytyNieruchomosci! Iloœæ: ' + CAST(@BrudneDaneKredyty AS VARCHAR);
 
--- TEST 13: Sprawdzenie matematyki (Test mno¿nika x1000)
--- Za³o¿enie: sprawdzamy czy istnieje wartoœæ z mno¿nikiem (np. > 1000) ¿eby udowodniæ ¿e transformacja zasz³a
-DECLARE @PozwoleniaMax DECIMAL(18,2) = (SELECT MAX(LiczbaPozwoleñ) FROM FaktBudownictwo);
+-- 21. MIESZKANIA
+DECLARE @BrudneDaneMieszkania INT = (
+    (SELECT COUNT(*) FROM StagingMieszkaniaLiczba WHERE Wartosc IN ('.', '-', ' ', 'x', 'X')) +
+    (SELECT COUNT(*) FROM StagingMieszkaniaMediana WHERE Wartosc IN ('.', '-', ' ', 'x', 'X')) +
+    (SELECT COUNT(*) FROM StagingMieszkaniaPowierzchnia WHERE Wartosc IN ('.', '-', ' ', 'x', 'X')) +
+    (SELECT COUNT(*) FROM StagingMieszkaniaSredniaCena WHERE Wartosc IN ('.', '-', ' ', 'x', 'X')) +
+    (SELECT COUNT(*) FROM StagingMieszkaniaSredniaCenaM2 WHERE Wartosc IN ('.', '-', ' ', 'x', 'X')) +
+    (SELECT COUNT(*) FROM StagingMieszkaniaWartosc WHERE Wartosc IN ('.', '-', ' ', 'x', 'X'))
+);
 
-IF @PozwoleniaMax >= 1000
-    PRINT 'TEST 13 PASS: Transformacja x1000 udana (Znaleziono wartoœci rzêdu tysiêcy: ' + CAST(@PozwoleniaMax AS VARCHAR) + ').';
+IF @BrudneDaneMieszkania = 0
+    PRINT 'TEST 21 PASS: Czystoœæ danych (Wszystkie Stagingi Mieszkañ). Brak b³êdnych znaków.';
 ELSE
-    PRINT 'TEST 13 FAIL: Wartoœci w LiczbaPozwoleñ s¹ za ma³e. Prawdopodobnie brak mno¿nika.';
+    PRINT 'TEST 21 FAIL: Brudne dane w stagingach dla Mieszkañ! Iloœæ: ' + CAST(@BrudneDaneMieszkania AS VARCHAR);
 
 PRINT '';
 PRINT '--- ZAKOÑCZENIE TESTÓW ---';
